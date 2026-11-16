@@ -122,3 +122,4 @@ def annotate(events: list[dict]) -> dict:
                 e[f"dist_{n}"] = max(1, round(km))
         e["dist_approx"] = places[key][1]
     return {n: REFS[n][1] for n in names}
+# uruchomienie z sekretami REF_A/REF_B
