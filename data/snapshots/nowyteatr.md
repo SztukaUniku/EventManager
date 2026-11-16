@@ -192,7 +192,7 @@ Muzyka / Dla rodzin
 16.00
 Teatr wojny. Teatr po wojnie. Teatr przed wojną – debata
 Spotkania
-!!! 152
+!!! 153
 19.00
 [Kup bilet](https://bilety.nowyteatr.org/numerowane.html?id=3116&idt=5248db7220ada0ea772fdae841e56161)
 GAIA-24. Opera del Mondo
