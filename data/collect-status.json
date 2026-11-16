@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-16T22:27+01:00",
+ "collected_at": "2026-11-16T22:31+01:00",
  "sources": [
   {
    "id": "kulturalnie",
@@ -25,8 +25,8 @@
    ],
    "ok": true,
    "events": 54,
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": null
   },
   {
@@ -35,11 +35,7 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://waw4free.pl/",
-     "ok": true
-    },
-    {
-     "url": "https://waw4free.pl/warszawa-darmowe-teatr",
+     "url": "https://waw4free.pl/warszawa-darmowe-koncerty",
      "ok": true
     },
     {
@@ -47,15 +43,39 @@
      "ok": true
     },
     {
+     "url": "https://waw4free.pl/warszawa-darmowe-teatr",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-standup",
+     "ok": true
+    },
+    {
      "url": "https://waw4free.pl/warszawa-darmowe-wystawy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-spotkania",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-wyklady",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-filmy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-warsztaty",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 57307,
-   "hash": "67d2c7cc6533131f",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 194937,
+   "hash": "00fae98995269137",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -71,9 +91,9 @@
    "ok": true,
    "chars": 30049,
    "hash": "4c2f5a023765cbb3",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
+   "changed": false
   },
   {
    "id": "alternatywy",
@@ -83,25 +103,13 @@
     {
      "url": "https://alternatywy.art/",
      "ok": true
-    },
-    {
-     "url": "https://alternatywy.art/?wydarzenia-kategoria=",
-     "ok": true
-    },
-    {
-     "url": "https://alternatywy.art/?wydarzenia-kategoria=cykle",
-     "ok": true
-    },
-    {
-     "url": "https://alternatywy.art/?wydarzenia-kategoria=filmy",
-     "ok": true
     }
    ],
    "ok": true,
-   "chars": 58471,
-   "hash": "cff3d00e715b2098",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 19282,
+   "hash": "551b7518ebcd1751",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -111,8 +119,8 @@
    "pages": [],
    "ok": true,
    "events": 39,
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": null
   },
   {
@@ -122,8 +130,8 @@
    "pages": [],
    "ok": true,
    "events": 16,
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": null
   },
   {
@@ -133,8 +141,8 @@
    "pages": [],
    "ok": true,
    "events": 89,
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": null
   },
   {
@@ -143,27 +151,19 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://nowyteatr.org/pl/kalendarz",
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30",
      "ok": true
     },
     {
-     "url": "https://nowyteatr.org/pl/program",
-     "ok": true
-    },
-    {
-     "url": "https://nowyteatr.org/en/kalendarz?setlang=true",
-     "ok": true
-    },
-    {
-     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-10-01&date_to=2026-10-31",
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-12-01&date_to=2026-12-31",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 8287,
-   "hash": "70dccc60757d03d7",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 7944,
+   "hash": "1ac194a18f435405",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -174,29 +174,13 @@
     {
      "url": "https://dkkadr.waw.pl/repertuar/",
      "ok": true
-    },
-    {
-     "url": "https://dkkadr.waw.pl/",
-     "ok": true
-    },
-    {
-     "url": "https://dkkadr.waw.pl/repertuar/niechec/",
-     "ok": true
-    },
-    {
-     "url": "https://dkkadr.waw.pl/repertuar/botswana/",
-     "ok": true
-    },
-    {
-     "url": "https://dkkadr.waw.pl/repertuar/vatzlav-2/",
-     "ok": true
     }
    ],
    "ok": true,
-   "chars": 17627,
-   "hash": "209f6ca54a45ce26",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 10099,
+   "hash": "800c2d55d0c1f8fc",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -205,31 +189,15 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://sdk.waw.pl/wydarzenia",
-     "ok": true
-    },
-    {
-     "url": "https://sdk.waw.pl/",
-     "ok": true
-    },
-    {
-     "url": "https://sdk.waw.pl/ekologia-rozwijane/aktualnosci-dom-ekologii",
-     "ok": true
-    },
-    {
-     "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dzieci",
-     "ok": true
-    },
-    {
      "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 54110,
-   "hash": "e0ff9382d9076ac6",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 15085,
+   "hash": "ef094c7e653d8acb",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -244,21 +212,13 @@
     {
      "url": "https://domsztuki.art.pl/kino",
      "ok": true
-    },
-    {
-     "url": "https://domsztuki.art.pl/kalendarz",
-     "ok": true
-    },
-    {
-     "url": "https://domsztuki.art.pl/wydarzenia/61-potancowka-dla-seniorow",
-     "ok": true
     }
    ],
    "ok": true,
-   "chars": 10798,
-   "hash": "5608ab32128fb51d",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 9217,
+   "hash": "7156dbec3c05b771",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -267,19 +227,15 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://dks.art.pl/",
-     "ok": true
-    },
-    {
      "url": "https://dks.art.pl/wydarzenia",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 24323,
-   "hash": "6ef1706a061f58d7",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 11887,
+   "hash": "0ebc7f7a878a6037",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -288,27 +244,19 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://teatrstudio.pl/",
-     "ok": true
-    },
-    {
-     "url": "https://teatrstudio.pl/pl/repertuar",
-     "ok": true
-    },
-    {
-     "url": "https://teatrstudio.pl/pl/edukacja/",
-     "ok": true
-    },
-    {
      "url": "https://teatrstudio.pl/pl/repertuar/",
+     "ok": true
+    },
+    {
+     "url": "https://teatrstudio.pl/",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 56251,
-   "hash": "a96c22b5114f1700",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 24034,
+   "hash": "4961f9df79afefc6",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -317,27 +265,19 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://artmuseum.pl/",
-     "ok": true
-    },
-    {
      "url": "https://artmuseum.pl/program",
      "ok": true
     },
     {
      "url": "https://artmuseum.pl/wystawy-aktualne",
      "ok": true
-    },
-    {
-     "url": "https://artmuseum.pl/wydarzenia/masayume",
-     "ok": true
     }
    ],
    "ok": true,
-   "chars": 19478,
-   "hash": "7e1f22a6f90501af",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 11955,
+   "hash": "111e1eeb8e0f9175",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   },
   {
@@ -346,27 +286,15 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://filharmonia.pl/",
-     "ok": true
-    },
-    {
      "url": "https://filharmonia.pl/repertuar",
-     "ok": true
-    },
-    {
-     "url": "https://filharmonia.pl/repertuar,ts:1790812800",
-     "ok": true
-    },
-    {
-     "url": "https://filharmonia.pl/repertuar,ts:1796083200",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 17622,
-   "hash": "826c51a2da0b3c87",
-   "checked_at": "2026-11-16T22:27+01:00",
-   "last_ok_at": "2026-11-16T22:27+01:00",
+   "chars": 4247,
+   "hash": "d93d3cf250be0b2d",
+   "checked_at": "2026-11-16T22:31+01:00",
+   "last_ok_at": "2026-11-16T22:31+01:00",
    "changed": true
   }
  ]

@@ -1,41 +1,3 @@
-=== STRONA: https://artmuseum.pl/
-[T_GO_TO_CONTENT](https://artmuseum.pl/#content)
-[Kup bilet](https://sklep.artmuseum.pl/rezerwacja/wydarzenie.html)
-10
-16.10.2026–28.02.2027
-RZEŹBA PO STABILNOŚCI
-[Czytaj więcej](https://artmuseum.pl/wystawy/rzezba-po-stabilnosci)
-[Muzeum nieczynne](https://artmuseum.pl/wizyta)
-Teraz w Muzeum
-[Cały program](https://artmuseum.pl/program)
-[Wystawa 26.06.2026–10.01.2027 JESTEŚ W SERCU ZMIAN. SURREALIZM I ANTYFASZYZM](https://artmuseum.pl/wystawy/jestes-w-sercu-zmian-surrealizm-i-antyfaszyzm)
-[Wystawa 31.07.2026–14.03.2027 EDWARD DWURNIK. DUMA I WSTYD](https://artmuseum.pl/wystawy/edward-dwurnik-duma-i-wstyd)
-[Wystawa 16.10.2026–14.03.2027 RZEŹBA PO STABILNOŚCI](https://artmuseum.pl/wystawy/rzezba-po-stabilnosci)
-[Wystawa 26.06.2026–10.01.2027 DROGI CZARNYCH WKRACZAJĄ W BIAŁY LĄD](https://artmuseum.pl/wystawy/drogi-czarnych-wkraczaja-w-bialy-lad)
-[Wystawa 31.07.2026–14.03.2027 PATRYK RÓŻYCKI. TRANSFORMACJA](https://artmuseum.pl/wystawy/patryk-rozycki-transformacja)
-[Wystawa 12.09.2026–10.01.2027 ADAM KOZICKI. WOJNA WSZYSTKICH ZE WSZYSTKIMI](https://artmuseum.pl/wystawy/adam-kozicki-wojna-wszystkich-ze-wszystkimi)
-[Wystawa 18.09.2026–16.03.2027 VALIE EXPORT. SOBOWTÓRKA](https://artmuseum.pl/wystawy/valie-export-sobowtorka)
-[Film 16.11.2026 Szepty księżyca](https://artmuseum.pl/wydarzenia/szepty-ksiezyca) [add Bilety](https://sklep.artmuseum.pl/rezerwacja/termin.html?idw=1575)
-[Film 16.11.2026 Masayume](https://artmuseum.pl/wydarzenia/masayume) [add Bilety](https://sklep.artmuseum.pl/rezerwacja/termin.html?idw=1568)
-[Cały program](https://artmuseum.pl/program)
-[„Sezon na rzeźbę”! Tej jesieni Warszawa stanie się jednym z najważniejszych europejskich ośrodków prezentacji współczesnej rzeźby. Rzeźba wyjdzie w przestrzeń miasta, pojawi się w muzeach i galeriach, a nowe realizacje powstaną specjalnie z myślą o stolicy. Czytaj więcej](https://artmuseum.pl/aktualnosci/sezon-na-rzezbe)
-[Plany wystawiennicze Muzeum Sztuki Nowoczesnej w Warszawie Sprawdź, czego możesz spodziewać się w MSN-ie przez kolejny rok Przeczytaj także list do publiczności od Joanny Mytkowskiej, dyrektorki Muzeum Czytaj więcej](https://artmuseum.pl/plany-wystawiennicze-muzeum-sztuki-nowoczesnej-w-warszawie)
-Aktualności
-View all (8)
-[28.10.2026 „Raj” Pawła Althamera znów rozkwitnie! Nowe nasadzenia w Parku Rzeźby na Bródnie.](https://artmuseum.pl/aktualnosci/raj-pawla-althamera-znow-rozkwitnie)
-[Ogłoszenie 27.10.2026 Palma przygotowuje się do 25-lecia Palma Joanny Rajkowskiej na rondzie de Gaulle’a zyskuje nową oprawę i przechodzi prace konserwatorskie.](https://artmuseum.pl/aktualnosci/palma-przygotowuje-sie-do-25-lecia)
-[Ogłoszenie 26.10.2026 Asystentki i Asystenci Wizyty Ogłaszamy wprowadzenie stałej usługi asystenckiej – dedykowanych oprowadzań i spotkań merytorycznych w formie mikro- oraz makronarracji, prowadzonych przez Asystentki i Asystentów Wizyty](https://artmuseum.pl/aktualnosci/asystentki-i-asystenci-wizyty)
-[14.10.2026 Weekend ze współczesną rzeźbą: MSN x Zachęta Weekend ze współczesną rzeźbą. I bilety w specjalnej cenie 20 zł!](https://artmuseum.pl/aktualnosci/weekend-ze-wspolczesna-rzezba-msn-x-zacheta)
-Magazyn MSN
-[Więcej artykułów](https://artmuseum.pl/magazyn-msn)
-[Niezłomne trwanie, radykalna wyobraźnia Przemowa Julie Mehretu podczas uroczystości wręczenia dyplomów absolwentom Rhode Island School of Design w 2026 roku (fot. Jo Sittenfeld, dzięki uprzejmości RISD) 10.08.2026](https://artmuseum.pl/magazyn/niezlomne-trwanie-radykalna-wyobraznia)
-[DZIENNIK KRĄŻENIA JUNE CRESPO Publikacja towarzyszyła wystawie indywidualnej „June Crespo: Vascular” [June Crespo. Krążenie] w Muzeum Guggenheima w Bilbao. Wybrane fragmenty dostarczają kontekstu wystawie „Rzeźba po stabilności” w Muzeum Sztuki Nowoczesnej w Warszawie. DZIENNIK 15.10.2026](https://artmuseum.pl/magazyn/dziennik-krazenia-june-crespo)
-[Planeta Piniak. Literackie wymiary twórczości Piniaka Przemysława Gdyby zebrać wszystkie teksty Piniaka – kilkanaście opowiadań, jeden dramat, kilka scenariuszy filmów, słuchowisk i „gadanych” performansów, rozproszone notatki i spisane sny – wyszłaby nam z tego średniej grubości książka. Książka nieistniejąca, potencjalna. Za życia artysty nic takiego nie powstało. 13.08.2026](https://artmuseum.pl/magazyn/planeta-piniak-literackie-wymiary-tworczosci-piniaka-przemyslawa)
-[Biuro Ewidencji Masek Obiekty afrykańskie w polskich przestrzeniach domowych, 1960–1990 12.06.2026](https://artmuseum.pl/magazyn/biuro-ewidencji-masek)
-[Etyczne wybory surrealistów Wielkim nieobecnym wystawy jest Salvador Dalí. To on utrwalił w zbiorowej wyobraźni obraz surrealizmu jako sennej wizji, freudowskiego rebusu przedstawionego z niemal fotograficzną dosłownością. Takiego surrealizmu na wystawie „Jesteś w sercu zmian” oglądamy stosunkowo niewiele. Przedmiotem jej zainteresowania nie jest bowiem styl, nie jest nim też nawet kierunek artystyczny rozumiany w ścisłym sensie. Chodzi raczej o pewną postawę. Esej 11.06.2026](https://artmuseum.pl/magazyn/etyczne-wybory-surrealistow)
-[Więcej artykułów](https://artmuseum.pl/magazyn-msn)
-[Wydawnictwo MSN Wydajemy książki o sztuce i kulturze współczesnej oraz katalogi wystaw. Rozwijamy kilka linii wydawniczych m.in. mówi muzeum, kino muzeum, Muzeum w Budowie . Czytaj więcej](https://artmuseum.pl/wydawnictwo) [Towarzystwo Przyjaciół MSN Towarzystwo Przyjaciół MSN prowadzi działania na rzecz Muzeum Sztuki Nowoczesnej w Warszawie. Czytaj więcej](https://artmuseum.pl/towarzystwo-przyjaciol-muzeum)
-
 === STRONA: https://artmuseum.pl/program
 [T_GO_TO_CONTENT](https://artmuseum.pl/program#content)
 Program
@@ -148,34 +110,3 @@ Wystawy przeszłe
 [Najpiękniejsze Polskie Książki 2025 16.07.2026–13.09.2026](https://artmuseum.pl/wystawy/najpiekniejsze-polskie-ksiazki-2025)
 [PINIAK PRZEMYSŁAW POSZŁO W PIĘTY 25.04.2026–23.08.2026](https://artmuseum.pl/wystawy/piniak-przemyslaw-poszlo-w-piety)
 [Zobacz wszystkie](https://artmuseum.pl/wystawy-przeszle)
-
-=== STRONA: https://artmuseum.pl/wydarzenia/masayume
-[T_GO_TO_CONTENT](https://artmuseum.pl/wydarzenia/masayume#content)
-Program
-Film
-Masayume
-film i spotkanie
-16.11.2026 20:15
-[Bilety](https://sklep.artmuseum.pl/rezerwacja/termin.html?idw=1568)
-Rok produkcji
-2026
-Kraj produkcji
-Japonia
-Reżyseria
-Nao Yoshigai
-Czas trwania
-110
-Język
-japoński, napisy polskie i angielskie
-Po śmierci matki i przebyciu własnej choroby reżyserka i choreografka Nao Yoshigai wycofuje się z życia i w świątyni zen próbuje odzyskać równowagę po doświadczeniu kryzysu psychicznego i żałoby. Kierując kamerę na siebie, rejestruje najbardziej podstawowe czynności: jedzenie, sen, oddech, medytację. Dostrajając się do rytmu własnego ciała, zaczyna dostrzegać pierwsze przebłyski uzdrowienia – w ciele i umyśle stopniowo pojawiają się klarowność i odpuszczenie, podczas gdy życie wokół toczy się normalnym trybem.
-Nao Yoshigai najpierw sama przeszła buddyjskie odosobnienie, a następnie wróciła tam z kamerą, by odtworzyć to, czego doświadczyła na swojej duchowej drodze. Tak powstało Masayume – tytuł filmu po japońsku oznacza „sen, który spełnia się w rzeczywistości”. W istocie Masayume przypomina sen zrealizowany we vlogowej estetyce. Mieszając dokument z fikcją, Yoshigai tworzy osobliwy strumień świadomości, płynnie przechodzący między obserwacją codzienności, domowymi nagraniami i fotografią a zabawną animacją czy performansem. Reżyserka znajduje własną formę dla procesu zdrowienia – autorską, intermedialną choreografię obrazu, ciała i pamięci.
-grupa wiekowa: bez ograniczeń wiekowych
-[Łukasz Mańkowski]
-Zobacz także
-[Więcej](https://artmuseum.pl/wydarzenia/cykle/20-festiwal-filmow-azjatyckich-piec-smakow)
-[Film Idę z mnichem](https://artmuseum.pl/wydarzenia/ide-z-mnichem)
-Film Masayume
-[Film Matka Bhumi](https://artmuseum.pl/wydarzenia/matka-bhumi)
-[Więcej](https://artmuseum.pl/wydarzenia/cykle/20-festiwal-filmow-azjatyckich-piec-smakow)
-[Home](https://artmuseum.pl/) | [Program](https://artmuseum.pl/program) |
-Masayume

@@ -42,38 +42,3 @@ Filmy
 13
 [lis 17 wtorek 19:00 Andrzej Bukowiecki przedstawia Przekleństwa Niewinności 17 listopad, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/279-przeklenstwa-niewinnosci) [lis 18 środa 19:00 OSCAROWE ŚRODY Tajny Agent 18 listopad, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/274-tajny-agent) [lis 19 czwartek 19:00 Dyskusyjny Klub Filmowy Tony 19 listopad, godz. 19:00 Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/200-tony) [lis 20 piątek 16:30 Niesamowite przygody skarpetek 4. Do roboty! 20 listopad, godz. 16:30 reż. Mateusz Kmieć Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/394-niesamowite-przygody-skarpetek-4-do-roboty) [lis 20 piątek 18:00 Lalka (2026) 20 listopad, godz. 18:00 2026 Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/397-lalka-2026) [lis 22 niedziela 10:00 Niedzielne Poranki Niesamowite przygody skarpetek 3. Ale kosmos! 22 listopad, godz. 10:00 Wstęp wolny Pobierz wejściówkę Wstęp wolny Pobierz wejściówkę](https://domsztuki.art.pl/kino/seans/288-niesamowite-przygody-skarpetek-3-ale-kosmos) [lis 25 środa 19:00 OSCAROWE ŚRODY Kopnęłabym cię, gdybym mogła 25 listopad, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/275-kopnelabym-cie-gdybym-mogla) [gru 1 wtorek 19:00 Andrzej Bukowiecki przedstawia Windą na szafot 1 grudzień, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/280-winda-na-szafot) [gru 3 czwartek 19:00 Dyskusyjny Klub Filmowy Samson 3 grudzień, godz. 19:00 Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/201-samson) [gru 6 niedziela 10:00 Niedzielne Poranki Vincent. Legenda oceanu 6 grudzień, godz. 10:00 Wstęp wolny Pobierz wejściówkę Wstęp wolny Pobierz wejściówkę](https://domsztuki.art.pl/kino/seans/289-vincent-legenda-oceanu) [gru 7 poniedziałek 19:00 Kino Polskie Znaki Pana Śliwki 7 grudzień, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/283-znaki-pana-sliwki) [gru 9 środa 19:00 OSCAROWE ŚRODY Smashing Machine 9 grudzień, godz. 19:00 Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/276-smashing-machine) [gru 17 czwartek 19:00 Dyskusyjny Klub Filmowy Pejzaż w kolorze sepii 17 grudzień, godz. 19:00 Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/202-pejzaz-w-kolorze-sepii)
 ── Footer ───────────────────────────────────────────────────────────────
-
-=== STRONA: https://domsztuki.art.pl/kalendarz
-── Navigation ─────────────────────────────────────────────────────────── ── Page content ──────────────────────────────────────────────────────────
-Kalendarz wydarzeń
-Spektakle, koncerty, spotkania i wydarzenia kulturalne
-Skeleton filter pills
-Skeleton calendar grid
-Header row
-Pon
-Wt
-Sr
-Czw
-Pt
-Sob
-Nd
-Calendar rows
-Skeleton upcoming list
-Centered loader
-── Footer ───────────────────────────────────────────────────────────────
-
-=== STRONA: https://domsztuki.art.pl/wydarzenia/61-potancowka-dla-seniorow
-── Navigation ─────────────────────────────────────────────────────────── ── Page content ──────────────────────────────────────────────────────────
-Inne
-Potańcówka dla Seniorów
-21 listopada 2026 godz. 17:00
-Jeśli nie macie jeszcze planów na najbliższą sobotę i brakuje Wam rozrywki w życiu to Zapraszamy na wyjątkową Potańcówkę dla Seniorów ❤️. To doskonała okazja, żeby spotkać znajomych, poznać nowych ludzi, przypomnieć sobie ulubione przeboje lub po prostu świetnie się bawić!
-Nieważne, czy jesteście mistrzami parkietu, czy po prostu lubicie pobujać się w rytm muzyki – najważniejsze są chęci i dobry humor!
-Zabierzcie ze sobą przyjaciół, sąsiadów i dobry nastrój - nasz parkiet już na Was czeka! 🥳
-Gdzie? Dom Sztuki SMB „Jary”, ul. Wiolinowa 14
-Kiedy? 21.11.2026, 17:00-21:00
-WSTĘP 20 zł PŁATNE NA MIEJSCU
-Lightbox with zoom, drag, pinch-to-zoom. Triggers on any img[data-lb-src].
-100%
-Kolko myszy · przyciski +/- · przeciagnij · ESC aby zamknac
-── Footer ───────────────────────────────────────────────────────────────

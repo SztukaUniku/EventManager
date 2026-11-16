@@ -1,10 +1,10 @@
+https://filharmonia.pl/repertuar
 https://filharmonia.pl/
 https://filharmonia.pl/aktualnosci
 https://filharmonia.pl/o-nas/filharmonia
 https://filharmonia.pl/edukacja/o-edukacji
 https://filharmonia.pl/multimedia/polecane
-https://filharmonia.pl/en/
-https://filharmonia.pl/repertuar
+https://filharmonia.pl/en/repertuar
 https://filharmonia.pl/zaplanuj-wizyte/rezerwacje
 https://filharmonia.pl/sponsorzy-i-partnerzy/info
 https://filharmonia.pl/sponsorzy-i-partnerzy/klub-przyjaciol-fn
@@ -12,9 +12,6 @@ https://filharmonia.pl/praca-w-filharmonii
 https://filharmonia.pl/wynajem-sal
 https://filharmonia.pl/logowanie/dla-pracownikow
 https://filharmonia.pl/kontakt
-https://filharmonia.pl/repertuar/scena-muzyki-polskiej-wrona-chrzeszczyk
-https://filharmonia.pl/repertuar/folk-symfonicznie
-https://filharmonia.pl/aktualnosci/-dom-dla-muzyki-prof-malgorzaty-omilanowskiej
 https://filharmonia.pl/repertuar,ts:1790812800
 https://filharmonia.pl/repertuar,ts:1796083200
 https://filharmonia.pl/repertuar,ts:1792972800,te:1793059200
@@ -38,7 +35,9 @@ https://filharmonia.pl/repertuar/-o-czym-gramy-szymon-paczkowski-20261113
 https://filharmonia.pl/repertuar/koncert-oratoryjny-99656683
 https://filharmonia.pl/repertuar/koncert-oratoryjny-200593816
 https://filharmonia.pl/repertuar/koncert-kameralny-496843422
+https://filharmonia.pl/repertuar/scena-muzyki-polskiej-wrona-chrzeszczyk
 https://filharmonia.pl/repertuar/8-miedzynarodowy-festiwal-muzyki-nbsp-europy-srodkowo-wschodniej-eufonie-874109323
+https://filharmonia.pl/repertuar/folk-symfonicznie
 https://filharmonia.pl/repertuar,ts:1795132800,te:1795219200
 https://filharmonia.pl/repertuar/otwarta-proba-generalna-20261120
 https://filharmonia.pl/repertuar/-o-czym-gramy-piotr-maculewicz-20261120
@@ -67,9 +66,11 @@ https://filharmonia.pl/repertuar,ts:1796515200,te:1796601600
 https://filharmonia.pl/repertuar/grudniowe-zagadki
 https://filharmonia.pl/repertuar/grudniowe-zagadki-584112471
 https://filharmonia.pl/repertuar/-vivaldi-morricone-20261206
-https://filharmonia.pl/aktualnosci/wajnberg-3
-https://filharmonia.pl/aktualnosci/o-czym-gramy-
-https://filharmonia.pl/aktualnosci/koncerty-familijne-8-11-odwolane
+https://filharmonia.pl/repertuar?p=2
+https://filharmonia.pl/repertuar?p=3
+https://filharmonia.pl/repertuar?p=4
+https://filharmonia.pl/repertuar?p=5
+https://filharmonia.pl/repertuar?p=13
 https://filharmonia.pl/polityka-prywatnosci
 https://filharmonia.pl/informacje/deklaracja-dostepnosci
 https://filharmonia.pl/informacje/standardy-ochrony-maloletnich-w-filharmonii-narodowej
