@@ -1,5 +1,4 @@
 {
-"academy of fine arts museum|": null,
 "adam mickiewicz museum of literature|": [
 52.2502252,
 21.0123863,
@@ -10,10 +9,6 @@ false
 21.0368378,
 false
 ],
-"backstreet bar warszawa|": null,
-"beerstation|ul zurawia 22 warszawa": null,
-"central history stop centralny przystanek historia ipn|": null,
-"centralny przystanek historia ipn im prezydenta lecha kaczynskiego|": null,
 "centrum lowicka|": [
 52.2000896,
 21.0051259,
@@ -39,7 +34,6 @@ false
 21.0167091,
 false
 ],
-"dom sztuki smb jary ul wiolinowa 14|": null,
 "dworzec kultura|dworcowa 9 05 500 piaseczno": [
 52.0670339,
 21.017369,
@@ -50,9 +44,21 @@ false
 21.0027696,
 false
 ],
-"filharmonia narodowa kosciol ewangelicko augsburski swietej|": null,
-"filharmonia narodowa sala kameralna|": null,
-"filharmonia narodowa sala koncertowa|": null,
+"filharmonia narodowa kosciol ewangelicko augsburski swietej|": [
+52.2344112,
+21.011251,
+false
+],
+"filharmonia narodowa sala kameralna|": [
+52.2344112,
+21.011251,
+false
+],
+"filharmonia narodowa sala koncertowa|": [
+52.2344112,
+21.011251,
+false
+],
 "fort institute of photography|": [
 52.1944431,
 20.9964115,
@@ -98,13 +104,11 @@ false
 21.0089838,
 false
 ],
-"museum of the tenth pavilion of the warsaw citadel|": null,
 "museum of warsaw|": [
 52.2403663,
 21.0168882,
 false
 ],
-"muzeum akademii sztuk pieknych w warszawie|": null,
 "muzeum azji i pacyfiku im andrzeja wawrzyniaka|": [
 52.2333984,
 21.0368378,
@@ -130,7 +134,6 @@ false
 21.0247708,
 false
 ],
-"muzeum szkoly glownej gospodarstwa wiejskiego|": null,
 "muzeum sztuki nowoczesnej w warszawie|": [
 52.2331288,
 21.0089838,
@@ -141,7 +144,6 @@ false
 21.0089838,
 false
 ],
-"muzeum warszawskiej pragi oddzial muzeum warszawy|": null,
 "muzeum warszawy|": [
 52.2499728,
 21.0113893,
@@ -152,7 +154,6 @@ false
 20.9897384,
 false
 ],
-"muzeum x pawilonu cytadeli warszawskiej|": null,
 "national museum in warsaw|": [
 52.2316938,
 21.0247708,
@@ -163,13 +164,21 @@ false
 21.0551825,
 false
 ],
-"nowy teatr ul madalinskiego 10 16|": null,
+"nowy teatr ul madalinskiego 10 16|": [
+52.2054285,
+21.0192031,
+false
+],
 "palac w wilanowie|": [
 52.1650986,
 21.090469,
 false
 ],
-"piaseczno ul okrezna 36|": null,
+"piaseczno ul okrezna 36|": [
+52.0872188,
+21.0228308,
+false
+],
 "polish history museum in warsaw|": [
 52.2650194,
 21.0009851,
@@ -200,14 +209,21 @@ false
 21.0277445,
 false
 ],
-"sluzewski dom kultury ul bacha 15|": null,
+"sluzewski dom kultury ul bacha 15|": [
+52.1684179,
+21.0249203,
+false
+],
 "state ethnographic museum|": [
 52.2381491,
 21.0121665,
 false
 ],
-"strefa plastyki|ul jana pawla ii 55 05 500 piaseczno": null,
-"teatr studio palac kultury i nauki|": null,
+"teatr studio palac kultury i nauki|": [
+52.2326368,
+21.0067376,
+false
+],
 "terminal kultury goclaw|": [
 52.2315624,
 21.0933124,
@@ -233,8 +249,6 @@ false
 21.0307378,
 false
 ],
-"ul sierakowskiego 11|ul sierakowskiego 11 piaseczno": null,
-"warsaw archdiocese museum|": null,
 "warsaw university of life sciences museum|": [
 52.1638246,
 21.0444657,

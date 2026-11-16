@@ -8,6 +8,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące koncerty w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -296,7 +297,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
 [🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
@@ -310,7 +311,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące imprezy w Warszawie
 polecane!
 [Mecz Polonia Warszawa – Stal Mielec | 115-lecie Polonii Warszawa](https://waw4free.pl/wydarzenie-161789-mecz-polonia-warszawa-stal-mielec-115-lecie-polonii-warszawa)
@@ -492,8 +492,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-teatr
@@ -506,6 +506,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące spektakle teatralne w Warszawie
 [Spektakl „Blamaż klimatyczny. Historia inspirowana Opowieścią Wigilijną" [godz. 9:30, 11:00 i 12:30]](https://waw4free.pl/wydarzenie-159844-spektakl-blamaz-klimatyczny-historia-inspirowana-opowiescia-wigilijna-godz-9-30-11-00-i-12-30)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
@@ -668,8 +669,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-standup
@@ -989,8 +990,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
-[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
+[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-spotkania
@@ -1003,6 +1004,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące spotkania w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -1348,7 +1350,7 @@ spotkanie
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [23.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-23) (poniedziałek), 17:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
-[BEZPŁATNY KLUB DYSKUSYJNY W JĘZYKU ANGIELSKIM // Discus
+[BEZPŁATNY KLUB DYSKUSYJNY W JĘZYKU ANGIELSKI
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wyklady
 Darmowe
@@ -1703,7 +1705,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące pokazy filmowe w Warszawie
 [„Andrzej Bukowiecki przedstawia” – spotkania z klasyką kina: „Przekleństwa niewinności”](https://waw4free.pl/wydarzenie-159714-andrzej-bukowiecki-przedstawia-spotkania-z-klasyka-kina-przeklenstwa-niewinnosci)
 film
@@ -1925,7 +1926,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
 [🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
