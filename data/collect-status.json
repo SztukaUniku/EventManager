@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-16T23:18+01:00",
+ "collected_at": "2026-11-16T23:23+01:00",
  "sources": [
   {
    "id": "kulturalnie",
@@ -25,8 +25,8 @@
    ],
    "ok": true,
    "events": 54,
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": null
   },
   {
@@ -72,10 +72,10 @@
     }
    ],
    "ok": true,
-   "chars": 194904,
-   "hash": "9f9d8e4d0d5aeb57",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "chars": 194921,
+   "hash": "275d8f8dd0b88e19",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": true
   },
   {
@@ -95,8 +95,8 @@
    "ok": true,
    "chars": 60093,
    "hash": "c4c77aab3b873ce9",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -112,8 +112,8 @@
    "ok": true,
    "chars": 19282,
    "hash": "551b7518ebcd1751",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -123,8 +123,8 @@
    "pages": [],
    "ok": true,
    "events": 39,
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": null
   },
   {
@@ -134,8 +134,8 @@
    "pages": [],
    "ok": true,
    "events": 16,
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": null
   },
   {
@@ -145,8 +145,8 @@
    "pages": [],
    "ok": true,
    "events": 89,
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": null
   },
   {
@@ -165,9 +165,9 @@
    ],
    "ok": true,
    "chars": 7944,
-   "hash": "08a4ff6c904b470f",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "hash": "6e38fa5238966bc7",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": true
   },
   {
@@ -183,8 +183,8 @@
    "ok": true,
    "chars": 10099,
    "hash": "800c2d55d0c1f8fc",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -200,8 +200,8 @@
    "ok": true,
    "chars": 15085,
    "hash": "ef094c7e653d8acb",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -217,8 +217,8 @@
    "ok": true,
    "chars": 4604,
    "hash": "13b0260c580ec834",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -236,11 +236,11 @@
     }
    ],
    "ok": true,
-   "chars": 24775,
-   "hash": "df828a92e62c8352",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
-   "changed": false
+   "chars": 24773,
+   "hash": "1fe4cd3741e15e39",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
+   "changed": true
   },
   {
    "id": "msn",
@@ -255,8 +255,8 @@
    "ok": true,
    "chars": 10424,
    "hash": "87402e0a029b521b",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   },
   {
@@ -272,8 +272,8 @@
    "ok": true,
    "chars": 4247,
    "hash": "d93d3cf250be0b2d",
-   "checked_at": "2026-11-16T23:18+01:00",
-   "last_ok_at": "2026-11-16T23:18+01:00",
+   "checked_at": "2026-11-16T23:23+01:00",
+   "last_ok_at": "2026-11-16T23:23+01:00",
    "changed": false
   }
  ]

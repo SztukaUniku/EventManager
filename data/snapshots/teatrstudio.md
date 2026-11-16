@@ -227,7 +227,7 @@ Piątek
 G. 19:00 / GRANY PO RAZ 1
 [Sukcesja](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/)
 SPEKTAKL
-PREMIERA [Bilety wyprzedane](https://bilety.teatrstudio.pl/numerowane.html?ter_id=4001&ter_idt=2272233a3c1adc452fcf2c64eae54523)
+PREMIERA [Ostatnie bilety](https://bilety.teatrstudio.pl/numerowane.html?ter_id=4001&ter_idt=2272233a3c1adc452fcf2c64eae54523)
 G. 10:00
 [Dekonstrukcja pudełka](https://teatrstudio.pl/pl/edukacja/dekonstrukcja-pudelka/)
 EDUKACJA / Projekt Społeczny
