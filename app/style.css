@@ -6,6 +6,7 @@
   --muted: #59665F;
   --line: #DCE2DC;
   --accent: #1D5C47;
+  --wk: #C2410C; --wk-ink: #9A3412;
   --accent-ink: #FFFFFF;
   --pop: #C6F432;
   --pop-ink: #12201A;
@@ -24,7 +25,7 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0E1411; --surface: #161E1A; --ink: #E8EEE9; --muted: #98A69E; --line: #26312B;
-    --accent: #8FD9B8; --accent-ink: #0E1411; --pop: #C6F432; --pop-ink: #12201A;
+    --accent: #8FD9B8; --accent-ink: #0E1411; --wk: #FB923C; --wk-ink: #FDBA74; --pop: #C6F432; --pop-ink: #12201A;
     --free-bg: #1D3519; --free-ink: #B6E99A; --paid-bg: #2E2816; --paid-ink: #E9D39A;
     --check-bg: #2B2611; --check-line: #5C4F1F; --danger: #FF8E78;
     --shadow: none; color-scheme: dark;
@@ -32,7 +33,7 @@
 }
 :root[data-theme="dark"] {
     --bg: #0E1411; --surface: #161E1A; --ink: #E8EEE9; --muted: #98A69E; --line: #26312B;
-    --accent: #8FD9B8; --accent-ink: #0E1411; --pop: #C6F432; --pop-ink: #12201A;
+    --accent: #8FD9B8; --accent-ink: #0E1411; --wk: #FB923C; --wk-ink: #FDBA74; --pop: #C6F432; --pop-ink: #12201A;
     --free-bg: #1D3519; --free-ink: #B6E99A; --paid-bg: #2E2816; --paid-ink: #E9D39A;
     --check-bg: #2B2611; --check-line: #5C4F1F; --danger: #FF8E78;
     --shadow: none; color-scheme: dark;
@@ -154,3 +155,8 @@ textarea { min-height: 120px; font-size: 13px; }
   .card-main { grid-template-columns: 64px minmax(0, 1fr); }
   dialog.sheet { margin: auto; border-radius: 20px; }
 }
+
+/* weekend: wyraźniejszy nagłówek dnia */
+.day.weekend .day-h { color: var(--wk-ink); }
+.day.weekend .day-h::before { content: ""; width: 4px; align-self: stretch; border-radius: 2px; background: var(--wk); }
+.day.weekend .card { border-left: 3px solid var(--wk); }

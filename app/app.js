@@ -8,7 +8,7 @@
   const UI_KEY = "em-ui-v1";
   const DAY_NAMES = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
   const MONTHS = ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"];
-  const CAT_ORDER = ["Koncerty", "Imprezy i taniec", "Teatr i performans", "Film", "Wystawy", "Spotkania i wykłady", "Warsztaty", "Inne"];
+  const CAT_ORDER = ["Koncerty", "Imprezy i taniec", "Teatr i performans", "Stand-up", "Film", "Wystawy", "Spotkania i wykłady", "Warsztaty", "Inne"];
 
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -43,9 +43,8 @@
   function parts(iso) { const [y, m, d] = iso.split("-").map(Number); return { y, m, d, dow: new Date(y, m - 1, d).getDay() }; }
   function dayLabel(iso) {
     const p = parts(iso);
-    const t = todayISO();
-    const rel = iso === t ? "Dziś" : iso === addDays(t, 1) ? "Jutro" : DAY_NAMES[p.dow];
-    return { name: rel, date: `${p.d} ${MONTHS[p.m - 1]}` };
+    const n = DAY_NAMES[p.dow];
+    return { name: n.charAt(0).toUpperCase() + n.slice(1), date: `${p.d} ${MONTHS[p.m - 1]}` };
   }
   function shortDate(iso) { const p = parts(iso); return `${p.d}.${String(p.m).padStart(2, "0")}`; }
 
@@ -148,8 +147,8 @@
         if (day) html += "</section>";
         day = e.date;
         const l = dayLabel(e.date);
-        const off = e.day_off && !["sobota", "niedziela"].includes(e.day_off) ? `<span class="off">${esc(e.day_off)}</span>` : (e.day_off ? `<span class="off">weekend</span>` : "");
-        html += `<section class="day"><h2 class="day-h">${esc(l.name)} <span class="date">${esc(l.date)}</span>${off}</h2>`;
+        const off = e.day_off && !["sobota", "niedziela"].includes(e.day_off) ? `<span class="off">${esc(e.day_off)}</span>` : "";
+        html += `<section class="day${e.day_off ? " weekend" : ""}"><h2 class="day-h">${esc(l.name)} <span class="date">${esc(l.date)}</span>${off}</h2>`;
       }
       html += card(e, ui.hidden);
     });
@@ -173,9 +172,10 @@
     const open = state.open.has(e.id);
     const time = e.ongoing ? `<div class="time none">do ${esc(shortDate(e.date_to))}</div>` : e.time ? `<div class="time">${esc(e.time)}</div>` : `<div class="time none">godz. ?</div>`;
     const where = [e.venue, e.area && e.area !== e.venue ? e.area : ""].filter(Boolean).join(" · ");
-    const price = e.price ? `<span class="badge ${e.free ? "free" : "paid"}">${esc(e.price)}</span>` : `<span class="badge">cena: sprawdź</span>`;
+    const price = e.price ? `<span class="badge ${e.free ? "free" : "paid"}">${esc(e.price)}</span>` : `<span class="badge">cena: sprawdź na stronie</span>`;
     const lgbt = (e.tags || []).includes("LGBT+") ? `<span class="badge lgbt">LGBT+</span>` : "";
     let more = "";
+    const evUrl = e.url || sourceUrl(e.source);
     if (open) {
       const rule = isHidden ? hiddenBy(e) : null;
       more = `<div class="more">
@@ -184,12 +184,12 @@
         <p><span class="lbl">Jak wziąć udział:</span> ${esc(e.how || "Szczegóły i bilety na stronie wydarzenia.")}</p>
         ${e.note ? `<p class="src">${esc(e.note)}</p>` : ""}
         <div class="actions">
-          ${e.url ? `<a class="btn primary" href="${esc(e.url)}" target="_blank" rel="noopener">Strona wydarzenia</a>` : ""}
+          ${evUrl ? `<a class="btn primary" href="${esc(evUrl)}" target="_blank" rel="noopener">Strona wydarzenia</a>` : ""}
           ${e.ticket_url && e.ticket_url !== e.url ? `<a class="btn" href="${esc(e.ticket_url)}" target="_blank" rel="noopener">Bilety / zapisy</a>` : ""}
-          ${!e.ongoing ? `<a class="btn" href="${esc(calendarLink(e))}" target="_blank" rel="noopener">Dodaj do kalendarza</a>` : ""}
+          <a class="btn" href="${esc(calendarLink(e))}" target="_blank" rel="noopener">Dodaj do kalendarza</a>
           ${rule ? `<button type="button" class="btn" data-unhide="${esc(rule.id)}">Pokaż znowu</button>` : `<button type="button" class="btn nope" data-nope="${esc(e.id)}">Nie dla mnie</button>`}
         </div>
-        <p class="src">Źródło: ${esc(e.source_name)}${(e.also || []).map((a) => ` · też: <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source_name)}</a>`).join("")}${rule ? ` · ukryte: ${esc(rule.label)}` : ""}</p>
+        ${rule ? `<p class="src">Ukryte: ${esc(rule.label)}</p>` : ""}
       </div>`;
     }
     return `<article class="card" id="e-${esc(e.id)}">
@@ -204,10 +204,17 @@
       </button>${more}</article>`;
   }
 
+  function sourceUrl(id) {
+    const s = ((state.sources && state.sources.sources) || []).find((x) => x.id === id);
+    return s ? s.url : "";
+  }
+
   function calendarLink(e) {
     const ymd = e.date.replace(/-/g, "");
     let dates;
-    if (e.time) {
+    if (e.ongoing && e.date_to) {
+      dates = `${ymd}/${addDays(e.date_to, 1).replace(/-/g, "")}`;   // wystawa: cały okres jako wydarzenie całodniowe
+    } else if (e.time) {
       const [h, m] = e.time.split(":").map(Number);
       const start = `${ymd}T${String(h).padStart(2, "0")}${String(m).padStart(2, "0")}00`;
       const endH = h + 2;
@@ -217,8 +224,9 @@
     } else {
       dates = `${ymd}/${addDays(e.date, 1).replace(/-/g, "")}`;
     }
-    const details = [e.description, e.price ? `Cena: ${e.price}` : "", e.how, e.url].filter(Boolean).join("\n\n");
-    const p = new URLSearchParams({ action: "TEMPLATE", text: e.title, dates, ctz: "Europe/Warsaw", details, location: [e.venue, e.address].filter(Boolean).join(", ") });
+    const details = [`Kategoria: ${e.category}`, e.time ? `Start: ${e.time}` : "", e.price ? `Cena: ${e.price}` : "", e.description, e.how, e.url || sourceUrl(e.source)].filter(Boolean).join("\n\n");
+    const loc = [e.venue, e.address || e.area].filter(Boolean).join(", ");
+    const p = new URLSearchParams({ action: "TEMPLATE", text: e.title, dates, ctz: "Europe/Warsaw", details, location: loc });
     return "https://calendar.google.com/calendar/render?" + p.toString();
   }
 

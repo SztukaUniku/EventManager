@@ -151,19 +151,24 @@ TAGS = [
     ("teatr", _rx([r"spektakl\w*", r"teatr\w*", r"monodram\w*", r"premiera"])),
     ("performans / taniec", _rx([r"performans\w*", r"performance", r"taniec współczesn\w*", r"choreograf\w*"])),
     ("wystawa", _rx([r"wystaw\w*", r"wernisaż\w*", r"finisaż\w*", r"ekspozycj\w*"])),
-    ("wykład / spotkanie", _rx([r"wykład\w*", r"spotkani\w*", r"rozmow\w*", r"dyskusj\w*", r"debat\w*", r"prelekcj\w*", r"autorsk\w*", r"książk\w*"])),
+    ("wykład / spotkanie", _rx([r"wykład\w*", r"spotkani\w*", r"rozmow\w*", r"dyskusj\w*", r"debat\w*", r"prelekcj\w*", r"autorsk\w*", r"książk\w*", r"reading party", r"literack\w*"])),
     ("warsztaty", _rx([r"warsztat\w*", r"kurs\w*", r"zajęci\w*", r"pracowni\w*"])),
     ("oprowadzanie", _rx([r"oprowadzani\w*", r"zwiedzani\w*", r"spacer\w*"])),
     ("LGBT+", _rx([r"lgbt\w*", r"queer\w*", r"lesbij\w*", r"tęczow\w*", r"drag", r"pride", r"nieheteronormatywn\w*", r"sapphic"])),
     ("dla singli", _rx([r"singl\w*"])),
     ("impreza", _rx([r"impreza\w*", r"impreź\w*", r"party", r"klubow\w*", r"noc\w* klubow\w*"])),
+    ("fotografia", _rx([r"fotograf\w*", r"zdjęci\w*"])),
+    ("malarstwo", _rx([r"malarstw\w*", r"obraz\w*", r"malarz\w*", r"malarsk\w*"])),
+    ("rzeźba", _rx([r"rzeźb\w*", r"rzeźbiar\w*"])),
+    ("instalacja / sztuka nowych mediów", _rx([r"instalacj\w*", r"nowych mediów", r"wideo", r"video"])),
 ]
 
 CATEGORY_ORDER = [
     ("Wystawy", {"wystawa"}),
-    ("Imprezy i taniec", {"elektro", "house", "techno", "impreza"}),
+    ("Stand-up", {"stand-up"}),
+    ("Imprezy i taniec", {"elektro", "house", "techno"}),   # tylko elektro / house / techno
     ("Koncerty", {"jazz", "klasyka", "rock / alternatywa", "folk / world", "hip-hop"}),
-    ("Teatr i performans", {"teatr", "performans / taniec", "stand-up"}),
+    ("Teatr i performans", {"teatr", "performans / taniec"}),
     ("Film", {"film"}),
     ("Warsztaty", {"warsztaty"}),
     ("Spotkania i wykłady", {"wykład / spotkanie", "oprowadzanie"}),

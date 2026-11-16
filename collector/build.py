@@ -47,7 +47,15 @@ def tidy_price(p: str) -> str:
     p = re.sub(r"zł\s*(\d[\d.,]*)", r"\1 zł", p or "")   # „zł40” -> „40 zł”
     p = re.sub(r"(\d)\s*PLN", r"\1 zł", p)
     p = re.sub(r"(\d+)[.,](\d{2}) zł", lambda m: m.group(1) + (f",{m.group(2)}" if m.group(2) != "00" else "") + " zł", p)
-    return re.sub(r"\s+", " ", p).strip()
+    p = re.sub(r"\s*\(wg [^)]*\)", "", p)                 # bez dopisków o źródle
+    if re.fullmatch(r"płatne", p.strip(), re.I):
+        p = "płatne – cena na stronie"
+    nums = sorted({float(x.replace(",", ".")) for x in re.findall(r"(\d+(?:[.,]\d+)?)\s*zł", p)})
+    if len(nums) >= 2 and not re.search(r"bezpła|wstęp wolny", p, re.I):   # kilka cen -> widełki
+        f = lambda v: (str(int(v)) if v == int(v) else f"{v:.2f}".replace(".", ","))
+        p = f"{f(nums[0])}–{f(nums[-1])} zł"
+    p = re.sub(r"\s+", " ", p).strip()
+    return p[:1].upper() + p[1:]
 
 
 def load_json(p: Path, default):
@@ -79,6 +87,8 @@ def normalize(src: dict, e: dict, kind: str) -> dict | None:
     tags, cat = rules.classify(text)
     if e.get("category"):
         cat = e["category"]
+    if src["id"] == "filharmonia":
+        cat = "Koncerty"
     for t2 in e.get("tags") or []:
         if t2 not in tags:
             tags.append(t2)
