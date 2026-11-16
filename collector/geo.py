@@ -37,12 +37,15 @@ def _get(url: str, **kw):
 
 def geocode(query: str, must: str = "") -> tuple[float, float] | None:
     """Pierwszy wynik z Nominatim; gdy podano `must` (miejscowość z adresu), wynik musi ją zawierać."""
-    time.sleep(1.1)
-    try:
-        j = _get("https://nominatim.openstreetmap.org/search", params={
-            "q": query, "format": "json", "limit": 3, "viewbox": VIEWBOX, "bounded": 1, "countrycodes": "pl"})
-    except Exception:
-        return None
+    j = None
+    for attempt in range(2):          # jedno powtórzenie po chwili, gdy usługa odmówi
+        time.sleep(1.1 if attempt == 0 else 6)
+        try:
+            j = _get("https://nominatim.openstreetmap.org/search", params={
+                "q": query, "format": "json", "limit": 3, "viewbox": VIEWBOX, "bounded": 1, "countrycodes": "pl"})
+            break
+        except Exception:
+            j = None
     for r in j or []:
         if not must or _fold(must) in _fold(r.get("display_name", "")):
             return float(r["lat"]), float(r["lon"])
@@ -130,7 +133,10 @@ def annotate(events: list[dict]) -> dict:
         if alias:
             tries.append((alias, "", False))
         if venue:
+            short = re.split(r"\s+ul\.|,|\s+\(", venue)[0].strip()    # „Nowy Teatr ul. Madalińskiego…” -> „Nowy Teatr”
             tries.append((f"{venue}, {area}", "", False))
+            if short and short != venue:
+                tries.append((f"{short}, Warszawa", "", False))
             tries.append((f"{venue}, Warszawa", "", True))   # szersze dopasowanie = przybliżone
         places[key] = tries
     for key, tries in places.items():
@@ -142,11 +148,14 @@ def annotate(events: list[dict]) -> dict:
             if p:
                 res = [p[0], p[1], approx]
                 break
-        cache[key] = res
+        if res:
+            cache[key] = res          # porażek nie zapamiętujemy: następny tydzień spróbuje ponownie
+        else:
+            cache.pop(key, None)
     CACHE.parent.mkdir(parents=True, exist_ok=True)
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
 
-    keys = [k for k in places if cache.get(k)]
+    keys = [k for k in places if cache.get(k) and cache[k] != "retry"]
     dests = [(cache[k][0], cache[k][1]) for k in keys]
     names = list(ref_pts)
     table = _distances([ref_pts[n] for n in names], dests) if dests else []
@@ -164,3 +173,4 @@ def annotate(events: list[dict]) -> dict:
     return {n: REFS[n][1] for n in names}
 # uruchomienie z sekretami REF_A/REF_B
 # v2
+# v3
