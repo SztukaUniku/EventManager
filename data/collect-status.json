@@ -1,0 +1,373 @@
+{
+ "collected_at": "2026-11-16T22:27+01:00",
+ "sources": [
+  {
+   "id": "kulturalnie",
+   "name": "kulturalnie.waw.pl",
+   "adapter": "jsonld",
+   "pages": [
+    {
+     "url": "https://kulturalnie.waw.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia/",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia/dzieci/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "events": 54,
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": null
+  },
+  {
+   "id": "waw4free",
+   "name": "waw4free",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://waw4free.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-teatr",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-imprezy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-wystawy",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 57307,
+   "hash": "67d2c7cc6533131f",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "muzea",
+   "name": "muzea.waw.pl (wystawy)",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://muzea.waw.pl/en/exhibitions/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 30049,
+   "hash": "4c2f5a023765cbb3",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "alternatywy",
+   "name": "UCK Alternatywy",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://alternatywy.art/",
+     "ok": true
+    },
+    {
+     "url": "https://alternatywy.art/?wydarzenia-kategoria=",
+     "ok": true
+    },
+    {
+     "url": "https://alternatywy.art/?wydarzenia-kategoria=cykle",
+     "ok": true
+    },
+    {
+     "url": "https://alternatywy.art/?wydarzenia-kategoria=filmy",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 58471,
+   "hash": "cff3d00e715b2098",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "terminal",
+   "name": "Terminal Kultury Gocław",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 39,
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": null
+  },
+  {
+   "id": "lowicka",
+   "name": "Centrum Łowicka",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 16,
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": null
+  },
+  {
+   "id": "kulturalni",
+   "name": "CK Piaseczno (kulturalni.pl)",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 89,
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": null
+  },
+  {
+   "id": "nowyteatr",
+   "name": "Nowy Teatr",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://nowyteatr.org/pl/kalendarz",
+     "ok": true
+    },
+    {
+     "url": "https://nowyteatr.org/pl/program",
+     "ok": true
+    },
+    {
+     "url": "https://nowyteatr.org/en/kalendarz?setlang=true",
+     "ok": true
+    },
+    {
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-10-01&date_to=2026-10-31",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 8287,
+   "hash": "70dccc60757d03d7",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "kadr",
+   "name": "Dom Kultury Kadr",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://dkkadr.waw.pl/repertuar/",
+     "ok": true
+    },
+    {
+     "url": "https://dkkadr.waw.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://dkkadr.waw.pl/repertuar/niechec/",
+     "ok": true
+    },
+    {
+     "url": "https://dkkadr.waw.pl/repertuar/botswana/",
+     "ok": true
+    },
+    {
+     "url": "https://dkkadr.waw.pl/repertuar/vatzlav-2/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 17627,
+   "hash": "209f6ca54a45ce26",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "sdk",
+   "name": "Służewski Dom Kultury",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://sdk.waw.pl/wydarzenia",
+     "ok": true
+    },
+    {
+     "url": "https://sdk.waw.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://sdk.waw.pl/ekologia-rozwijane/aktualnosci-dom-ekologii",
+     "ok": true
+    },
+    {
+     "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dzieci",
+     "ok": true
+    },
+    {
+     "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 54110,
+   "hash": "e0ff9382d9076ac6",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "domsztuki",
+   "name": "Dom Sztuki SMB Jary",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://domsztuki.art.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://domsztuki.art.pl/kino",
+     "ok": true
+    },
+    {
+     "url": "https://domsztuki.art.pl/kalendarz",
+     "ok": true
+    },
+    {
+     "url": "https://domsztuki.art.pl/wydarzenia/61-potancowka-dla-seniorow",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 10798,
+   "hash": "5608ab32128fb51d",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "dks",
+   "name": "Dom Kultury Śródmieście",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://dks.art.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://dks.art.pl/wydarzenia",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 24323,
+   "hash": "6ef1706a061f58d7",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "teatrstudio",
+   "name": "Teatr Studio i Galeria Studio",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://teatrstudio.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://teatrstudio.pl/pl/repertuar",
+     "ok": true
+    },
+    {
+     "url": "https://teatrstudio.pl/pl/edukacja/",
+     "ok": true
+    },
+    {
+     "url": "https://teatrstudio.pl/pl/repertuar/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 56251,
+   "hash": "a96c22b5114f1700",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "msn",
+   "name": "Muzeum Sztuki Nowoczesnej",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://artmuseum.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://artmuseum.pl/program",
+     "ok": true
+    },
+    {
+     "url": "https://artmuseum.pl/wystawy-aktualne",
+     "ok": true
+    },
+    {
+     "url": "https://artmuseum.pl/wydarzenia/masayume",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 19478,
+   "hash": "7e1f22a6f90501af",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  },
+  {
+   "id": "filharmonia",
+   "name": "Filharmonia Narodowa",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://filharmonia.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://filharmonia.pl/repertuar",
+     "ok": true
+    },
+    {
+     "url": "https://filharmonia.pl/repertuar,ts:1790812800",
+     "ok": true
+    },
+    {
+     "url": "https://filharmonia.pl/repertuar,ts:1796083200",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 17622,
+   "hash": "826c51a2da0b3c87",
+   "checked_at": "2026-11-16T22:27+01:00",
+   "last_ok_at": "2026-11-16T22:27+01:00",
+   "changed": true
+  }
+ ]
+}
