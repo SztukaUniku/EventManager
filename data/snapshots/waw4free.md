@@ -8,7 +8,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące koncerty w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -312,8 +311,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
-[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-imprezy
@@ -326,6 +325,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące imprezy w Warszawie
 polecane!
 [Mecz Polonia Warszawa – Stal Mielec | 115-lecie Polonii Warszawa](https://waw4free.pl/wydarzenie-161789-mecz-polonia-warszawa-stal-mielec-115-lecie-polonii-warszawa)
@@ -522,8 +522,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-teatr
@@ -704,7 +704,7 @@ Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
 Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
-[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-standup
@@ -808,8 +808,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
-[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wystawy
@@ -1414,6 +1414,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące wykłady w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -1746,7 +1747,7 @@ reklama
 [Seminarium Literackie w Muzeum Azji i Pacyfiku | Buszra Al-Maktari](https://waw4free.pl/wydarzenie-161801-seminarium-literackie-w-muzeum-azji-i-pacyfiku-buszra-al-maktari)
 wykład
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Dyskusja o kulturze lekomanii i suplementach | P*ozac – na chęć życia. Ge*iavit – na niestarzenie](https://waw4free.pl/wydarzenie-161640-dyskusja-o-kulturze-lekomanii-i-suplementach-p-ozac-na-chec-zycia-ge-ia
+[Dyskusja o kulturze lekomanii i suplementach | P*ozac – na chęć życia. Ge*iavit – na niestarzenie](https://waw4free.pl/wydarzenie-161640-dyskusja-o-kulturze-lekomanii-i-suplementach-p-ozac-na-chec-
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-filmy
 Darmowe
@@ -1992,8 +1993,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-warsztaty
@@ -2006,7 +2007,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące warsztaty i szkolenia w Warszawie
 polecane!
 [Stage Presence – Bring Your Speech to Life](https://waw4free.pl/wydarzenie-161888-stage-presence-bring-your-speech-to-life)
@@ -2365,4 +2365,4 @@ warsztaty
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wesoła](https://waw4free.pl/warszawa-za-darmo-wesola)
 [Warsztaty „Jesienne kobiece SPA”](https://waw4free.pl/wydarzenie-161911-warsztaty-jesienne-kobiece-spa)
 warsztaty
-[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wilanów](https://waw4f
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wilanów](https://waw4free.pl/wars
