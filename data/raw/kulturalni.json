@@ -1,37 +1,5 @@
 [
  {
-  "title": "KAMPANIA DZIECIŃSTWO BEZ PRZEMOCY | Kolorowy świat emocji – warsztaty dla dzieci",
-  "start": "2026-11-16T17:00",
-  "end": "2026-11-16T18:00",
-  "all_day": false,
-  "venue": "Przystanek Muzyki",
-  "address": "Plac Piłsudskiego 9, 05-500, Piaseczno",
-  "price": "Bezpłatnie",
-  "url": "https://kulturalni.pl/wydarzenie/kampania-dziecinstwo-bez-przemocy-kolorowy-swiat-emocji-warsztaty-dla-dzieci/2026-11-16/",
-  "ticket_url": "https://www.strefazajec.pl/course/view/id/97669",
-  "description": "Kolorowy Cykl Emocji to warsztaty, podczas których dzieci poprzez sztukę, zabawę i ruch uczą się rozpoznawać, nazywać i bezpiecznie wyrażać swoje emocje.",
-  "categories": [
-   "dzieci",
-   "warsztaty"
-  ]
- },
- {
-  "title": "KAMPANIA DZIECIŃSTWO BEZ PRZEMOCY | Cykl warsztatów wychowawczych dla rodziców",
-  "start": "2026-11-16T18:30",
-  "end": "2026-11-16T20:00",
-  "all_day": false,
-  "venue": "Pracownia AkuKu",
-  "address": "pl. Piłsudskiego 9, Piaseczno",
-  "price": "Bezpłatnie",
-  "url": "https://kulturalni.pl/wydarzenie/kampania-dziecinstwo-bez-przemocy-cykl-warsztatow-wychowawczych-dla-rodzicow/2026-11-16/",
-  "ticket_url": "https://www.strefazajec.pl/course/view/id/97190",
-  "description": "entrum Kultury zaprasza rodziców, dzieci w każdym wieku, na darmowy cykl warsztatów w ramach kampani Dzieciństwo bez przemocy.",
-  "categories": [
-   "dorośli",
-   "warsztaty"
-  ]
- },
- {
   "title": "FILHARMONIA NARODOWA | Spotkania z muzyką",
   "start": "2026-11-17T10:00",
   "end": "2026-11-17T13:00",
@@ -1486,6 +1454,92 @@
    "młodzież",
    "dorośli",
    "spotkania"
+  ]
+ },
+ {
+  "title": "Święta dłutem i pędzlem | WARSZTATY",
+  "start": "2026-12-18T10:00",
+  "end": "2026-12-18T13:00",
+  "all_day": false,
+  "venue": "Strefa Plastyki",
+  "address": "ul. Jana Pawła II 55, 05-500, Piaseczno",
+  "price": "zł45",
+  "url": "https://kulturalni.pl/wydarzenie/swieta-dlutem-i-pedzlem-warsztaty/",
+  "ticket_url": "",
+  "description": "Święta dłutem i pędzlem | WARSZTATY Warsztaty rzeźbiarskie dla dzieci i dorosłych od 7 lat 18 grudnia (sobota) 2026 godz. 10.00-13.00 wstęp 45 złotych prowadzący – Eugeniusz Węgiełek i Andrzej Graczyk Piaseczno, Strefa Plastyki, ul. Jana Pawła II 9 lok. 8 Koordynatorka – Anna Masłowska, tel. 505 856 669",
+  "categories": [
+   "dzieci",
+   "młodzież",
+   "dorośli",
+   "warsztaty"
+  ]
+ },
+ {
+  "title": "Bożonarodzeniowe pająki ludowe | WARSZTATY",
+  "start": "2026-12-18T10:00",
+  "end": "2026-12-18T12:00",
+  "all_day": false,
+  "venue": "Strefa Plastyki",
+  "address": "ul. Jana Pawła II 55, 05-500, Piaseczno",
+  "price": "zł90",
+  "url": "https://kulturalni.pl/wydarzenie/bozonarodzeniowe-pajaki-ludowe-warsztaty/",
+  "ticket_url": "",
+  "description": "Bożonarodzeniowe pająki ludowe | WARSZTATY Rodzinne warsztaty rękodzielnicze od 7 lat 18 grudnia (sobota) 2026 godz. 10.00-12.00 wstęp 90 złotych (dziecko z opiekunem) prowadząca – Grażyna Stankiewicz Piaseczno, Strefa Plastyki, ul. Jana Pawła II 9 lok. 8 Koordynatorka – Anna Masłowska, tel. 505 856 669",
+  "categories": [
+   "dzieci",
+   "młodzież",
+   "dorośli",
+   "warsztaty"
+  ]
+ },
+ {
+  "title": "Zima na szkle malowana | WARSZTATY",
+  "start": "2026-12-18T13:30",
+  "end": "2026-12-18T15:30",
+  "all_day": false,
+  "venue": "Strefa Plastyki",
+  "address": "ul. Jana Pawła II 55, 05-500, Piaseczno",
+  "price": "zł45",
+  "url": "https://kulturalni.pl/wydarzenie/zima-na-szkle-malowana-warsztaty/",
+  "ticket_url": "",
+  "description": "Zima na szkle malowana | WARSZTATY Warsztaty dla dzieci 7-15 lat 18 grudnia (sobota) 2026 godz. 13.30-15.30 wstęp 45 złotych prowadząca – Grażyna Stankiewicz Piaseczno, Strefa Plastyki, ul. Jana Pawła II 9 lok. 8 Koordynatorka – Anna Masłowska, tel. 505 856 669",
+  "categories": [
+   "dzieci",
+   "młodzież",
+   "warsztaty"
+  ]
+ },
+ {
+  "title": "Świąteczna miniatura | WARSZTATY DLA DZIECI",
+  "start": "2026-12-18T18:30",
+  "end": "2026-12-18T20:00",
+  "all_day": false,
+  "venue": "Klub Kultury w Złotokłosie",
+  "address": "3 Maja 30, 05-504, Złotokłos",
+  "price": "zł60",
+  "url": "https://kulturalni.pl/wydarzenie/swiateczna-miniatura-warsztaty-dla-dzieci/",
+  "ticket_url": "",
+  "description": "Świąteczna miniatura | WARSZTATY DLA DZIECI 18 grudnia (piątek) 2026 godz. 18.30 wstęp 60 złotych, obowiązują zapisy Złotokłos, Klub Kultury, ul. Runowska 31 Koordynatorka – Maria Maciejewska-Szostak, tel. 572 358 559",
+  "categories": [
+   "dzieci",
+   "warsztaty"
+  ]
+ },
+ {
+  "title": "JAZZ SESSION Z JAZZ KILLERS | Filip Jaślar",
+  "start": "2026-12-18T20:00",
+  "end": "2026-12-18T21:30",
+  "all_day": false,
+  "venue": "Klub Kultury w Józefosławiu",
+  "address": "Julianowska 67A, 05-509, Józefosław",
+  "price": "",
+  "url": "https://kulturalni.pl/wydarzenie/jazz-session-z-gwiazda-3/",
+  "ticket_url": "",
+  "description": "Jazz, wirtuozeria i spora dawka humoru! Filip Jaślar & The Jazz Killers zapraszają na pełen muzycznych niespodzianek koncert w Józefosławiu. Wstęp wolny!",
+  "categories": [
+   "młodzież",
+   "dorośli",
+   "koncerty"
   ]
  }
 ]

@@ -8,6 +8,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące koncerty w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -15,31 +16,16 @@ koncert
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-koncert
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
-reklama
-[Prosto do nieba czwórkami szli - koncert piosenek o wolności i niepodległości](https://waw4free.pl/wydarzenie-161584-prosto-do-nieba-czworkami-szli-koncert-piosenek-o-wolnosci-i-niepodleglosci)
-koncert
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
-[Mokotowskie Zaduszki Jazzowe 2026 - Grzegorz Dowgiałło i Emilia Stalmach](https://waw4free.pl/wydarzenie-161656-mokotowskie-zaduszki-jazzowe-2026-grzegorz-dowgiallo-i-emilia-stalmach)
-koncert
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
 [Handpanowe wtorki w Restauracji Bliski Wschód!](https://waw4free.pl/wydarzenie-141055-handpanowe-wtorki-w-restauracji-bliski-wschod)
 koncert
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
+reklama
 [Fortepianowe Lunch Time Concerts | Gra Anna Urzędowska](https://waw4free.pl/wydarzenie-161983-fortepianowe-lunch-time-concerts-gra-anna-urzedowska)
 koncert
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 12:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 [Koncert Patriotyczny](https://waw4free.pl/wydarzenie-161530-koncert-patriotyczny)
 koncert
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -47,8 +33,6 @@ koncert
 [impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
 koncert
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
 [Konferencja naukowa „Ruch studencki i absolwencki 1986–2026 (Kamienie milowe)”](https://waw4free.pl/wydarzenie-161809-konferencja-naukowa-ruch-studencki-i-absolwencki-1986-2026-kamienie-milowe)
 koncert
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
@@ -61,6 +45,8 @@ koncert
 koncert
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Jazz w Lesie Bielańskim: Grażyna Auguścik International Quartet](https://waw4free.pl/wydarzenie-161569-jazz-w-lesie-bielanskim-grazyna-auguscik-international-quartet)
 koncert
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 19:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -73,19 +59,17 @@ koncert
 [Koncert grupy Loud Cloud](https://waw4free.pl/wydarzenie-161262-koncert-grupy-loud-cloud)
 koncert
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 19:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-adplus video
 [Live Music | MASK](https://waw4free.pl/wydarzenie-160832-live-music-mask)
 koncert
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 20:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Otwarta scena - Runo](https://waw4free.pl/wydarzenie-160909-otwarta-scena-runo)
 koncert
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 20:00, [Wesoła](https://waw4free.pl/warszawa-za-darmo-wesola)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
 [Muzyczne Przygody Maluchów](https://waw4free.pl/wydarzenie-161946-muzyczne-przygody-maluchow)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 koncert
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 10:00, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+adplus video
 [Noc Kultury](https://waw4free.pl/wydarzenie-161258-noc-kultury)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
@@ -99,6 +83,8 @@ koncert
 [Organum Sanctae Barbarae | Piotr Wilczyński](https://waw4free.pl/wydarzenie-161874-organum-sanctae-barbarae-piotr-wilczynski)
 koncert
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Festiwal Muzyki Kameralnej na Bielanach | “Od klasycznej elegancji do czeskiego żywiołu”](https://waw4free.pl/wydarzenie-161107-festiwal-muzyki-kameralnej-na-bielanach-od-klasycznej-elegancji-do-czeskiego-zywiolu)
 koncert
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -120,8 +106,6 @@ koncert
 koncert
 [wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
 [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 12:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [„Wieczór polsko - irlandzki” - Wernisaż Agi Szot i Koncert Taorluath](https://waw4free.pl/wydarzenie-161251-wieczor-polsko-irlandzki-wernisaz-agi-szot-i-koncert-taorluath)
 [impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
 koncert
@@ -133,6 +117,8 @@ koncert
 [VII Międzynarodowy Festiwal Organowe Brzmienia | Finałowy koncert](https://waw4free.pl/wydarzenie-161908-vii-miedzynarodowy-festiwal-organowe-brzmienia-finalowy-koncert)
 koncert
 [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 19:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [KONCERT: THESIS w Beer&Bones](https://waw4free.pl/wydarzenie-161648-koncert-thesis-w-beer-bones)
 [impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
 koncert
@@ -156,8 +142,6 @@ koncert
 koncert
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 11:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Fortepianowe Lunch Time Concerts | Gra Chihiro Deguchi](https://waw4free.pl/wydarzenie-161984-fortepianowe-lunch-time-concerts-gra-chihiro-deguchi)
 koncert
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 12:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
@@ -172,6 +156,8 @@ koncert
 koncert
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 20:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Koncert finałowy Konkursu kompozytorskiego im. Feliksa Konopaska – Wieniawa gra klasykę](https://waw4free.pl/wydarzenie-162028-koncert-finalowy-konkursu-kompozytorskiego-im-feliksa-konopaska-wieniawa-gra-klasyke)
 koncert
 [27.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-27) (piątek), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
@@ -198,8 +184,6 @@ koncert
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 12:00 - [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Jazz dla dzieci | Kolorowy rozgardiasz - instrumenty perkusyjne](https://waw4free.pl/wydarzenie-161249-jazz-dla-dzieci-kolorowy-rozgardiasz-instrumenty-perkusyjne)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 koncert
@@ -212,6 +196,8 @@ koncert
 koncert
 [teatr](https://waw4free.pl/warszawa-darmowe-teatr)
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 17:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Współgłosy II | koncert](https://waw4free.pl/wydarzenie-161252-wspolglosy-ii-koncert)
 koncert
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 18:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
@@ -234,8 +220,6 @@ koncert
 [Muzyczny Pawilon 3.0 I Leo!](https://waw4free.pl/wydarzenie-160043-muzyczny-pawilon-3-0-i-leo)
 koncert
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 12:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Koncert Jubileuszowy z okazji 30-lecia Towarzystwa Śpiewaczego "Lira"](https://waw4free.pl/wydarzenie-160142-koncert-jubileuszowy-z-okazji-30-lecia-towarzystwa-spiewaczego-lira)
 koncert
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 17:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
@@ -248,6 +232,8 @@ koncert
 [impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
 koncert
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 18:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Koncert „BARWY MIŁOŚCI”](https://waw4free.pl/wydarzenie-161939-koncert-barwy-milosci)
 koncert
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 19:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
@@ -269,8 +255,6 @@ koncert
 koncert
 [teatr](https://waw4free.pl/warszawa-darmowe-teatr)
 [04.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-4) (piątek), 18:45, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Muzyczny spektakl „Apetyt na czereśnie” z okazji 40 Teatru Za Dalekiego](https://waw4free.pl/wydarzenie-161554-muzyczny-spektakl-apetyt-na-czeresnie-z-okazji-40-teatru-za-dalekiego)
 koncert
 [teatr](https://waw4free.pl/warszawa-darmowe-teatr)
@@ -282,6 +266,8 @@ koncert
 koncert
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
 [23.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-23) (środa), 20:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [BS-Riot | Jam Session "Scena Młodych"](https://waw4free.pl/wydarzenie-161942-bs-riot-jam-session-scena-mlodych)
 koncert
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
@@ -311,8 +297,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
-[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-imprezy
@@ -333,33 +319,18 @@ polecane!
 impreza
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-impreza
-[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
-reklama
-[Meet & Speak Monday: English](https://waw4free.pl/wydarzenie-161378-meet-speak-monday-english)
-impreza
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
 [Cypher Crew Rap & Freestyle](https://waw4free.pl/wydarzenie-161608-cypher-crew-rap-freestyle)
 impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
+reklama
 [Bachata i Przyjaciele [lista FB free]](https://waw4free.pl/wydarzenie-161153-bachata-i-przyjaciele-lista-fb-free)
 (dobrowolna zrzutka za udział)
 impreza
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 20:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 [Karaoke dla ludzi bez wstydu i granic CO ŚRODĘ W Oparach Absurdu](https://waw4free.pl/wydarzenie-158592-karaoke-dla-ludzi-bez-wstydu-i-granic-co-srode-w-oparach-absurdu)
 impreza
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
@@ -371,8 +342,6 @@ impreza
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 impreza
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 14:15, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
 [Noc Kultury](https://waw4free.pl/wydarzenie-161258-noc-kultury)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
@@ -391,6 +360,8 @@ impreza
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Pląsy na Starzyńskiego, czyli wesołowska potańcówka](https://waw4free.pl/wydarzenie-161411-plasy-na-starzynskiego-czyli-wesolowska-potancowka)
 impreza
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 18:00, [Wesoła](https://waw4free.pl/warszawa-za-darmo-wesola)
@@ -414,7 +385,6 @@ impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
 [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 18:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-adplus video
 [KONCERT: THESIS w Beer&Bones](https://waw4free.pl/wydarzenie-161648-koncert-thesis-w-beer-bones)
 impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
@@ -424,8 +394,7 @@ impreza
 impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [23.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-23) (poniedziałek), 15:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
+adplus video
 [VERITA – PATRYCJA MIZERSKA | Interdyscyplinarna premiera projektu](https://waw4free.pl/wydarzenie-161967-verita-patrycja-mizerska-interdyscyplinarna-premiera-projektu)
 (dobrowolna zrzutka za udział)
 impreza
@@ -438,6 +407,8 @@ impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 11:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Sąsiedzkie Andrzejki!](https://waw4free.pl/wydarzenie-161294-sasiedzkie-andrzejki)
 impreza
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
@@ -469,8 +440,6 @@ impreza
 [Andrzejki w stylu Wielkiego Gatsbiego | Restauracja Ale Sztuka](https://waw4free.pl/wydarzenie-161828-andrzejki-w-stylu-wielkiego-gatsbiego-restauracja-ale-sztuka)
 impreza
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 20:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [RODZINNA NIEDZIELA | BAL ANDRZEJKOWY](https://waw4free.pl/wydarzenie-161377-rodzinna-niedziela-bal-andrzejkowy)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 impreza
@@ -479,6 +448,8 @@ impreza
 impreza
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 18:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Rodzinne warsztaty świąteczne](https://waw4free.pl/wydarzenie-162040-rodzinne-warsztaty-swiateczne)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
@@ -522,7 +493,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
 [🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
 noptimize - adsense lazy loading /noptimize
 
@@ -538,27 +509,23 @@ Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
 slider MCN
 Nadchodzące spektakle teatralne w Warszawie
-[IMPRO BEZ - Otwarty Teatr Improwizowany w Radio Telewizja](https://waw4free.pl/wydarzenie-161706-impro-bez-otwarty-teatr-improwizowany-w-radio-telewizja)
-[stand-up, kabaret, impro](https://waw4free.pl/warszawa-darmowe-standup)
-teatr
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Spektakl „Blamaż klimatyczny. Historia inspirowana Opowieścią Wigilijną" [godz. 9:30, 11:00 i 12:30]](https://waw4free.pl/wydarzenie-159844-spektakl-blamaz-klimatyczny-historia-inspirowana-opowiescia-wigilijna-godz-9-30-11-00-i-12-30)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 teatr
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 9:30, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
-reklama
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 9:30, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
 [Monodram „Umińska”](https://waw4free.pl/wydarzenie-157893-monodram-uminska)
 teatr
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
+reklama
 [Spektakl „Blamaż klimatyczny. Historia inspirowana Opowieścią Wigilijną" [godz. 9:30, 11:00 i 12:30]](https://waw4free.pl/wydarzenie-159846-spektakl-blamaz-klimatyczny-historia-inspirowana-opowiescia-wigilijna-godz-9-30-11-00-i-12-30)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 teatr
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 9:30, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 [Spektakl dla dzieci „Trzej Bracia Chrum”](https://waw4free.pl/wydarzenie-161302-spektakl-dla-dzieci-trzej-bracia-chrum)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 teatr
@@ -573,13 +540,13 @@ kup bilet!
 [Spektakl "Dwunastu gniewnych ludzi" Teatr Nad Dolinką](https://waw4free.pl/wydarzenie-161075-spektakl-dwunastu-gniewnych-ludzi-teatr-nad-dolinka)
 teatr
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 19:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
 [Pamiętniki z wakacji - spektakl improwizowany w Południku](https://waw4free.pl/wydarzenie-161296-pamietniki-z-wakacji-spektakl-improwizowany-w-poludniku)
 (dobrowolna zrzutka za udział)
 [stand-up, kabaret, impro](https://waw4free.pl/warszawa-darmowe-standup)
 teatr
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Noc Kultury](https://waw4free.pl/wydarzenie-161258-noc-kultury)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
@@ -610,20 +577,20 @@ teatr
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 teatr
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 13:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
-adplus video
 [Spotkanie z zespołem: GAIA-24. Opera del Mondo](https://waw4free.pl/wydarzenie-160653-spotkanie-z-zespolem-gaia-24-opera-del-mondo)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 teatr
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 16:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+adplus video
 [PREMIERA! „Arszenik i stare koronki”](https://waw4free.pl/wydarzenie-161419-premiera-arszenik-i-stare-koronki)
 teatr
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 17:00, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
 [Spektakl narracyjny „Wszystko jest…” | Baśń terapeutyczna z muzyką na żywo](https://waw4free.pl/wydarzenie-161785-spektakl-narracyjny-wszystko-jest-basn-terapeutyczna-z-muzyka-na-zywo)
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 teatr
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 17:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Monodram „Podróż do Buenos Aires” z okazji 40 Teatru Za Dalekiego](https://waw4free.pl/wydarzenie-161553-monodram-podroz-do-buenos-aires-z-okazji-40-teatru-za-dalekiego)
 teatr
 [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) (sobota), 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
@@ -654,12 +621,12 @@ teatr
 (dobrowolna zrzutka za udział)
 teatr
 [06.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-6) (niedziela), 19:15, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Pewnego razu w Lodowej Krainie – spektakl dla dzieci 4+ [godz. 10:00 i 12:00]](https://waw4free.pl/wydarzenie-162042-pewnego-razu-w-lodowej-krainie-spektakl-dla-dzieci-4-godz-10-00-i-12-00)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 teatr
 [13.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-13) (niedziela), 10:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Niedzielne Bajeczki – Opowieść Wigilijna](https://waw4free.pl/wydarzenie-160619-niedzielne-bajeczki-opowiesc-wigilijna)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 teatr
@@ -704,7 +671,7 @@ Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
 Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-standup
@@ -719,29 +686,22 @@ Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
 slider MCN
 Nadchodzące występy stand-up, kabarety i spektakle improwizowane w Warszawie
-[IMPRO BEZ - Otwarty Teatr Improwizowany w Radio Telewizja](https://waw4free.pl/wydarzenie-161706-impro-bez-otwarty-teatr-improwizowany-w-radio-telewizja)
-stand-up, kabaret, impro
-[teatr](https://waw4free.pl/warszawa-darmowe-teatr)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Poniedziałek na wesoło #71 Stand Up Open Mic w Arcade Bee Hala Koszyki x Wydarzenia Komediowe](https://waw4free.pl/wydarzenie-161147-poniedzialek-na-wesolo-71-stand-up-open-mic-w-arcade-bee-hala-koszyki-x-wydarzenia-komediowe)
-stand-up, kabaret, impro
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
-reklama
 [Stand Up Open Mic | Uwaga! Żarty! vol. 29 | New Vegas Ursynów](https://waw4free.pl/wydarzenie-160296-stand-up-open-mic-uwaga-zarty-vol-29-new-vegas-ursynow)
 (wydarzenie płatne do 20 zł)
 stand-up, kabaret, impro
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:30, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:30, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
 [COMEDY TUESDAY @ AMONDO](https://waw4free.pl/wydarzenie-161969-comedy-tuesday-amondo)
 (wydarzenie płatne do 30 zł)
 stand-up, kabaret, impro
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 20:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 20:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
+reklama
 The Dating Show
 reklama
 kup bilet!
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 Wieczór komedii improwizowanej – Grupa NOPLANDO
 reklama
 kup bilet!
@@ -755,8 +715,6 @@ stand-up, kabaret, impro
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 stand-up, kabaret, impro
 [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 12:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
 [STAND-UP: NA ZDJĘCIU WYGLĄDAŁAŚ INACZEJ… | Komedia improwizowana!](https://waw4free.pl/wydarzenie-161902-stand-up-na-zdjeciu-wygladalas-inaczej-komedia-improwizowana)
 stand-up, kabaret, impro
 [24.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-24) (wtorek), 20:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
@@ -764,6 +722,8 @@ stand-up, kabaret, impro
 stand-up, kabaret, impro
 [teatr](https://waw4free.pl/warszawa-darmowe-teatr)
 [26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Warsaw 2.0 Comedy Show](https://waw4free.pl/wydarzenie-161050-warsaw-2-0-comedy-show)
 (wydarzenie płatne do 30 zł)
 stand-up, kabaret, impro
@@ -809,7 +769,7 @@ Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
 Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
-[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
+[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wystawy
@@ -862,9 +822,6 @@ wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-20
 [Immersyjna wystawa Świadectwo poMOCY](https://waw4free.pl/wydarzenie-160815-immersyjna-wystawa-swiadectwo-pomocy)
 wystawa
 wydarzenie trwające (do [21.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-21) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Wystawa „Widzimy się w pracy!”](https://waw4free.pl/wydarzenie-161084-wystawa-widzimy-sie-w-pracy)
-wystawa
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
 [Wystawa „Warszawa–Werstok” Marii Przyszychowskiej i Olgi Lubacz](https://waw4free.pl/wydarzenie-159605-wystawa-warszawa-werstok-marii-przyszychowskiej-i-olgi-lubacz)
 wystawa
 wydarzenie trwające (do [09.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-9) , środa), [Żoliborz](https://waw4free.pl/warszawa-za-darmo-zoliborz)
@@ -874,7 +831,6 @@ wydarzenie trwające (do [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-20
 [Wystawa "Odznaczeni Medalem Virtus et Fraternitas 2026"](https://waw4free.pl/wydarzenie-161256-wystawa-odznaczeni-medalem-virtus-et-fraternitas-2026)
 wystawa
 wydarzenie trwające (do [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) , środa), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-adplus video
 [Darmowy Listopad w Rezydencjach Królewskich 2026](https://waw4free.pl/wydarzenie-160150-darmowy-listopad-w-rezydencjach-krolewskich-2026)
 [spacer lub rower](https://waw4free.pl/warszawa-darmowe-spacery)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
@@ -882,14 +838,15 @@ adplus video
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 wystawa
 wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+adplus video
 [„Jerzy Skolimowski – reżyser, malarz” wystawa obrazów Jerzego Skolimowskiego kurator: Marcin Fedisz](https://waw4free.pl/wydarzenie-161420-jerzy-skolimowski-rezyser-malarz-wystawa-obrazow-jerzego-skolimowskiego-kurator-marcin-fedisz)
 wystawa
 wydarzenie trwające (do [06.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-6) , niedziela), [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
 [Wystawa Sylwestra Ambroziaka "Niewinność"](https://waw4free.pl/wydarzenie-161281-wystawa-sylwestra-ambroziaka-niewinnosc)
 wystawa
 wydarzenie trwające (do [28.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-28) , sobota), [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Przemysłowa potęga przedwojennej Warszawy | Wystawa w Fabryce Norblina](https://waw4free.pl/wydarzenie-161126-przemyslowa-potega-przedwojennej-warszawy-wystawa-w-fabryce-norblina)
 wystawa
 wydarzenie trwające (do [02.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-2) , środa), [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -911,31 +868,22 @@ wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-20
 [Marcin Sutryk - Całe światło błękitnieje](https://waw4free.pl/wydarzenie-161297-marcin-sutryk-cale-swiatlo-blekitnieje)
 wystawa
 wydarzenie trwające (do [17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) , wtorek), [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-wystawa
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Jan Tarasin. W 100-lecie urodzin](https://waw4free.pl/wydarzenie-161817-jan-tarasin-w-100-lecie-urodzin)
 wystawa
 wydarzenie trwające (do [09.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-9) , środa), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Glina i wyobraźnia-Wystawa zbiorowa rzeźby ceramicznej Pracowni Anny Wszyndybył](https://waw4free.pl/wydarzenie-161618-glina-i-wyobraznia-wystawa-zbiorowa-rzezby-ceramicznej-pracowni-anny-wszyndybyl)
 wystawa
 wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) , poniedziałek), [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Pokaz dzieł Olgi Boznańskiej w MNW](https://waw4free.pl/wydarzenie-141796-pokaz-dziel-olgi-boznanskiej-w-mnw)
 wystawa
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 10:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 10:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Skarby Muzeum Narodowego w Warszawie cz. 2](https://waw4free.pl/wydarzenie-161919-skarby-muzeum-narodowego-w-warszawie-cz-2)
 (dobrowolna zrzutka za udział)
 [spacer lub rower](https://waw4free.pl/warszawa-darmowe-spacery)
 wystawa
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 16:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 16:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Słońcem malowane - wystawa uczestniczek zajęć malarstwa pod kierunkiem Małgorzaty Kapłan](https://waw4free.pl/wydarzenie-161138-sloncem-malowane-wystawa-uczestniczek-zajec-malarstwa-pod-kierunkiem-malgorzaty-kaplan)
 wystawa
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 12:00 - [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) (poniedziałek), [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -953,8 +901,6 @@ wystawa
 [W SŁOWIAŃSKIM ŚWIECIE | Wystawa malarstwa Martyny Kowalskiej-Stepanian](https://waw4free.pl/wydarzenie-160754-w-slowianskim-swiecie-wystawa-malarstwa-martyny-kowalskiej-stepanian)
 wystawa
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Finisaż wystawy „Dom – przestrzeń ciągłości” i spotkanie z Valerią Osiną](https://waw4free.pl/wydarzenie-161862-finisaz-wystawy-dom-przestrzen-ciaglosci-i-spotkanie-z-valeria-osina)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wystawa
@@ -964,6 +910,8 @@ wystawa
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wystawa
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:00, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Kocham Cię Polsko!](https://waw4free.pl/wydarzenie-161878-kocham-cie-polsko)
 wystawa
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 17:00, [Wilanów](https://waw4free.pl/warszawa-za-darmo-wilanow)
@@ -990,8 +938,6 @@ wystawa
 [spacer lub rower](https://waw4free.pl/warszawa-darmowe-spacery)
 wystawa
 [24.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-24) (wtorek), 16:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Wystawa "SIMPLE STORIES [BETWEEN FLOORS]"](https://waw4free.pl/wydarzenie-161990-wystawa-simple-stories-between-floors)
 wystawa
 [27.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-27) (piątek), 14:00 - [07.01.2027](https://waw4free.pl/warszawa-wydarzenia-2027-1-7) (czwartek), [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -999,6 +945,8 @@ wystawa
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wystawa
 [27.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-27) (piątek), 18:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Granice koloru. Tkaniny ikatowe Azji | Weekend otwarcia wystawy](https://waw4free.pl/wydarzenie-161764-granice-koloru-tkaniny-ikatowe-azji-weekend-otwarcia-wystawy)
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
@@ -1043,7 +991,7 @@ Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
 Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
-[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-spotkania
@@ -1073,108 +1021,53 @@ spotkanie
 wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
 reklama
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
-spotkanie
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
-[Poniedziałkowe granie z WGP](https://waw4free.pl/wydarzenie-125219-poniedzialkowe-granie-z-wgp)
-spotkanie
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 16:45, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-[Wolski Book Club](https://waw4free.pl/wydarzenie-161285-wolski-book-club)
-spotkanie
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-[Zrób z nami wegańskie kanapki dla Fundacji Daj Herbatę!](https://waw4free.pl/wydarzenie-152097-zrob-z-nami-weganskie-kanapki-dla-fundacji-daj-herbate)
-spotkanie
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[„Mira. Kobieta światowa": spotkanie autorskie z Moniką Ksieniewicz-Mil](https://waw4free.pl/wydarzenie-160886-mira-kobieta-swiatowa-spotkanie-autorskie-z-monika-ksieniewicz-mil)
-[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
-spotkanie
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:30, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-[Spotkanie autorskie z Marią Szajer](https://waw4free.pl/wydarzenie-161760-spotkanie-autorskie-z-maria-szajer)
-spotkanie
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:30, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
-[W ilu językach można być sobą? Wielojęzyczne światy osób z doświadczeniem migracji](https://waw4free.pl/wydarzenie-161830-w-ilu-jezykach-mozna-byc-soba-wielojezyczne-swiaty-osob-z-doswiadczeniem-migracji)
-spotkanie
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[BIG FEJK | Z Karoliną Korwin Piotrowską o nowej książce rozmawia Katarzyna Kasia](https://waw4free.pl/wydarzenie-161367-big-fejk-z-karolina-korwin-piotrowska-o-nowej-ksiazce-rozmawia-katarzyna-kasia)
-spotkanie
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Meet & Speak Monday: English](https://waw4free.pl/wydarzenie-161378-meet-speak-monday-english)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-spotkanie
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Dyskusyjny Klub Płytowo-Książkowy: Krotochwile, saksofon i jazz – spotkanie z Krzysztofem Medyną](https://waw4free.pl/wydarzenie-161434-dyskusyjny-klub-plytowo-ksiazkowy-krotochwile-saksofon-i-jazz-spotkanie-z-krzysztofem-medyna)
-spotkanie
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Spotkanie z Krzysztofem Łapinskim, autorem książki „Najmądrzejszy. Biografia Sokratesa”](https://waw4free.pl/wydarzenie-161777-spotkanie-z-krzysztofem-lapinskim-autorem-ksiazki-najmadrzejszy-biografia-sokratesa)
-spotkanie
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
-[CINEMONDAY: Let’s talk about cinema](https://waw4free.pl/wydarzenie-161838-cinemonday-let-s-talk-about-cinema)
-spotkanie
-[po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
 [Storytelling, zdjęcia, video i social media dla rzemiosła](https://waw4free.pl/wydarzenie-160282-storytelling-zdjecia-video-i-social-media-dla-rzemiosla)
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-adplus video
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 [BEIKS MEDIA SHOW 2026 | Bezpłatne warsztaty, seminaria oraz pokazy sprzętu foto-video-film](https://waw4free.pl/wydarzenie-161868-beiks-media-show-2026-bezplatne-warsztaty-seminaria-oraz-pokazy-sprzetu-foto-video-film)
 spotkanie
 [targi, garażówka](https://waw4free.pl/warszawa-darmowe-targi)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 [„Jak być młodym w jesieni życia?"](https://waw4free.pl/wydarzenie-161459-jak-byc-mlodym-w-jesieni-zycia)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 12:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 12:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
 [Muzeum Bielan - warsztaty z mieszkańcami](https://waw4free.pl/wydarzenie-161204-muzeum-bielan-warsztaty-z-mieszkancami)
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
 [Public Speaking practice at Poland’s First Toastmasters](https://waw4free.pl/wydarzenie-156673-public-speaking-practice-at-poland-s-first-toastmasters)
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:45, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:45, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 [Orbita Literacka Reading Party w Elektrze #8](https://waw4free.pl/wydarzenie-161435-orbita-literacka-reading-party-w-elektrze-8)
 spotkanie
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Spotkanie autorskie z Beatą Izdebską-Zybałą](https://waw4free.pl/wydarzenie-161487-spotkanie-autorskie-z-beata-izdebska-zybala)
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
 [Performatyka przekładu: spotkanie z Delphine Grass](https://waw4free.pl/wydarzenie-161757-performatyka-przekladu-spotkanie-z-delphine-grass)
 spotkanie
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Jessica Lind „Małe potwory“ (przekład Magdalena Biśta) - spotkanie z autorką](https://waw4free.pl/wydarzenie-161993-jessica-lind-male-potwory-przeklad-magdalena-bista-spotkanie-z-autorka)
 spotkanie
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Konstancin-Jeziorna - spotkanie z uważnym dotykiem w masażu SHIATSU](https://waw4free.pl/wydarzenie-161846-konstancin-jeziorna-spotkanie-z-uwaznym-dotykiem-w-masazu-shiatsu)
 (dobrowolna zrzutka za udział)
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:30, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:30, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
 [Co jest za niebieskimi drzwiami? Spotkanie z Marcinem Szczygielskim](https://waw4free.pl/wydarzenie-161898-co-jest-za-niebieskimi-drzwiami-spotkanie-z-marcinem-szczygielskim)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 spotkanie
@@ -1184,13 +1077,12 @@ spotkanie
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 13:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 ["Cały świat zna proszki migreno-nerwosin" Alicja Latkowska](https://waw4free.pl/wydarzenie-161241-caly-swiat-zna-proszki-migreno-nerwosin-alicja-latkowska)
 [slajdowisko](https://waw4free.pl/warszawa-darmowe-slajdowiska)
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+adplus video
 [Następny przystanek: psychologia. Spotkanie z Aleksandrą Sileńską](https://waw4free.pl/wydarzenie-161479-nastepny-przystanek-psychologia-spotkanie-z-aleksandra-silenska)
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
@@ -1200,6 +1092,8 @@ spotkanie
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:30, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [AI Filmmakers Meetup](https://waw4free.pl/wydarzenie-160974-ai-filmmakers-meetup)
 [film](https://waw4free.pl/warszawa-darmowe-filmy)
 spotkanie
@@ -1225,8 +1119,6 @@ spotkanie
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 19:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Integrator Wawerski 2026 Dobre połączenia. Większe możliwości](https://waw4free.pl/wydarzenie-161143-integrator-wawerski-2026-dobre-polaczenia-wieksze-mozliwosci)
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
@@ -1241,6 +1133,8 @@ spotkanie
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:00, [Targówek](https://waw4free.pl/warszawa-za-darmo-targowek)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Spotkania pasjonatów szydełka i drutów - MAL](https://waw4free.pl/wydarzenie-155780-spotkania-pasjonatow-szydelka-i-drutow-mal)
 spotkanie
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
@@ -1263,8 +1157,6 @@ spotkanie
 [slajdowisko](https://waw4free.pl/warszawa-darmowe-slajdowiska)
 spotkanie
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [JWP/BC na Ochocie | Spotkanie z cyklu Hip Hop Szansą](https://waw4free.pl/wydarzenie-161926-jwp-bc-na-ochocie-spotkanie-z-cyklu-hip-hop-szansa)
 spotkanie
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
@@ -1276,6 +1168,8 @@ spotkanie
 [slajdowisko](https://waw4free.pl/warszawa-darmowe-slajdowiska)
 spotkanie
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [„A potem Putin Ukrainę napadł. Ja się pytam: po co?” Spotkanie autorskie z Emilią Sułek wokół książki „Baranie oko”](https://waw4free.pl/wydarzenie-161406-a-potem-putin-ukraine-napadl-ja-sie-pytam-po-co-spotkanie-autorskie-z-emilia-sulek-wokol-ksiazki-baranie-oko)
 spotkanie
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
@@ -1304,8 +1198,6 @@ spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 10:00 - [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Czas na sztukę, nareszcie! Spotkanie z Andrzejem Sobczykiem](https://waw4free.pl/wydarzenie-161287-czas-na-sztuke-nareszcie-spotkanie-z-andrzejem-sobczykiem)
 spotkanie
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 13:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -1316,6 +1208,8 @@ spotkanie
 ["W drodze z samym sobą" - spotkanie autorskie z Anną Mochnaczewską. Prowadzenie: Gośka Serafin](https://waw4free.pl/wydarzenie-161653-w-drodze-z-samym-soba-spotkanie-autorskie-z-anna-mochnaczewska-prowadzenie-goska-serafin)
 spotkanie
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 17:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [MIĘDZY NAMI MÓWIĄC I Festiwal I Anne Rabe, Katja Hoyer, Franziska Gänsler](https://waw4free.pl/wydarzenie-161366-miedzy-nami-mowiac-i-festiwal-i-anne-rabe-katja-hoyer-franziska-g-nsler)
 spotkanie
 [targi, garażówka](https://waw4free.pl/warszawa-darmowe-targi)
@@ -1340,8 +1234,6 @@ spotkanie
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Spotkanie z Miłką Raulin](https://waw4free.pl/wydarzenie-162019-spotkanie-z-milka-raulin)
 spotkanie
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -1352,6 +1244,8 @@ spotkanie
 spotkanie
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 19:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [SPOTKANIE AUTORSKIE Z PAULINĄ OPALĄ – „SIŁA JUDYTY. 34 TYGODNIE CUDÓW”](https://waw4free.pl/wydarzenie-162003-spotkanie-autorskie-z-paulina-opala-sila-judyty-34-tygodnie-cudow)
 spotkanie
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 0:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
@@ -1379,8 +1273,6 @@ spotkanie
 spotkanie
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 13:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Finisaż wystawy „Dom – przestrzeń ciągłości” i spotkanie z Valerią Osiną](https://waw4free.pl/wydarzenie-161862-finisaz-wystawy-dom-przestrzen-ciaglosci-i-spotkanie-z-valeria-osina)
 spotkanie
 [wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
@@ -1394,6 +1286,8 @@ spotkanie
 spotkanie
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [TORI I LOKITA reż. Bracia Dardenne + dyskusja po seansie](https://waw4free.pl/wydarzenie-161949-tori-i-lokita-rez-bracia-dardenne-dyskusja-po-seansie)
 (dobrowolna zrzutka za udział)
 [film](https://waw4free.pl/warszawa-darmowe-filmy)
@@ -1402,7 +1296,61 @@ spotkanie
 [Spotkanie z autorami nowej biografii Roberta Kubicy](https://waw4free.pl/wydarzenie-161935-spotkanie-z-autorami-nowej-biografii-roberta-kubicy)
 spotkanie
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
-[Warsztaty artystyczne](https://wa
+[Warsztaty artystyczne](https://waw4free.pl/wydarzenie-161961-warsztaty-artystyczne)
+[dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
+spotkanie
+[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
+[po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
+[po ukraińsku](https://waw4free.pl/warszawa-darmowe-ukrainskie)
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
+[Żoliborskie Vademecum Historyczne - premiera książki](https://waw4free.pl/wydarzenie-161742-zoliborskie-vademecum-historyczne-premiera-ksiazki)
+spotkanie
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 17:00, [Żoliborz](https://waw4free.pl/warszawa-za-darmo-zoliborz)
+[Spotkanie z Łęko Zygmuntównem wokół książki "K.Ł.M."](https://waw4free.pl/wydarzenie-161021-spotkanie-z-leko-zygmuntownem-wokol-ksiazki-k-l-m)
+spotkanie
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 18:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[The Flag Party - International Connections](https://waw4free.pl/wydarzenie-161383-the-flag-party-international-connections)
+[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
+spotkanie
+[po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 19:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[TWÓRCZA ISKRA – darmowe spotkanie bardów i bardek na Mokotowie](https://waw4free.pl/wydarzenie-161404-tworcza-iskra-darmowe-spotkanie-bardow-i-bardek-na-mokotowie)
+spotkanie
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 19:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[Wieczór poetycko-wspomnieniowy „Mówienie wierszem Zapasiewicza” z okazji 40 Teatru Za Dalekiego](https://waw4free.pl/wydarzenie-161552-wieczor-poetycko-wspomnieniowy-mowienie-wierszem-zapasiewicza-z-okazji-40-teatru-za-dalekiego)
+spotkanie
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+[Osoby dramatu: Czarodziejska góra](https://waw4free.pl/wydarzenie-160652-osoby-dramatu-czarodziejska-gora)
+spotkanie
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 21:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
+[Prz szłość ◦ Warsztaty redagowania tekstów krótkich i nowa seria plakatów Loesje](https://waw4free.pl/wydarzenie-161851-prz-szlosc-warsztaty-redagowania-tekstow-krotkich-i-nowa-seria-plakatow-loesje)
+spotkanie
+[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
+[22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 13:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[INNE STRONY & MISZKA - wspólne czytanie książek i dj set](https://waw4free.pl/wydarzenie-161957-inne-strony-miszka-wspolne-czytanie-ksiazek-i-dj-set)
+spotkanie
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 14:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Muzyka w życiu prywatnym](https://waw4free.pl/wydarzenie-161501-muzyka-w-zyciu-prywatnym)
+(wydarzenie płatne do 20 zł)
+[film](https://waw4free.pl/warszawa-darmowe-filmy)
+spotkanie
+[22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 16:00, [Żoliborz](https://waw4free.pl/warszawa-za-darmo-zoliborz)
+[Halówka koszykówka](https://waw4free.pl/wydarzenie-161965-halowka-koszykowka)
+[sport](https://waw4free.pl/warszawa-darmowe-sport)
+spotkanie
+[22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 16:45, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Dyskusyjny Klub Teatralny: Czarodziejska góra](https://waw4free.pl/wydarzenie-160649-dyskusyjny-klub-teatralny-czarodziejska-gora)
+spotkanie
+[teatr](https://waw4free.pl/warszawa-darmowe-teatr)
+[22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[Kowal Własnego Losu: "W życiu o życiu"](https://waw4free.pl/wydarzenie-161276-kowal-wlasnego-losu-w-zyciu-o-zyciu)
+spotkanie
+[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
+[23.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-23) (poniedziałek), 17:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+[BEZPŁATNY KLUB DYSKUSYJNY W JĘZYKU ANGIELSKI
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wyklady
 Darmowe
@@ -1449,67 +1397,34 @@ wykład
 wykład
 [wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
 wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-wykład
-[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[6. Konferencja Brand New(s)](https://waw4free.pl/wydarzenie-161486-6-konferencja-brand-new-s)
-wykład
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 9:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Warsztat: Kreacja Wizualna - Inżynieria obrazu: struktura i mechanizmy kreacji wizualnej](https://waw4free.pl/wydarzenie-161591-warsztat-kreacja-wizualna-inzynieria-obrazu-struktura-i-mechanizmy-kreacji-wizualnej)
-[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
-wykład
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 16:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
-[Edukacyjny Klub Filmowy | Warszawska Akademia Seniora](https://waw4free.pl/wydarzenie-161215-edukacyjny-klub-filmowy-warszawska-akademia-seniora)
-[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
-[film](https://waw4free.pl/warszawa-darmowe-filmy)
-wykład
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-[W ilu językach można być sobą? Wielojęzyczne światy osób z doświadczeniem migracji](https://waw4free.pl/wydarzenie-161830-w-ilu-jezykach-mozna-byc-soba-wielojezyczne-swiaty-osob-z-doswiadczeniem-migracji)
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-wykład
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Vistula Toastmasters Leaders - spotkanie hybrydowe](https://waw4free.pl/wydarzenie-161095-vistula-toastmasters-leaders-spotkanie-hybrydowe)
-wykład
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:15, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
 [Storytelling, zdjęcia, video i social media dla rzemiosła](https://waw4free.pl/wydarzenie-160282-storytelling-zdjecia-video-i-social-media-dla-rzemiosla)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [BEIKS MEDIA SHOW 2026 | Bezpłatne warsztaty, seminaria oraz pokazy sprzętu foto-video-film](https://waw4free.pl/wydarzenie-161868-beiks-media-show-2026-bezplatne-warsztaty-seminaria-oraz-pokazy-sprzetu-foto-video-film)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [targi, garażówka](https://waw4free.pl/warszawa-darmowe-targi)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 [„Jak być młodym w jesieni życia?"](https://waw4free.pl/wydarzenie-161459-jak-byc-mlodym-w-jesieni-zycia)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 12:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 12:00, [Rembertów](https://waw4free.pl/warszawa-za-darmo-rembertow)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [WYKŁAD | Czas na sztukę | Średniowieczne zakony rycerskie: joannici](https://waw4free.pl/wydarzenie-161068-wyklad-czas-na-sztuke-sredniowieczne-zakony-rycerskie-joannici)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 13:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-adplus video
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 13:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Wykład: Inwazyjne gatunki obce](https://waw4free.pl/wydarzenie-162012-wyklad-inwazyjne-gatunki-obce)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Spotkanie autorskie z Beatą Izdebską-Zybałą](https://waw4free.pl/wydarzenie-161487-spotkanie-autorskie-z-beata-izdebska-zybala)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Białołęka](https://waw4free.pl/warszawa-za-darmo-bialoleka)
 [Mokotów lubi pszczoły | Cykl spotkań edukacyjnych dla dorosłych | Rola zapylaczy w utrzymaniu bioróżnorodności miejskiej](https://waw4free.pl/wydarzenie-160546-mokotow-lubi-pszczoly-cykl-spotkan-edukacyjnych-dla-doroslych-rola-zapylaczy-w-utrzymaniu-bioroznorodnosci-miejskiej)
 wykład
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 16:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
@@ -1528,6 +1443,7 @@ wykład
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:30, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+adplus video
 [Nie udawaj Greka! – Grecja, jakiej nie znacie](https://waw4free.pl/wydarzenie-161816-nie-udawaj-greka-grecja-jakiej-nie-znacie)
 [slajdowisko](https://waw4free.pl/warszawa-darmowe-slajdowiska)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
@@ -1538,6 +1454,8 @@ wykład
 wykład
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Zakwaszenie organizmu? Czas przywrócić równowagę](https://waw4free.pl/wydarzenie-161613-zakwaszenie-organizmu-czas-przywrocic-rownowage)
 wykład
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:30, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -1550,8 +1468,6 @@ wykład
 wykład
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 10:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Samotność, zdrowie psychiczne, potrzeba wsparcia – co naprawdę wiemy o życiu seniorów? Konferencja w Warszawie](https://waw4free.pl/wydarzenie-162002-samotnosc-zdrowie-psychiczne-potrzeba-wsparcia-co-naprawde-wiemy-o-zyciu-seniorow-konferencja-w-warszawie)
 wykład
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 11:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
@@ -1574,6 +1490,8 @@ wykład
 [Kobiety – Polki w walce o prawa kobiet w XIX i XX wieku – wykład Ewy Andrzejewskiej](https://waw4free.pl/wydarzenie-161610-kobiety-polki-w-walce-o-prawa-kobiet-w-xix-i-xx-wieku-wyklad-ewy-andrzejewskiej)
 wykład
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:15, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [LinkedIn dla ekspertów - jak zbudować markę osobistą, która przyciąga klientów i pracodawców](https://waw4free.pl/wydarzenie-161905-linkedin-dla-ekspertow-jak-zbudowac-marke-osobista-ktora-przyciaga-klientow-i-pracodawcow)
 wykład
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:30, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
@@ -1585,8 +1503,6 @@ wykład
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
 wykład
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Film „Skazany” z cyklu „Twarze Temidy”](https://waw4free.pl/wydarzenie-161910-film-skazany-z-cyklu-twarze-temidy)
 [film](https://waw4free.pl/warszawa-darmowe-filmy)
 wykład
@@ -1613,6 +1529,8 @@ wykład
 [Mokotów lubi pszczoły | Cykl spotkań edukacyjnych dla dorosłych | Wpływ pestycydów na zdrowie pszczół](https://waw4free.pl/wydarzenie-160534-mokotow-lubi-pszczoly-cykl-spotkan-edukacyjnych-dla-doroslych-wplyw-pestycydow-na-zdrowie-pszczol)
 wykład
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 16:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Jurajski Filmowy Piątek | Jurassic World (2015) – reż. Colin Trevorrow](https://waw4free.pl/wydarzenie-160634-jurajski-filmowy-piatek-jurassic-world-2015-rez-colin-trevorrow)
 [film](https://waw4free.pl/warszawa-darmowe-filmy)
 wykład
@@ -1627,8 +1545,6 @@ wykład
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Jeszcze nie umiem – jak wspierać dziecko w radzeniu siebie z niepowodzeniem](https://waw4free.pl/wydarzenie-161631-jeszcze-nie-umiem-jak-wspierac-dziecko-w-radzeniu-siebie-z-niepowodzeniem)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
@@ -1652,6 +1568,8 @@ wykład
 [O Patologii w sieci: Czy AI stanowi zagrożenie? (DAMA KIER x TYTANOWY CAST)](https://waw4free.pl/wydarzenie-161543-o-patologii-w-sieci-czy-ai-stanowi-zagrozenie-dama-kier-x-tytanowy-cast)
 wykład
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:30, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Reportaż ze świata - Marcelina Szumer-Brysz](https://waw4free.pl/wydarzenie-161664-reportaz-ze-swiata-marcelina-szumer-brysz)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
@@ -1664,8 +1582,6 @@ wykład
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Las dla dociekliwych. Nie tylko pszczoły! Fascynujący świat bzygów](https://waw4free.pl/wydarzenie-162007-las-dla-dociekliwych-nie-tylko-pszczoly-fascynujacy-swiat-bzygow)
 wykład
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:30, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -1689,6 +1605,8 @@ wykład
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
 [23.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-23) (poniedziałek), 9:45, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Porozmawiajmy o technologii po ludzku. Konferencja online EDUMORROW „Zrozumieć technologię, pozostać człowiekiem”](https://waw4free.pl/wydarzenie-161173-porozmawiajmy-o-technologii-po-ludzku-konferencja-online-edumorrow-zrozumiec-technologie-pozostac-czlowiekiem)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
@@ -1702,8 +1620,6 @@ wykład
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 wykład
 [24.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-24) (wtorek), 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Akademia Sztuk Wonnych - zapachowy kurs z Kasią Kochańską](https://waw4free.pl/wydarzenie-161880-akademia-sztuk-wonnych-zapachowy-kurs-z-kasia-kochanska)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
@@ -1729,6 +1645,8 @@ wykład
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 wykład
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 10:00, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Wawerska Akademia Seniora „Genealogia - jak szukać, by znaleźć"](https://waw4free.pl/wydarzenie-161759-wawerska-akademia-seniora-genealogia-jak-szukac-by-znalezc)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 [koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
@@ -1742,12 +1660,40 @@ wykład
 [Mokotów lubi pszczoły | Cykl spotkań edukacyjnych dla dorosłych | e-DNA](https://waw4free.pl/wydarzenie-160535-mokotow-lubi-pszczoly-cykl-spotkan-edukacyjnych-dla-doroslych-e-dna)
 wykład
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 16:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Seminarium Literackie w Muzeum Azji i Pacyfiku | Buszra Al-Maktari](https://waw4free.pl/wydarzenie-161801-seminarium-literackie-w-muzeum-azji-i-pacyfiku-buszra-al-maktari)
 wykład
 [25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Dyskusja o kulturze lekomanii i suplementach | P*ozac – na chęć życia. Ge*iavit – na niestarzenie](https://waw4free.pl/wydarzenie-161640-dyskusja-o-kulturze-lekomanii-i-suplementach-p-ozac-na-chec-
+[Dyskusja o kulturze lekomanii i suplementach | P*ozac – na chęć życia. Ge*iavit – na niestarzenie](https://waw4free.pl/wydarzenie-161640-dyskusja-o-kulturze-lekomanii-i-suplementach-p-ozac-na-chec-zycia-ge-iavit-na-niestarzenie)
+[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
+wykład
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 18:30, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+[VERITA – PATRYCJA MIZERSKA | Interdyscyplinarna premiera projektu](https://waw4free.pl/wydarzenie-161967-verita-patrycja-mizerska-interdyscyplinarna-premiera-projektu)
+(dobrowolna zrzutka za udział)
+[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
+[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
+wykład
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[25.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-25) (środa), 18:30, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
+[Women in IT Day](https://waw4free.pl/wydarzenie-161895-women-in-it-day)
+[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
+wykład
+[26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 9:00 - [27.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-27) (piątek), [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+[Jak budować pokój poprzez dialog? Podsumowanie projektu Teach Peace (Uczmy Pokoju)](https://waw4free.pl/wydarzenie-161209-jak-budowac-pokoj-poprzez-dialog-podsumowanie-projektu-teach-peace-uczmy-pokoju)
+[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
+[warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
+wykład
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 12:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Mokotów lubi pszczoły | Cykl spotkań edukacyjnych dla dorosłych | Wyniki z biomonitoringu](https://waw4free.pl/wydarzenie-160536-mokotow-lubi-pszczoly-cykl-spotkan-edukacyjnych-dla-doroslych-wyniki-z-biomonitoringu)
+wykład
+[26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 16:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
+[Kino? Czy mnie słychać? | cykl: KINO W MIEŚCIE. MIASTO W KINIE](https://waw4free.pl/wydarzenie-158257-kino-czy-mnie-slychac-cykl-kino-w-miescie-miasto-w-kinie)
+wykład
+[26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[„AMAZONKI I LUDOŻERCY” / ADRIAN POGORZELSKI / SPOTKANIE AUTORSKIE](https://waw4free.pl/wydarzenie-161228-amazonki-i-ludozercy-adrian-pogorzelski-spotkanie-
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-filmy
 Darmowe
@@ -1759,37 +1705,24 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące pokazy filmowe w Warszawie
-[Seans filmowy „Lalka” dla seniorów z Bemowa](https://waw4free.pl/wydarzenie-161805-seans-filmowy-lalka-dla-seniorow-z-bemowa)
-[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
-film
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 11:00, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
-[Edukacyjny Klub Filmowy | Warszawska Akademia Seniora](https://waw4free.pl/wydarzenie-161215-edukacyjny-klub-filmowy-warszawska-akademia-seniora)
-[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
-film
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
-reklama
-[Bezpłatny pokaz filmu Montagskino bei Goethe: Wilma will mehr](https://waw4free.pl/wydarzenie-161567-bezplatny-pokaz-filmu-montagskino-bei-goethe-wilma-will-mehr)
-film
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
-autopromocja
 [„Andrzej Bukowiecki przedstawia” – spotkania z klasyką kina: „Przekleństwa niewinności”](https://waw4free.pl/wydarzenie-159714-andrzej-bukowiecki-przedstawia-spotkania-z-klasyka-kina-przeklenstwa-niewinnosci)
 film
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
 [Seans filmowy „Lalka” dla seniorów z Bemowa](https://waw4free.pl/wydarzenie-161806-seans-filmowy-lalka-dla-seniorow-z-bemowa)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 film
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 14:30, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_1_nowe
+reklama
 [AI Filmmakers Meetup](https://waw4free.pl/wydarzenie-160974-ai-filmmakers-meetup)
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
+autopromocja
 [Oscarowe Środy - „Tajny Agent”](https://waw4free.pl/wydarzenie-159706-oscarowe-srody-tajny-agent)
 film
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
@@ -1797,8 +1730,6 @@ film
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 film
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:00, [Wilanów](https://waw4free.pl/warszawa-za-darmo-wilanow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
 [Filmoterapia w Mediatece | „Kłamstewko” (2019)](https://waw4free.pl/wydarzenie-161802-filmoterapia-w-mediatece-klamstewko-2019)
 film
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
@@ -1810,6 +1741,8 @@ film
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [Werner Herzog - pokazy filmów w listopadzie | Woyzeck (1979)](https://waw4free.pl/wydarzenie-160847-werner-herzog-pokazy-filmow-w-listopadzie-woyzeck-1979)
 film
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 18:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
@@ -1824,7 +1757,6 @@ film
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-adplus video
 [Projekcja filmu „Dług”, reż. Krzysztof Krauze + prelekcja Kamila Kalbarczyka](https://waw4free.pl/wydarzenie-162043-projekcja-filmu-dlug-rez-krzysztof-krauze-prelekcja-kamila-kalbarczyka)
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
@@ -1834,13 +1766,12 @@ film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
 [TORI I LOKITA reż. Bracia Dardenne + dyskusja po seansie](https://waw4free.pl/wydarzenie-161949-tori-i-lokita-rez-bracia-dardenne-dyskusja-po-seansie)
 (dobrowolna zrzutka za udział)
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+adplus video
 [Niedzielne Poranki - kino dla najmłodszych - „Niesamowite przygody skarpetek 3. Ale kosmos!”](https://waw4free.pl/wydarzenie-159700-niedzielne-poranki-kino-dla-najmlodszych-niesamowite-przygody-skarpetek-3-ale-kosmos)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 film
@@ -1850,6 +1781,8 @@ film
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), 16:00, [Żoliborz](https://waw4free.pl/warszawa-za-darmo-zoliborz)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [10 edycja Festiwalu Filmowego 9 minut](https://waw4free.pl/wydarzenie-158714-10-edycja-festiwalu-filmowego-9-minut)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 film
@@ -1871,8 +1804,6 @@ film
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 18:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Interwencje filmowe. Kino w ważnej sprawie | „Titicut Follies” - pokaz filmowy i prelekcja](https://waw4free.pl/wydarzenie-162030-interwencje-filmowe-kino-w-waznej-sprawie-titicut-follies-pokaz-filmowy-i-prelekcja)
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
@@ -1883,6 +1814,8 @@ film
 [Kultura na Wielkim Ekranie 2026 | Film "Przemytnicy"](https://waw4free.pl/wydarzenie-162018-kultura-na-wielkim-ekranie-2026-film-przemytnicy)
 film
 [26.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-26) (czwartek), 19:00, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Jurajski Filmowy Piątek | Jurassic World: Upadłe królestwo (2018) – reż. J.A. Bayona (Juan Antonio Bayona)](https://waw4free.pl/wydarzenie-160635-jurajski-filmowy-piatek-jurassic-world-upadle-krolestwo-2018-rez-j-a-bayona-juan-antonio-bayona)
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
@@ -1911,8 +1844,6 @@ film
 film
 [warsztaty](https://waw4free.pl/warszawa-darmowe-warsztaty)
 [29.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-29) (niedziela), 12:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [„Andrzej Bukowiecki przedstawia” – spotkania z klasyką kina: „Windą na szafot”](https://waw4free.pl/wydarzenie-159715-andrzej-bukowiecki-przedstawia-spotkania-z-klasyka-kina-winda-na-szafot)
 film
 [01.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-1) (wtorek), 19:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
@@ -1924,6 +1855,8 @@ film
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [04.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-4) (piątek), 17:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Niedzielne Poranki - kino dla najmłodszych - „Vincent. Legenda oceanu”](https://waw4free.pl/wydarzenie-159701-niedzielne-poranki-kino-dla-najmlodszych-vincent-legenda-oceanu)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 film
@@ -1948,8 +1881,6 @@ film
 [Filmoterapia w Mediatece | „Mała miss” (2006)](https://waw4free.pl/wydarzenie-161804-filmoterapia-w-mediatece-mala-miss-2006)
 film
 [10.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-10) (czwartek), 17:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Kino z wielkiej płyty | cykl: KINO W MIEŚCIE. MIASTO W KINIE](https://waw4free.pl/wydarzenie-160085-kino-z-wielkiej-plyty-cykl-kino-w-miescie-miasto-w-kinie)
 film
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
@@ -1962,6 +1893,8 @@ film
 film
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [18.12.2026](https://waw4free.pl/warszawa-wydarzenia-2026-12-18) (piątek), 17:30, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Historanki z zimowym Misiem Uszatkiem](https://waw4free.pl/wydarzenie-161506-historanki-z-zimowym-misiem-uszatkiem)
 (wydarzenie płatne do 30 zł)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
@@ -1993,8 +1926,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
-[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-warsztaty
@@ -2007,7 +1940,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące warsztaty i szkolenia w Warszawie
 polecane!
 [Stage Presence – Bring Your Speech to Life](https://waw4free.pl/wydarzenie-161888-stage-presence-bring-your-speech-to-life)
@@ -2031,123 +1963,74 @@ warsztaty
 wydarzenie trwające (do [30.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-30) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [Wesprzyj waw4free 🫶](https://waw4free.pl/wesprzyj)
 autopromocja
-[Festiwal PRADMOVA w Warszawie](https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie)
-[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
-[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
-[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
-warsztaty
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
-[inne](https://waw4free.pl/warszawa-darmowe-inne)
-wydarzenie trwające (do [16.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-16) , poniedziałek), [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Otwarta bezpłatna pracownia krawiecka - Taka Szpilka!](https://waw4free.pl/wydarzenie-157819-otwarta-bezplatna-pracownia-krawiecka-taka-szpilka)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 10:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
-[Zimowanie - Warsztat arteterapeutyczny](https://waw4free.pl/wydarzenie-161955-zimowanie-warsztat-arteterapeutyczny)
-[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 11:30, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
-[OTWARTA PRACOWNIA HAFTU | haft richelieu cz.1](https://waw4free.pl/wydarzenie-161733-otwarta-pracownia-haftu-haft-richelieu-cz-1)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 16:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Warsztat: Kreacja Wizualna - Inżynieria obrazu: struktura i mechanizmy kreacji wizualnej](https://waw4free.pl/wydarzenie-161591-warsztat-kreacja-wizualna-inzynieria-obrazu-struktura-i-mechanizmy-kreacji-wizualnej)
-warsztaty
-[wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 16:15, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
-reklama
-[Warsztaty fotograficzne z Michałem Bojarą](https://waw4free.pl/wydarzenie-160991-warsztaty-fotograficzne-z-michalem-bojara)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-[Warsztataty zinów](https://waw4free.pl/wydarzenie-161474-warsztataty-zinow)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-[OTWARTA PRACOWNIA MALARSKA | akryle od podstaw - kompozycja](https://waw4free.pl/wydarzenie-161730-otwarta-pracownia-malarska-akryle-od-podstaw-kompozycja)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
-[Warsztaty z mentoringu w Asbiro Toastmasters](https://waw4free.pl/wydarzenie-162008-warsztaty-z-mentoringu-w-asbiro-toastmasters)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:50, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
-[Bezpłatna Zumba w Jabłonnie](https://waw4free.pl/wydarzenie-84528-bezplatna-zumba-w-jablonnie)
-[sport](https://waw4free.pl/warszawa-darmowe-sport)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:00, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
-[Bezpłatny cross training w Jabłonnie](https://waw4free.pl/wydarzenie-115547-bezplatny-cross-training-w-jablonnie)
-[sport](https://waw4free.pl/warszawa-darmowe-sport)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 20:00, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
-[Bezpłatne aikido dla dorosłych](https://waw4free.pl/wydarzenie-147215-bezplatne-aikido-dla-doroslych)
-[sport](https://waw4free.pl/warszawa-darmowe-sport)
-warsztaty
-[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 20:00, [Praga-Północ](https://waw4free.pl/warszawa-za-darmo-pragapln)
-adplus video
 [Storytelling, zdjęcia, video i social media dla rzemiosła](https://waw4free.pl/wydarzenie-160282-storytelling-zdjecia-video-i-social-media-dla-rzemiosla)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 warsztaty
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 9:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
 [BEIKS MEDIA SHOW 2026 | Bezpłatne warsztaty, seminaria oraz pokazy sprzętu foto-video-film](https://waw4free.pl/wydarzenie-161868-beiks-media-show-2026-bezplatne-warsztaty-seminaria-oraz-pokazy-sprzetu-foto-video-film)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 [targi, garażówka](https://waw4free.pl/warszawa-darmowe-targi)
 warsztaty
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
-reklama
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 10:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 [Zdrowy Kręgosłup w Parku Kultury w Powsinie](https://waw4free.pl/wydarzenie-158836-zdrowy-kregoslup-w-parku-kultury-w-powsinie)
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 11:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 11:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
 [Joga twarzy dla seniorów](https://waw4free.pl/wydarzenie-161619-joga-twarzy-dla-seniorow)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 13:30, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 13:30, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
 [EKO warsztaty](https://waw4free.pl/wydarzenie-146479-eko-warsztaty)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_2_nowe
+reklama
 [ZOSTAJE W OBIEGU | Przeróbki Tkanin i Personalizacja Ubrań](https://waw4free.pl/wydarzenie-157773-zostaje-w-obiegu-przerobki-tkanin-i-personalizacja-ubran)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
 [Filcowe okładki](https://waw4free.pl/wydarzenie-160860-filcowe-okladki)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Ochota](https://waw4free.pl/warszawa-za-darmo-ochota)
 [Muzeum Bielan - warsztaty z mieszkańcami](https://waw4free.pl/wydarzenie-161204-muzeum-bielan-warsztaty-z-mieszkancami)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
 [Spektrum kultury: aromaterapia–napary i zapachowe tabliczki. Cykl warsztatów dla osób neuroatypowych](https://waw4free.pl/wydarzenie-161286-spektrum-kultury-aromaterapia-napary-i-zapachowe-tabliczki-cykl-warsztatow-dla-osob-neuroatypowych)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 [Public Speaking practice at Poland’s First Toastmasters](https://waw4free.pl/wydarzenie-156673-public-speaking-practice-at-poland-s-first-toastmasters)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 warsztaty
 [po angielsku](https://waw4free.pl/warszawa-darmowe-angielskie)
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 17:45, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 17:45, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
 TUWIM GRA! Cykl 4 warsztatów teatralno-muzycznych z finałowym występem
 reklama
 kup bilet!
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Warsztaty rękodzielnicze I Warszawska Akademia Seniora](https://waw4free.pl/wydarzenie-161216-warsztaty-rekodzielnicze-i-warszawska-akademia-seniora)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+adplus video
 [Wtorki z jogą na PGE Narodowym](https://waw4free.pl/wydarzenie-142974-wtorki-z-joga-na-pge-narodowym)
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
 [Konstancin-Jeziorna - spotkanie z uważnym dotykiem w masażu SHIATSU](https://waw4free.pl/wydarzenie-161846-konstancin-jeziorna-spotkanie-z-uwaznym-dotykiem-w-masazu-shiatsu)
 (dobrowolna zrzutka za udział)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 18:30, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 18:30, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_3_nowe
+reklama
 [Rodzinne zajęcia koszykarskie](https://waw4free.pl/wydarzenie-161329-rodzinne-zajecia-koszykarskie)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 warsztaty
-[17.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-17) (wtorek), 19:30, [Wilanów](https://waw4free.pl/warszawa-za-darmo-wilanow)
+[dzisiaj](https://waw4free.pl/w-warszawie-za-darmo-dzisiaj) , 19:30, [Wilanów](https://waw4free.pl/warszawa-za-darmo-wilanow)
 [Ursynowski Nordic Walking 2026 | Grupy środowe](https://waw4free.pl/wydarzenie-147626-ursynowski-nordic-walking-2026-grupy-srodowe)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
 [spacer lub rower](https://waw4free.pl/warszawa-darmowe-spacery)
@@ -2174,8 +2057,6 @@ warsztaty
 warsztaty
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Warsztaty Genealogiczne | Notariaty i hipoteki - dokumenty, które możemy wykorzystać do ustalenia historii członków swojej rodziny](https://waw4free.pl/wydarzenie-161267-warsztaty-genealogiczne-notariaty-i-hipoteki-dokumenty-ktore-mozemy-wykorzystac-do-ustalenia-historii-czlonkow-swojej-rodziny)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
@@ -2186,6 +2067,8 @@ warsztaty
 [Warsztaty tworzenia lalki](https://waw4free.pl/wydarzenie-161720-warsztaty-tworzenia-lalki)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Warsztaty rękodzielnicze I Kultura na Pradze-Południe](https://waw4free.pl/wydarzenie-157134-warsztaty-rekodzielnicze-i-kultura-na-pradze-poludnie)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 17:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
@@ -2206,8 +2089,6 @@ reklama
 [Warsztaty wycinankowe z Umysłem Biedaka](https://waw4free.pl/wydarzenie-161896-warsztaty-wycinankowe-z-umyslem-biedaka)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Ćwicz autoprezentacje z klubem Toastmasters Royal Best Speakers](https://waw4free.pl/wydarzenie-161973-cwicz-autoprezentacje-z-klubem-toastmasters-royal-best-speakers)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:00, [Włochy](https://waw4free.pl/warszawa-za-darmo-wlochy)
@@ -2218,6 +2099,8 @@ warsztaty
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [WARSZTATY KREATYWNEGO PISANIA](https://waw4free.pl/wydarzenie-160550-warsztaty-kreatywnego-pisania)
 warsztaty
 [18.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-18) (środa), 18:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
@@ -2243,8 +2126,6 @@ warsztaty
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 10:00, [Wawer](https://waw4free.pl/warszawa-za-darmo-wawer)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Warsztaty Rękodzielnicze w Pół na Puł](https://waw4free.pl/wydarzenie-134785-warsztaty-rekodzielnicze-w-pol-na-pul)
 warsztaty
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
@@ -2254,6 +2135,8 @@ warsztaty
 [Warsztat Bransoletki z Muliny](https://waw4free.pl/wydarzenie-161685-warsztat-bransoletki-z-muliny)
 warsztaty
 [19.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-19) (czwartek), 17:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Warsztaty plastyczne dla dzieci - do DZIEŁA „Misie, miśki i niedźwiedzie”](https://waw4free.pl/wydarzenie-161440-warsztaty-plastyczne-dla-dzieci-do-dziela-misie-miski-i-niedzwiedzie)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 warsztaty
@@ -2280,8 +2163,6 @@ warsztaty
 warsztaty
 [inne](https://waw4free.pl/warszawa-darmowe-inne)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 0:00 - [22.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-22) (niedziela), [Wesoła](https://waw4free.pl/warszawa-za-darmo-wesola)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Dobra umowa chroni obie strony. Umowy i prawa autorskie](https://waw4free.pl/wydarzenie-160283-dobra-umowa-chroni-obie-strony-umowy-i-prawa-autorskie)
 [spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
 warsztaty
@@ -2296,6 +2177,8 @@ warsztaty
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
 warsztaty
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 16:00, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Kreatywny piątek | Maluj, co czujesz](https://waw4free.pl/wydarzenie-161290-kreatywny-piatek-maluj-co-czujesz)
 warsztaty
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 16:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -2317,8 +2200,6 @@ warsztaty
 warsztaty
 [wykład](https://waw4free.pl/warszawa-darmowe-wyklady)
 [20.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-20) (piątek), 18:00, [online](https://waw4free.pl/warszawa-za-darmo-online)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Zajęcia z tenisa stołowego [godz. 10:00 seniorzy, 13:00 dzieci i młodzież]](https://waw4free.pl/wydarzenie-158952-zajecia-z-tenisa-stolowego-godz-10-00-seniorzy-13-00-dzieci-i-mlodziez)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 [dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
@@ -2333,6 +2214,8 @@ warsztaty
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 warsztaty
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 10:10, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
 [Neuropraktyki: BEZWYSIŁKOWOŚĆ](https://waw4free.pl/wydarzenie-161025-neuropraktyki-bezwysilkowosc)
 warsztaty
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 11:00, [Wola](https://waw4free.pl/warszawa-za-darmo-wola)
@@ -2358,12 +2241,66 @@ warsztaty
 [sport](https://waw4free.pl/warszawa-darmowe-sport)
 warsztaty
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Targówek](https://waw4free.pl/warszawa-za-darmo-targowek)
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
-reklama
 [Rodzinne warsztaty muzyczne OPOWIEDZ MI BAJKĘ](https://waw4free.pl/wydarzenie-161526-rodzinne-warsztaty-muzyczne-opowiedz-mi-bajke)
 [dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
 warsztaty
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wesoła](https://waw4free.pl/warszawa-za-darmo-wesola)
 [Warsztaty „Jesienne kobiece SPA”](https://waw4free.pl/wydarzenie-161911-warsztaty-jesienne-kobiece-spa)
 warsztaty
-[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wilanów](https://waw4f
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:00, [Wilanów](https://waw4free.pl/warszawa-za-darmo-wilanow)
+[Rodzinna Matematyka - dla dzieci w wieku 6-9 lat wraz z rodzicami/opiekunami](https://waw4free.pl/wydarzenie-158493-rodzinna-matematyka-dla-dzieci-w-wieku-6-9-lat-wraz-z-rodzicami-opiekunami)
+[dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 12:30, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodatkowy
+reklama
+[Ursynowski Nordic Walking 2026 | Grupy sobotnie](https://waw4free.pl/wydarzenie-147624-ursynowski-nordic-walking-2026-grupy-sobotnie)
+[spacer lub rower](https://waw4free.pl/warszawa-darmowe-spacery)
+[sport](https://waw4free.pl/warszawa-darmowe-sport)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 13:00, [Ursynów](https://waw4free.pl/warszawa-za-darmo-ursynow)
+[Spotkanie z pielęgniarką: domowa apteczka seniora i objawy alarmowe](https://waw4free.pl/wydarzenie-161998-spotkanie-z-pielegniarka-domowa-apteczka-seniora-i-objawy-alarmowe)
+[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
+[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 13:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[BOKS DLA WSZYSTKICH w Śródmieściu](https://waw4free.pl/wydarzenie-152067-boks-dla-wszystkich-w-srodmiesciu)
+[sport](https://waw4free.pl/warszawa-darmowe-sport)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 13:30, [Śródmieście](https://waw4free.pl/warszawa-za-darmo-srodmiescie)
+[W rytmie dotyku | Warsztat masażu w parach](https://waw4free.pl/wydarzenie-160609-w-rytmie-dotyku-warsztat-masazu-w-parach)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:00, [Mokotów](https://waw4free.pl/warszawa-za-darmo-mokotow)
+[Kobiecy reset – humor, relacje i chwila dla siebie | Biblioteka Kobiecych Głosów w Książnicy!](https://waw4free.pl/wydarzenie-160861-kobiecy-reset-humor-relacje-i-chwila-dla-siebie-biblioteka-kobiecych-glosow-w-ksiaznicy)
+[spotkanie](https://waw4free.pl/warszawa-darmowe-spotkania)
+warsztaty
+[wystawa](https://waw4free.pl/warszawa-darmowe-wystawy)
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:00, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+[FESTIWAL NAUKOWY „ODKRYWCY NAUKI”](https://waw4free.pl/wydarzenie-161859-festiwal-naukowy-odkrywcy-nauki)
+[dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
+[dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
+warsztaty
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 15:30, [okolice Warszawy](https://waw4free.pl/warszawa-za-darmo-okolice)
+Akademia Zielarska - Receptura zapachu
+reklama
+kup bilet!
+[Noc Kultury](https://waw4free.pl/wydarzenie-161258-noc-kultury)
+[dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
+[dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
+[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
+[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
+[koncert](https://waw4free.pl/warszawa-darmowe-koncerty)
+[sport](https://waw4free.pl/warszawa-darmowe-sport)
+[teatr](https://waw4free.pl/warszawa-darmowe-teatr)
+warsztaty
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Bemowo](https://waw4free.pl/warszawa-za-darmo-bemowo)
+[Andrzejkowa Potańcówka Międzypokoleniowa](https://waw4free.pl/wydarzenie-161931-andrzejkowa-potancowka-miedzypokoleniowa)
+[dla dzieci](https://waw4free.pl/warszawa-darmowe-dzieci)
+[dla młodzieży](https://waw4free.pl/warszawa-darmowe-mlodziez)
+[dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
+[impreza](https://waw4free.pl/warszawa-darmowe-imprezy)
+warsztaty
+[inne](https://waw4free.pl/warszawa-darmowe-inne)
+[21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Praga-Południe](https://waw4free.pl/warszawa-za-darmo-pragapld)
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> box_dodat

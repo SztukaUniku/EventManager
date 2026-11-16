@@ -1,478 +1,14 @@
 {
- "generated_at": "2026-11-16T23:56+01:00",
+ "generated_at": "2026-11-17T00:03+01:00",
  "window": {
-  "from": "2026-11-16",
-  "to": "2026-12-16"
+  "from": "2026-11-17",
+  "to": "2026-12-17"
  },
- "refs": {},
+ "refs": {
+  "a": "D",
+  "b": "P"
+ },
  "events": [
-  {
-   "title": "Wolski Book Club",
-   "date": "2026-11-16",
-   "time": "17:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Wola",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161285-wolski-book-club",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "ca3d169cff",
-   "day_off": null
-  },
-  {
-   "title": "Spotkanie autorskie z Marią Szajer",
-   "date": "2026-11-16",
-   "time": "17:30",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Bielany",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161760-spotkanie-autorskie-z-maria-szajer",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "3e16a86562",
-   "day_off": null
-  },
-  {
-   "title": "Zrób z nami wegańskie kanapki dla Fundacji Daj Herbatę!",
-   "date": "2026-11-16",
-   "time": "17:30",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-152097-zrob-z-nami-weganskie-kanapki-dla-fundacji-daj-herbate",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "511681f317",
-   "day_off": null
-  },
-  {
-   "title": "Bezpłatny pokaz filmu Montagskino bei Goethe: Wilma will mehr",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161567-bezplatny-pokaz-filmu-montagskino-bei-goethe-wilma-will-mehr",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Film",
-   "tags": [
-    "film"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "33bb9c313f",
-   "day_off": null
-  },
-  {
-   "title": "IMPRO BEZ - Otwarty Teatr Improwizowany w Radio Telewizja",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161706-impro-bez-otwarty-teatr-improwizowany-w-radio-telewizja",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Teatr i performans",
-   "tags": [
-    "teatr"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "89484d69db",
-   "day_off": null
-  },
-  {
-   "title": "OTWARTA PRACOWNIA MALARSKA | akryle od podstaw - kompozycja",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161730-otwarta-pracownia-malarska-akryle-od-podstaw-kompozycja",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Warsztaty",
-   "tags": [
-    "warsztaty",
-    "malarstwo"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "9a2ecfd59c",
-   "day_off": null
-  },
-  {
-   "title": "W ilu językach można być sobą? Wielojęzyczne światy osób z doświadczeniem migracji",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161830-w-ilu-jezykach-mozna-byc-soba-wielojezyczne-swiaty-osob-z-doswiadczeniem-migracji",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "e2e9fd08e6",
-   "day_off": null
-  },
-  {
-   "title": "Warsztataty zinów",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Wola",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161474-warsztataty-zinow",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Warsztaty",
-   "tags": [
-    "warsztaty"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "dff73ca942",
-   "day_off": null
-  },
-  {
-   "title": "Warsztaty fotograficzne z Michałem Bojarą",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Wola",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-160991-warsztaty-fotograficzne-z-michalem-bojara",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Warsztaty",
-   "tags": [
-    "warsztaty",
-    "fotografia"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "31b43ee0b4",
-   "day_off": null
-  },
-  {
-   "title": "ABELARD GIZA",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "Klub Fair Play",
-   "address": "",
-   "area": "Warszawa",
-   "price": "99 zł",
-   "free": false,
-   "how": "",
-   "url": "https://kulturalnie.waw.pl/wydarzenia/abelard-giza/",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Inne",
-   "tags": [],
-   "source": "kulturalnie",
-   "source_name": "kulturalnie.waw.pl",
-   "via": "dane strukturalne",
-   "id": "293a6be207",
-   "day_off": null
-  },
-  {
-   "title": "Ana Laíns: Nie tylko fado – koncert muzyki portugalskiej",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "Ursynowskie Centrum Kultury \"Alternatywy\"",
-   "address": "ul. Indiry Gandhi 9, Warszawa",
-   "area": "Warszawa",
-   "price": "150 zł",
-   "free": false,
-   "how": "",
-   "url": "https://kulturalnie.waw.pl/wydarzenia/ana-lains-nie-tylko-fado-koncert-muzyki-portugalskiej/",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Koncerty",
-   "tags": [],
-   "source": "kulturalnie",
-   "source_name": "kulturalnie.waw.pl",
-   "via": "dane strukturalne",
-   "id": "ca11a3b992",
-   "day_off": null
-  },
-  {
-   "title": "BIG FEJK | Z Karoliną Korwin Piotrowską o nowej książce rozmawia Katarzyna Kasia",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161367-big-fejk-z-karolina-korwin-piotrowska-o-nowej-ksiazce-rozmawia-katarzyna-kasia",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "e9ee9ab0ca",
-   "day_off": null
-  },
-  {
-   "title": "CINEMONDAY: Let’s talk about cinema",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Ochota",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161838-cinemonday-let-s-talk-about-cinema",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "6d4037b76e",
-   "day_off": null
-  },
-  {
-   "title": "Dyskusyjny Klub Płytowo-Książkowy: Krotochwile, saksofon i jazz – spotkanie z Krzysztofem Medyną",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161434-dyskusyjny-klub-plytowo-ksiazkowy-krotochwile-saksofon-i-jazz-spotkanie-z-krzysztofem-medyna",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Koncerty",
-   "tags": [
-    "jazz",
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "0fa1f206ba",
-   "day_off": null
-  },
-  {
-   "title": "Poniedziałek na wesoło #71 Stand Up Open Mic w Arcade Bee Hala Koszyki x Wydarzenia Komediowe",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161147-poniedzialek-na-wesolo-71-stand-up-open-mic-w-arcade-bee-hala-koszyki-x-wydarzenia-komediowe",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Stand-up",
-   "tags": [
-    "stand-up"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "8b13d6ba28",
-   "day_off": null
-  },
-  {
-   "title": "Spotkanie z Krzysztofem Łapinskim, autorem książki „Najmądrzejszy. Biografia Sokratesa”",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Praga-Północ",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161777-spotkanie-z-krzysztofem-lapinskim-autorem-ksiazki-najmadrzejszy-biografia-sokratesa",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Spotkania i wykłady",
-   "tags": [
-    "wykład / spotkanie"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "3aeaef20f9",
-   "day_off": null
-  },
-  {
-   "title": "Stand-up: Marcin Chmiel & Amadeus Cichulski",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "BeerStation",
-   "address": "ul. Żurawia 22, Warszawa",
-   "area": "Warszawa",
-   "price": "",
-   "free": null,
-   "how": "",
-   "url": "https://kulturalnie.waw.pl/wydarzenia/stand-up-marcin-chmiel-amadeus-cichulski-1/",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Stand-up",
-   "tags": [
-    "stand-up"
-   ],
-   "source": "kulturalnie",
-   "source_name": "kulturalnie.waw.pl",
-   "via": "dane strukturalne",
-   "id": "d09b91dca5",
-   "day_off": null
-  },
-  {
-   "title": "Mokotowskie Zaduszki Jazzowe 2026 - Grzegorz Dowgiałło i Emilia Stalmach",
-   "date": "2026-11-16",
-   "time": "19:30",
-   "date_to": null,
-   "ongoing": false,
-   "venue": "",
-   "address": "",
-   "area": "Mokotów",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161656-mokotowskie-zaduszki-jazzowe-2026-grzegorz-dowgiallo-i-emilia-stalmach",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Koncerty",
-   "tags": [
-    "jazz"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "1c6564caf6",
-   "day_off": null
-  },
   {
    "title": "EKO warsztaty",
    "date": "2026-11-17",
@@ -523,7 +59,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "1fcc047735",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Muzeum Bielan - warsztaty z mieszkańcami",
@@ -704,7 +243,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "2103646c36",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Monodram „Umińska”",
@@ -888,7 +430,10 @@
    "source_name": "kulturalnie.waw.pl",
    "via": "dane strukturalne",
    "id": "6586a5637f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 11,
+   "dist_b": 7,
+   "dist_approx": false
   },
   {
    "title": "Andrzej Bukowiecki przedstawia Przekleństwa Niewinności",
@@ -962,7 +507,10 @@
    "source_name": "kulturalnie.waw.pl",
    "via": "dane strukturalne",
    "id": "7b40ea22f8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Scena Muzyki Polskiej",
@@ -988,7 +536,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "4b38c10f64",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Stand-Up Bomba Testy",
@@ -1067,7 +618,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "167739ca74",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Zalewski & Borkowski Przedstawiają",
@@ -1168,7 +722,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "64b644f0fc",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "\"Cały świat zna proszki migreno-nerwosin\" Alicja Latkowska",
@@ -1273,7 +830,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "93beead533",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "La Perra",
@@ -1299,7 +859,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "bfb5b22632",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Migamy o… sztuce z Anią Durczak. Świąteczne warsztaty ceramiczne w PJM cz. I i II",
@@ -1535,7 +1098,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "ab511a7eb4",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Salon Żeromskiego - gościmy Andrzeja Stasiuka",
@@ -1666,7 +1232,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "881574b324",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Jak przygotować dobry czas z osobą żyjącą z demencją - spotkanie z gerontopsychomotorykiem",
@@ -1771,7 +1340,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "9a3887743f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Oscarowe Środy - „Tajny Agent”",
@@ -1821,7 +1393,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "d2ef2af920",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Stage Presence – Bring Your Speech to Life",
@@ -1873,7 +1448,10 @@
    "source_name": "kulturalnie.waw.pl",
    "via": "dane strukturalne",
    "id": "aba99af25a",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 22,
+   "dist_b": 19,
+   "dist_approx": true
   },
   {
    "title": "World Pub Quiz + Social Meetup",
@@ -1925,7 +1503,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "c176fc8630",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Czego nie widać w sztuce",
@@ -1949,7 +1530,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "5ac5d8603b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Festiwal Sofa - wernisaż prac konkursowych",
@@ -2080,7 +1664,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "e99fe7a03f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Warsztat Bransoletki z Muliny",
@@ -2340,7 +1927,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "3400521bb2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Re/Classic. KINOrozmowa w „Alternatywach”",
@@ -2497,7 +2087,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "172022fd4f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Wykład „Granica nadziei: Węgiersko-Polski Komitet Opieki nad Uchodźcami w czasie II wojny światowej” i koncert muzyki klasycznej",
@@ -2736,7 +2329,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "90e73b9fbb",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Drakula",
@@ -2762,7 +2358,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "6031eed3a9",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Folk symfonicznie",
@@ -2789,7 +2388,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "27faed6f40",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Jazz w Lesie Bielańskim: Grażyna Auguścik International Quartet",
@@ -2839,7 +2441,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "569bbb2c78",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Towarzyski Quiz Podróżniczy",
@@ -2944,7 +2549,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "761f4869b5",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 20,
+   "dist_b": 9,
+   "dist_approx": false
   },
   {
    "title": "Warsztaty MALARSKO-DEKORATORSKIE - każdy piątek w Mediatece",
@@ -3076,7 +2684,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "2c3bd4b599",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Co daje DaDa i jak DaDa gada ◦ spotkanie o dadaizmie w języku i sztuce",
@@ -3439,7 +3050,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "18df831552",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "#GRALESIE | Daniel Gałązka z zespołem",
@@ -3465,7 +3079,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "3caab64ccb",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Dom weselny – dwie siostry i wesele (spektakl)",
@@ -3492,7 +3109,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "7c0dafa679",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Eufonie - Chór Filharmonii Narodowej",
@@ -3518,7 +3138,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "bdd58a129b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Koncert grupy Loud Cloud",
@@ -3548,7 +3171,10 @@
      "source_name": "Centrum Łowicka",
      "url": "https://lowicka.pl/wydarzenie/koncert-grupy-loud-cloud/"
     }
-   ]
+   ],
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "PREMIERA Czarodziejska góra",
@@ -3574,7 +3200,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "30dad79777",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Pamiętniki z wakacji - spektakl improwizowany w Południku",
@@ -3728,7 +3357,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "0a1b6caa4b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Koncert symfoniczny",
@@ -3754,7 +3386,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "448b16baea",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Aimé Césaire. Maska ze słów",
@@ -3780,7 +3415,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "8f75517933",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Live Music | MASK",
@@ -3855,7 +3493,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "59e6456513",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Jeże na Ursynowie - prelekcje dla mieszkańców",
@@ -3911,7 +3552,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "e3cb60f0e1",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Tworzenie pająków ludowych | WARSZTATY",
@@ -3940,7 +3584,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "02959d22de",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "„Love Yourself & Show”",
@@ -4018,7 +3665,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "aedb8af383",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Sąsiedzka sobota! - Jesień z garncarzem",
@@ -4150,7 +3800,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "f09f9eb1ac",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Tajemnica śpiewających ptaków",
@@ -4176,7 +3829,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "2b3ec31320",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Finisaż wystawy „Dom – przestrzeń ciągłości” i spotkanie z Valerią Osiną",
@@ -4229,7 +3885,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "4cd3de2330",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Jesienny wisior sutasz | WARSZTATY",
@@ -4255,7 +3914,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "21a48d3bea",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 25,
+   "dist_approx": false
   },
   {
    "title": "Kobiecy reset – humor, relacje i chwila dla siebie | Biblioteka Kobiecych Głosów w Książnicy!",
@@ -4339,7 +4001,7 @@
    "day_off": "sobota"
   },
   {
-   "title": "W rytmie dotyku. Warsztat masażu w parach",
+   "title": "W rytmie dotyku | Warsztat masażu w parach",
    "date": "2026-11-21",
    "time": "15:00",
    "date_to": null,
@@ -4347,10 +4009,10 @@
    "venue": "Dom Kultury „Kadr”",
    "address": "",
    "area": "Mokotów",
-   "price": "",
-   "free": null,
-   "how": "Bilety i zapisy: sprawdź na stronie wydarzenia.",
-   "url": "https://dkkadr.waw.pl/repertuar/w-rytmie-dotyku-warsztat-masazu-w-parach/",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-160609-w-rytmie-dotyku-warsztat-masazu-w-parach",
    "ticket_url": "",
    "description": "Warsztat dla dorosłych",
    "note": "",
@@ -4358,11 +4020,20 @@
    "tags": [
     "warsztaty"
    ],
-   "source": "kadr",
-   "source_name": "Dom Kultury Kadr",
+   "source": "waw4free",
+   "source_name": "waw4free",
    "via": "parser strony",
-   "id": "480b00dd05",
-   "day_off": "sobota"
+   "id": "d047fff5d3",
+   "day_off": "sobota",
+   "also": [
+    {
+     "source_name": "Dom Kultury Kadr",
+     "url": "https://dkkadr.waw.pl/repertuar/w-rytmie-dotyku-warsztat-masazu-w-parach/"
+    }
+   ],
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Oprowadzanie kuratorskie po wystawie „Jesteś w sercu zmian. Surrealizm i antyfaszyzm”. Oprowadza Dorota Jarecka",
@@ -4389,7 +4060,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "b2f4d72719",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Stara kobieta wysiaduje",
@@ -4415,7 +4089,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "bf1030f995",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "II. Konwent Żmija",
@@ -4491,7 +4168,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "834b148994",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Ślady kultur: Kimchi – smak Korei",
@@ -4517,7 +4197,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "96752118fe",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Organum Sanctae Barbarae | Piotr Wilczyński",
@@ -4643,7 +4326,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "92ba75397e",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Piękny początek",
@@ -4669,6 +4355,36 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "0a07e6c09f",
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
+  },
+  {
+   "title": "Żoliborskie Vademecum Historyczne - premiera książki",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Żoliborz",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161742-zoliborskie-vademecum-historyczne-premiera-ksiazki",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Teatr i performans",
+   "tags": [
+    "teatr",
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "36b6b1560b",
    "day_off": "sobota"
   },
   {
@@ -4722,7 +4438,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "b6fbe7fd79",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "JAZZ W JÓZEFOWIE / „NO MORE BLUES\" / AGNIESZKA KLEDZIK QUINTET",
@@ -4774,7 +4493,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "b01aa12ad5",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Piosenkowzmocnienie: Wyspa",
@@ -4798,7 +4520,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "13978eea27",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "SCENA JÓZEFOSŁAW | Mało czasu",
@@ -4825,7 +4550,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "5064a54bd0",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 1,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "Scena tańca improwizowanego [sic!] Saute",
@@ -4849,6 +4577,35 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "15ce37b62d",
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
+  },
+  {
+   "title": "Spotkanie z Łęko Zygmuntównem wokół książki \"K.Ł.M.\"",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Wola",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161021-spotkanie-z-leko-zygmuntownem-wokol-ksiazki-k-l-m",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Spotkania i wykłady",
+   "tags": [
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "af40e306ee",
    "day_off": "sobota"
   },
   {
@@ -4925,7 +4682,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "3b41adf36d",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Kobiece wieczory",
@@ -4951,6 +4711,35 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "09d5f82936",
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
+  },
+  {
+   "title": "TWÓRCZA ISKRA – darmowe spotkanie bardów i bardek na Mokotowie",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Mokotów",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161404-tworcza-iskra-darmowe-spotkanie-bardow-i-bardek-na-mokotowie",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Spotkania i wykłady",
+   "tags": [
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "3c8901ffa1",
    "day_off": "sobota"
   },
   {
@@ -4981,6 +4770,33 @@
    "day_off": "sobota"
   },
   {
+   "title": "Wieczór poetycko-wspomnieniowy „Mówienie wierszem Zapasiewicza” z okazji 40 Teatru Za Dalekiego",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Ursynów",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161552-wieczor-poetycko-wspomnieniowy-mowienie-wierszem-zapasiewicza-z-okazji-40-teatru-za-dalekiego",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Teatr i performans",
+   "tags": [
+    "teatr",
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "f5ff3cdb30",
+   "day_off": "sobota"
+  },
+  {
    "title": "sneaky jesus",
    "date": "2026-11-21",
    "time": "19:00",
@@ -5002,7 +4818,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "16890f84a0",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "„[Tytuł przedstawienia]”",
@@ -5054,7 +4873,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "9f3453bc93",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Osoby dramatu: Czarodziejska góra",
@@ -5065,10 +4887,10 @@
    "venue": "Nowy Teatr, ul. Madalińskiego 10/16",
    "address": "",
    "area": "Mokotów",
-   "price": "",
-   "free": null,
-   "how": "Bilety na stronie Nowego Teatru.",
-   "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-160652-osoby-dramatu-czarodziejska-gora",
    "ticket_url": "",
    "description": "",
    "note": "",
@@ -5076,11 +4898,20 @@
    "tags": [
     "wykład / spotkanie"
    ],
-   "source": "nowyteatr",
-   "source_name": "Nowy Teatr",
+   "source": "waw4free",
+   "source_name": "waw4free",
    "via": "parser strony",
-   "id": "61541c6744",
-   "day_off": "sobota"
+   "id": "53ec5cf909",
+   "day_off": "sobota",
+   "also": [
+    {
+     "source_name": "Nowy Teatr",
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30"
+    }
+   ],
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "SPOTKANIE AUTORSKIE Z PAULINĄ OPALĄ – „SIŁA JUDYTY. 34 TYGODNIE CUDÓW”",
@@ -5133,7 +4964,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "76c9d2a1d5",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Tajemnica śpiewających ptaków",
@@ -5159,7 +4993,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "b6fc4ad8df",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Śniadanie sąsiedzkie",
@@ -5183,7 +5020,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "f9f17c1449",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "„Ilustracja wiersza Juliana Tuwima «Lokomotywa»”",
@@ -5241,7 +5081,10 @@
      "source_name": "Terminal Kultury Gocław",
      "url": "https://terminalkultury.pl/wydarzenie/otwarcie-dzielnicowego-obserwatorium-astronomicznego/"
     }
-   ]
+   ],
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Wernisaż video artu INGA JULIA FILM",
@@ -5295,7 +5138,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "5b378b83a8",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Nikt nie wie",
@@ -5321,6 +5167,63 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "2b8b3c36db",
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
+  },
+  {
+   "title": "Prz szłość ◦ Warsztaty redagowania tekstów krótkich i nowa seria plakatów Loesje",
+   "date": "2026-11-22",
+   "time": "13:30",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Śródmieście",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161851-prz-szlosc-warsztaty-redagowania-tekstow-krotkich-i-nowa-seria-plakatow-loesje",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Warsztaty",
+   "tags": [
+    "wykład / spotkanie",
+    "warsztaty"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "e4f420e08c",
+   "day_off": "niedziela"
+  },
+  {
+   "title": "INNE STRONY & MISZKA - wspólne czytanie książek i dj set",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Śródmieście",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161957-inne-strony-miszka-wspolne-czytanie-ksiazek-i-dj-set",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Imprezy i taniec",
+   "tags": [
+    "elektro",
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "906287e5ca",
    "day_off": "niedziela"
   },
   {
@@ -5348,7 +5251,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "3ddca16d6d",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Archiwum Filmowe Pawła Althamera",
@@ -5374,7 +5280,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "225b1e6886",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Fujian – Świat Herbat Oolong",
@@ -5461,7 +5370,10 @@
      "source_name": "Nowy Teatr",
      "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30"
     }
-   ]
+   ],
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Polska muzyka filmowa | KONCERT W REZYDENCJI ZALESIE",
@@ -5487,7 +5399,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "4c650bc25e",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 2,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "U mnie wszystko w porządku",
@@ -5513,7 +5428,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "922d875f79",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "„Wieczór polsko - irlandzki” - Wernisaż Agi Szot i Koncert Taorluath",
@@ -5566,7 +5484,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "5bddd33521",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Czarodziejska góra",
@@ -5592,7 +5513,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "5f368c4a3d",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "MONODRAM | Jakub Snochowski | „Złotowłosy”",
@@ -5618,7 +5542,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "447005af0d",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Na kolbergowską nutę - muzyka ludowa mazowieckich nizin | koncert podsumowujący projekt",
@@ -5668,7 +5595,10 @@
    "source_name": "Filharmonia Narodowa",
    "via": "parser strony",
    "id": "72bd37c79e",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Piękny początek",
@@ -5694,7 +5624,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "0939498099",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "VII Międzynarodowy Festiwal Organowe Brzmienia | Finałowy koncert",
@@ -5797,7 +5730,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "bcf48e1f16",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Warsztaty dla początkujących z Warszawskim Klubem Go",
@@ -5823,7 +5759,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "449a36b0bb",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "GRAMY MONODRAMY! | Jan Peszek",
@@ -5850,7 +5789,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "0e39c23ef6",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Piosenki pana Fogga",
@@ -5874,7 +5816,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "e973eddc07",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Mokotowskie Zaduszki Jazzowe 2026 - Agnieszka Wilczyńska i Andrzej Jagodziński",
@@ -6031,7 +5976,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "009da5ec16",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Budżet Obywatelski 2026: Kino znów na Ursynowie",
@@ -6107,7 +6055,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "ebcea51855",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Midnight Concerts | Klasyka na Koszykach | Wielka symfonika w kameralnej odsłonie PianophonicSEXTET",
@@ -6186,7 +6137,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "a41a6c9999",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Seminarium Literackie w Muzeum Azji i Pacyfiku | Buszra Al-Maktari",
@@ -6236,6 +6190,32 @@
    "source_name": "UCK Alternatywy",
    "via": "parser strony",
    "id": "54cc92fe34",
+   "day_off": null
+  },
+  {
+   "title": "Dyskusja o kulturze lekomanii i suplementach | P*ozac – na chęć życia. Ge*iavit – na niestarzenie",
+   "date": "2026-11-25",
+   "time": "18:30",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Ochota",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-161640-dyskusja-o-kulturze-lekomanii-i-suplementach-p-ozac-na-chec-zycia-ge-iavit-na-niestarzenie",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Spotkania i wykłady",
+   "tags": [
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "d3c9104f84",
    "day_off": null
   },
   {
@@ -6290,7 +6270,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "e904c2a940",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Oscarowe Środy - „Kopnęłabym cię, gdybym mogła”",
@@ -6368,7 +6351,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "a44ea991b2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Interwencje filmowe. Kino w ważnej sprawie | „Titicut Follies” - pokaz filmowy i prelekcja",
@@ -6398,6 +6384,33 @@
    "day_off": null
   },
   {
+   "title": "Kino? Czy mnie słychać? | cykl: KINO W MIEŚCIE. MIASTO W KINIE",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "",
+   "address": "",
+   "area": "Śródmieście",
+   "price": "Bezpłatne",
+   "free": true,
+   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
+   "url": "https://waw4free.pl/wydarzenie-158257-kino-czy-mnie-slychac-cykl-kino-w-miescie-miasto-w-kinie",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Film",
+   "tags": [
+    "film",
+    "wykład / spotkanie"
+   ],
+   "source": "waw4free",
+   "source_name": "waw4free",
+   "via": "parser strony",
+   "id": "6bf8bd50d4",
+   "day_off": null
+  },
+  {
    "title": "Pasjodzielenie | DUET WZRUSZ",
    "date": "2026-11-26",
    "time": "18:00",
@@ -6421,7 +6434,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "ac2a9d5957",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Seminar: Human Identity in a World of Constant Change",
@@ -6524,7 +6540,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "1c36d0efeb",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Kultura na Wielkim Ekranie 2026 | Film \"Przemytnicy\"",
@@ -6603,7 +6622,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "ee537e28d3",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 1,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "Jurajski Filmowy Piątek | Jurassic World: Upadłe królestwo (2018) – reż. J.A. Bayona (Juan Antonio Bayona)",
@@ -6759,7 +6781,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "c802bebb96",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Sukcesja",
@@ -6785,7 +6810,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "c0e16fe843",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "„Püdelsi ­The Best”",
@@ -6835,7 +6863,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "9a4183b658",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Kolektyw Mantra – koncert",
@@ -6861,7 +6892,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "b40d3ce532",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Koncert Strefy Intymnej | Wieczór z płytą „Oczekiwania”",
@@ -6912,7 +6946,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "42d89feb1a",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 20,
+   "dist_b": 9,
+   "dist_approx": false
   },
   {
    "title": "Dzień w Estonii nad Wisłą / Warszawa - warsztaty, spotkanie, potańcowka, koncert",
@@ -6992,7 +7029,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "d22d10dfe8",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 20,
+   "dist_b": 9,
+   "dist_approx": false
   },
   {
    "title": "Sąsiedzkie Andrzejki!",
@@ -7053,7 +7093,10 @@
      "source_name": "Nowy Teatr",
      "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30"
     }
-   ]
+   ],
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Mała empiria",
@@ -7079,7 +7122,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "50014e21bd",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Organum Sanctae Barbarae | Marcin Zieliński",
@@ -7129,7 +7175,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "b128d65d39",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "PREMIERA! „Arszenik i stare koronki”",
@@ -7181,7 +7230,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "6cb7c44372",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Kosmiczna zagadka: nasza szansa czy zagłada?",
@@ -7207,7 +7259,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "4fd6a4cc0a",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Pejzaże | WYSTAWA MALARSTWA",
@@ -7234,7 +7289,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "a364c23519",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Sala Ludwikowska Polonia Palace Hotel w Warszawie Muzyka polska",
@@ -7258,7 +7316,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "44ae577a28",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Wieczór andrzejkowy w NIKiDW",
@@ -7336,7 +7397,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "2a78a8388e",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Gala wręczenia VII Nagrody im. Haliny Machulskiej",
@@ -7438,7 +7502,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "fa9940f884",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "„Na żaglach radości”",
@@ -7564,7 +7631,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "e0aa005802",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "szachoWAlka o ELO Blitz z szachoWArszawa",
@@ -7588,7 +7658,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "5753cc09a3",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Muzyczny Pawilon 3.0 I Leo!",
@@ -7666,7 +7739,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "f3d714210a",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Mała empiria",
@@ -7692,7 +7768,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "dd0187b94a",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Koncert Jubileuszowy z okazji 30-lecia Towarzystwa Śpiewaczego \"Lira\"",
@@ -7795,7 +7874,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "3985bbed33",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Impy przedstawiają: Fiasko (improwizowana komedia kryminalna)",
@@ -7822,7 +7904,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "a6f9105c53",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Koncert zespołu SzumTła",
@@ -7846,7 +7931,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "4468355c9f",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Koncert „BARWY MIŁOŚCI”",
@@ -7896,7 +7984,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "d04bde3ad5",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "„Pokolenie Y”",
@@ -7994,7 +8085,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "e48bfa2718",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Monodram „Umińska”",
@@ -8098,7 +8192,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "3642977e18",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Mapa marzeń i możliwości | WARSZTATY",
@@ -8124,7 +8221,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "06102db3ec",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Stand Up Open Mic | Uwaga! Żarty! vol. 30 | New Vegas Ursynów",
@@ -8176,7 +8276,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "96895f7ce5",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "„Andrzej Bukowiecki przedstawia” – spotkania z klasyką kina: „Windą na szafot”",
@@ -8229,7 +8332,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "2b811f8441",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Maciej Brudzewski „Podaj dalej”",
@@ -8255,7 +8361,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "83ac276d50",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Requiem dla snu",
@@ -8281,7 +8390,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "15d99f1ec2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Ćwiczenia z przyszłości – Granice Zaufania: Filip Springer",
@@ -8307,7 +8419,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "74860a22de",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Bardzo Kulturalny Czwartek – koncert „Melodie pachnące świętami”",
@@ -8357,7 +8472,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "f96e70aea8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Requiem dla snu",
@@ -8383,7 +8501,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "20124909d2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Spotkanie podróżnicze: Krakowie kochany, już trochę poznany",
@@ -8409,7 +8530,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "c5d8eab281",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Świąteczny scrapbooking",
@@ -8436,7 +8560,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "ab3a30d198",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "„Asterix i Obelix: Misja Kleopatra”",
@@ -8487,7 +8614,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "2559b0584d",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Seans filmowy | „Gorzkie święta”",
@@ -8513,7 +8643,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "1a0b4c18e2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Warsztaty i koncert gongów i mis tybetańskich",
@@ -8540,7 +8673,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "60f14aeb36",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 3,
+   "dist_b": 14,
+   "dist_approx": false
   },
   {
    "title": "Jurajski Filmowy Piątek | Jurassic World: Dominion (2022) – reż. Colin Trevorrow",
@@ -8591,7 +8727,10 @@
    "source_name": "Służewski Dom Kultury",
    "via": "parser strony",
    "id": "f6d3547657",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 11,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Czwarte spotkanie z teatrem obrzędowym",
@@ -8645,7 +8784,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "6a7f430768",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Dariusz Radziwiłł, syn Witolda",
@@ -8671,7 +8813,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "a5e3e5a2d1",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Kobiece wieczory",
@@ -8697,7 +8842,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "417c6f6324",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Przebiśniegi",
@@ -8747,7 +8895,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "4da2c0a02c",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Zatrzymaj się, posłuchaj, odpocznij | WARSZTATY I KONCERT RELAKSACYJNY",
@@ -8773,7 +8924,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "51d4c523a0",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 3,
+   "dist_b": 14,
+   "dist_approx": false
   },
   {
    "title": "„Literackie podsumowanie roku”",
@@ -8825,7 +8979,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "82efb30d6e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 1,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "Wianek świąteczny | WARSZTATY",
@@ -8851,7 +9008,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "45bce890cd",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 25,
+   "dist_approx": false
   },
   {
    "title": "Prześwietlone wspomnienia. Warsztat z archiwami domowymi",
@@ -8877,7 +9037,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "a77069c900",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Seminarium Ursynowskie",
@@ -8953,7 +9116,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "8db8e3ed0c",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Zdobienie bombek choinkowych | WARSZTATY",
@@ -8979,7 +9145,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "cedec787ca",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Samson et Dalila",
@@ -9003,7 +9172,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "e3bb197875",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Niechęć „Audiowizualnie”",
@@ -9029,7 +9201,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "6b3219a1da",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "„Witkacy MultiArt” Leszek Kułakowski",
@@ -9106,7 +9281,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "d6129ae566",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 3,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "Jarmark Świąteczny",
@@ -9132,7 +9310,10 @@
    "source_name": "Centrum Łowicka",
    "via": "dane strukturalne",
    "id": "bae876fdf9",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 3,
+   "dist_approx": true
   },
   {
    "title": "Wyspa Jadłonomia",
@@ -9158,7 +9339,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "ca658f2e40",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Święto pieśni",
@@ -9184,7 +9368,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "05b807e861",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Spektakl \"Gość Oczekiwany\" w Teatrze Oratorium",
@@ -9236,7 +9423,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "b63b9262d9",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "KLUB PODRÓŻNIKA | Ola Synowiec | Święto Zmarłych w Meksyku",
@@ -9262,7 +9452,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "0d69d3bc66",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Święta w naturalnym stylu | WARSZTATY",
@@ -9289,7 +9482,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "0057b66eb8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 25,
+   "dist_approx": false
   },
   {
    "title": "Co się wydarzyło w Madison County",
@@ -9315,7 +9511,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "3a2ef043b2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Kino Polskie - „Znaki Pana Śliwki”",
@@ -9368,7 +9567,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "d9208208a8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Dekorowanie pierników",
@@ -9394,7 +9596,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "7e8f6a2d4d",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 25,
+   "dist_approx": false
   },
   {
    "title": "Botswana",
@@ -9420,7 +9625,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "8af905eb7b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Byk",
@@ -9446,7 +9654,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "1128f38c65",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Odcienie",
@@ -9498,7 +9709,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "7a8f92b21b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Co się wydarzyło w Madison County",
@@ -9524,7 +9738,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "c75889a2fd",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Czytanie książek fotograficznych / Tomek Kubaczyk",
@@ -9552,7 +9769,10 @@
    "source_name": "Służewski Dom Kultury",
    "via": "parser strony",
    "id": "509858e832",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 11,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Szczęśliwa i spełniona kobieta | Zmiana (nie)lubiana",
@@ -9578,7 +9798,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "b6291202b6",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Co się wydarzyło w Madison County",
@@ -9604,7 +9827,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "d370c6aa36",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Oscarowe Środy - „Smashing Machine”",
@@ -9657,7 +9883,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "ddbdb6b8a8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Vatzlav",
@@ -9683,7 +9912,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "75b0656906",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Filmoterapia w Mediatece | „Mała miss” (2006)",
@@ -9735,7 +9967,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "98530d6e3e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Czwartki z dobrym filmem",
@@ -9761,7 +9996,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "6e37f789db",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Kino z wielkiej płyty | cykl: KINO W MIEŚCIE. MIASTO W KINIE",
@@ -9815,7 +10053,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "329fd8c181",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Artifica",
@@ -9841,7 +10082,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "6a3644c1cf",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Jazz Dobry nad Dolinką / Wojciech Staroniewicz Quintet „A Piece of Green Glass\"",
@@ -9867,7 +10111,10 @@
    "source_name": "Służewski Dom Kultury",
    "via": "parser strony",
    "id": "be90bd8320",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 11,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Lepkie obrazy. Lee Miller – kobiece spojrzenie i surrealizm okrucieństwa",
@@ -9893,7 +10140,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "6e73110818",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Warsaw Short Framing",
@@ -9919,7 +10169,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "8bfae67d3b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Requiem dla snu",
@@ -9945,7 +10198,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "dd00f3f0cd",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Krakowskie Klimaty – Hej, kolęda, hej!",
@@ -9969,7 +10225,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "4ba97f4320",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Lee Miller w wannie Hitlera",
@@ -9995,7 +10254,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "7d9ffe732c",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "U mnie wszystko w porządku",
@@ -10021,7 +10283,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "6fb24f829e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "„2. charytatywny koncert przyjaciół Fundacji Mali Wielcy”",
@@ -10072,7 +10337,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "6cb1ededaa",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 15,
+   "dist_approx": false
   },
   {
    "title": "Dyskusyjny Klub Teatralny: Lee Miller w wannie Hitlera",
@@ -10099,7 +10367,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "6f06e7139f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Ozdoby bożonarodzeniowe | WARSZTATY",
@@ -10125,7 +10396,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "48c1ce64e3",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "Sąsiedzkie kolędowanie przy wspólnym stole",
@@ -10151,7 +10425,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "2959576d6a",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Świąteczne tworzenie z gipsu polimerowego",
@@ -10177,7 +10454,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "4d37fe5e87",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Fakty i fikcje, kadry i migawki. Warsztat do spektaklu Lee Miller w wannie Hitlera",
@@ -10204,7 +10484,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "f208a6be2d",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Świąteczne podpisywanie książek z Martyną Wojciechowską",
@@ -10228,7 +10511,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "34cbe553e8",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Festiwal Muzyki Kameralnej na Bielanach | Arcydzieła kameralistyki | OKTETY SMYCZKOWE",
@@ -10278,7 +10564,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "8868db485d",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 3,
+   "dist_b": 14,
+   "dist_approx": false
   },
   {
    "title": "DYSKUSYJNY KLUB FILMOWY | Filmy kultowe",
@@ -10305,7 +10594,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "0ab9abf550",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
   },
   {
    "title": "KONCERT | Szukamy stajenki | Jacek Kaczmarski",
@@ -10329,7 +10621,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "4885a40496",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 1,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "RETRO_SPEKCJE | 13 urodziny zespołu Woda na Młyn®",
@@ -10355,7 +10650,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "8249d16f9d",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Requiem dla snu",
@@ -10381,7 +10679,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "9fe7c1bbd1",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "2049: Witaj, Abdo",
@@ -10407,7 +10708,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "c0ea198fbc",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Efekt Chopina: Maria Moliszewska",
@@ -10433,7 +10737,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "bfbdecbfd4",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Lee Miller w wannie Hitlera",
@@ -10459,7 +10766,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "9e6915951c",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Wystawa - Dół porośnięty trawą",
@@ -10511,7 +10821,10 @@
    "source_name": "Nowy Teatr",
    "via": "parser strony",
    "id": "37f5784ff2",
-   "day_off": "sobota"
+   "day_off": "sobota",
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
   },
   {
    "title": "Świąteczna florystyka",
@@ -10537,7 +10850,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "b50c89b428",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "„Wieniec na Boże Narodzenie”",
@@ -10589,7 +10905,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "811d88b28e",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Głosy Świąt | AUDYCJA MUZYCZNA",
@@ -10613,7 +10932,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "958a410a95",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 3,
+   "dist_b": 14,
+   "dist_approx": false
   },
   {
    "title": "Dom o Zielonych Progach – koncert",
@@ -10639,7 +10961,10 @@
    "source_name": "Terminal Kultury Gocław",
    "via": "dane strukturalne",
    "id": "c267299475",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Mała empiria",
@@ -10671,7 +10996,10 @@
      "source_name": "Teatr Studio i Galeria Studio",
      "url": "https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/"
     }
-   ]
+   ],
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Open Call – Otwarte Kino",
@@ -10697,7 +11025,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "42f9968ca1",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "U mnie wszystko w porządku",
@@ -10723,7 +11054,10 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "83f7e7aee3",
-   "day_off": "niedziela"
+   "day_off": "niedziela",
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Stand Up Open Mic w Arcade Bee Hala Koszyki x Wydarzenia Komediowe",
@@ -10775,7 +11109,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "ea661b613e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Teatr Peronówka | „Casting” | SPEKTAKL",
@@ -10801,7 +11138,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "d9e92c6548",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 1,
+   "dist_b": 13,
+   "dist_approx": false
   },
   {
    "title": "Stand Up Open Mic | Uwaga! Żarty! vol. 31 | New Vegas Ursynów",
@@ -10879,7 +11219,10 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "9ada2832d3",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Świąteczne warsztaty z olejkami eterycznymi",
@@ -10906,7 +11249,10 @@
    "source_name": "CK Piaseczno (kulturalni.pl)",
    "via": "dane strukturalne",
    "id": "c599fbc32c",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 4,
+   "dist_b": 20,
+   "dist_approx": false
   },
   {
    "title": "Scenografia głosów",
@@ -10932,7 +11278,152 @@
    "source_name": "Teatr Studio i Galeria Studio",
    "via": "parser strony",
    "id": "d85157dc5f",
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
+  },
+  {
+   "title": "Czwartki z dobrym filmem",
+   "date": "2026-12-17",
+   "time": "18:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "Klub Kultury w Zalesiu Górnym",
+   "address": "Białej Brzozy 3, 05-540, Zalesie Górne",
+   "area": "Piaseczno i okolice",
+   "price": "",
+   "free": null,
+   "how": "",
+   "url": "https://kulturalni.pl/wydarzenie/czwartki-z-dobrym-filmem-5/2026-12-17/",
+   "ticket_url": "",
+   "description": "Czwartki z dobrym filmem Projekcje wybitnych filmów 3, 10, 17 grudnia (czwartki) 2026 godz. 18.00 wstęp wolny Zalesie Górne, Klub Kultury, ul. Białej Brzozy 3 Koordynatorka- Małgorzata Szamocka, tel. 695 475 658",
+   "note": "",
+   "category": "Film",
+   "tags": [
+    "film"
+   ],
+   "source": "kulturalni",
+   "source_name": "CK Piaseczno (kulturalni.pl)",
+   "via": "dane strukturalne",
+   "id": "cd4df25af8",
+   "day_off": null,
+   "dist_a": 13,
+   "dist_b": 24,
+   "dist_approx": false
+  },
+  {
+   "title": "Wielkie Artystki",
+   "date": "2026-12-17",
+   "time": "18:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "UCK „Alternatywy”",
+   "address": "",
+   "area": "Ursynów",
+   "price": "",
+   "free": null,
+   "how": "Bilety i zapisy: sprawdź na stronie wydarzenia.",
+   "url": "https://alternatywy.art/wielkie-artystki-yoko-ono-sztuka-na-rzecz-wolnosci-milosci-i-pokoju-wyklad-agnieszki-ostrowskiej/",
+   "ticket_url": "",
+   "description": "„Yoko Ono – sztuka na rzecz wolności, miłości i pokoju” wykład Agnieszki Ostrowskiej",
+   "note": "",
+   "category": "Spotkania i wykłady",
+   "tags": [
+    "wykład / spotkanie"
+   ],
+   "source": "alternatywy",
+   "source_name": "UCK Alternatywy",
+   "via": "parser strony",
+   "id": "3901037332",
    "day_off": null
+  },
+  {
+   "title": "Dziki Koń Dziewięć",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "Dom Kultury „Kadr”",
+   "address": "",
+   "area": "Mokotów",
+   "price": "",
+   "free": null,
+   "how": "Bilety i zapisy: sprawdź na stronie wydarzenia.",
+   "url": "https://dkkadr.waw.pl/repertuar/dziki-kon-dziewiec/",
+   "ticket_url": "",
+   "description": "Premiera w Kadrze (16+)",
+   "note": "",
+   "category": "Teatr i performans",
+   "tags": [
+    "teatr"
+   ],
+   "source": "kadr",
+   "source_name": "Dom Kultury Kadr",
+   "via": "parser strony",
+   "id": "e0cba853d7",
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
+  },
+  {
+   "title": "Nowa książka: Wilanów. Galeria Smaków Bogusław Deptuła",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "Nowy Teatr, ul. Madalińskiego 10/16",
+   "address": "",
+   "area": "Mokotów",
+   "price": "Wstęp wolny",
+   "free": true,
+   "how": "Wstęp wolny.",
+   "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-12-01&date_to=2026-12-31",
+   "ticket_url": "",
+   "description": "",
+   "note": "",
+   "category": "Spotkania i wykłady",
+   "tags": [
+    "wykład / spotkanie"
+   ],
+   "source": "nowyteatr",
+   "source_name": "Nowy Teatr",
+   "via": "parser strony",
+   "id": "6978f3f4d5",
+   "day_off": null,
+   "dist_a": 15,
+   "dist_b": 4,
+   "dist_approx": true
+  },
+  {
+   "title": "Scenografia głosów",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "date_to": null,
+   "ongoing": false,
+   "venue": "Teatr Studio, Pałac Kultury i Nauki",
+   "address": "",
+   "area": "Śródmieście",
+   "price": "",
+   "free": null,
+   "how": "Bilety na stronie Teatru Studio.",
+   "url": "https://teatrstudio.pl/pl/teatr/wydarzenia/scenografia-glosow/",
+   "ticket_url": "",
+   "description": "Spektakl",
+   "note": "",
+   "category": "Teatr i performans",
+   "tags": [
+    "teatr"
+   ],
+   "source": "teatrstudio",
+   "source_name": "Teatr Studio i Galeria Studio",
+   "via": "parser strony",
+   "id": "f3c3322a20",
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Olga Boznańska at the Gallery of 19th-Century Art",
@@ -10958,7 +11449,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "6c8b734f98",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Olga Boznańska w Galerii Sztuki XIX Wieku",
@@ -10984,7 +11478,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "0992422f86",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Heliograms in the Solomon Room. In Search of Light",
@@ -11036,7 +11533,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "aaf2bfcdaf",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 6,
+   "dist_approx": true
   },
   {
    "title": "Sobiescy i Stuartowie - blask i widmo korony",
@@ -11062,7 +11562,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "eac6075f12",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "The Sobieskis and the Stuarts - The Splendour and Spectre of the Crown",
@@ -11088,7 +11591,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "59cf4206fc",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Images of Identity. The Collection of Berlin's Pre-War Jewish Museum",
@@ -11193,7 +11699,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "c9581f3fe3",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 23,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "A Home Together / Спільні домівки",
@@ -11245,7 +11754,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "63f7cbb8fa",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 10,
+   "dist_approx": true
   },
   {
    "title": "Poza szlakiem. Rowerowe podróże Marii i Piotra",
@@ -11271,7 +11783,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "933d75595f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 10,
+   "dist_approx": true
   },
   {
    "title": "Rubensiana. Collecting Fascinations in Poland, 17th-21st Centuries",
@@ -11297,7 +11812,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "0a5fe2319e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Rubensiana. Fascynacje kolekcjonerskie w Polsce XVII-XXI w.",
@@ -11323,7 +11841,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "2ea3215e8f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Na podbój kosmosu - wystawa plakatów w X Pawilonie Cytadeli",
@@ -11401,7 +11922,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "f38860e91d",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 20,
+   "dist_b": 6,
+   "dist_approx": true
   },
   {
    "title": "No Hands. How the Bicycle Changes Warsaw",
@@ -11427,7 +11951,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "c415bf9d63",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Plecionkarstwo. Rzemiosło i Design",
@@ -11506,7 +12033,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "50bb70e284",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 9,
+   "dist_approx": true
   },
   {
    "title": "90/90. Dookoła muzeum",
@@ -11532,7 +12062,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "d796a420be",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 23,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Józef Czapski - L'Humanité / Humanity",
@@ -11611,7 +12144,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "b55add4421",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 23,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Drogi czarnych wkraczają w biały ląd",
@@ -11644,7 +12180,10 @@
      "source_name": "Muzeum Sztuki Nowoczesnej",
      "url": "https://artmuseum.pl/wystawy/drogi-czarnych-wkraczaja-w-bialy-lad"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "In the Very Bowels of Changes: Surrealism and Antifascism",
@@ -11702,7 +12241,10 @@
      "source_name": "Muzeum Sztuki Nowoczesnej",
      "url": "https://artmuseum.pl/wystawy/jestes-w-sercu-zmian-surrealizm-i-antyfaszyzm"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Paths of Blacks Enter the White Land",
@@ -11761,7 +12303,10 @@
      "source_name": "Muzeum Sztuki Nowoczesnej",
      "url": "https://artmuseum.pl/wystawy/edward-dwurnik-duma-i-wstyd"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Edward Dwurnik. Pride and Shame",
@@ -11813,7 +12358,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "d8ac17eab2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "What Is This Queue For? The Polish People's Republic in a Musical Mirror",
@@ -11865,7 +12413,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "0a8ff09ce0",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 38,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Dominika Olszowy. Fontanna piasku",
@@ -11892,7 +12443,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "0ba6816a33",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Dominika Olszowy. Sand Fountain",
@@ -11945,7 +12499,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "49c35d4151",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Adolph Menzel (1815-1905). The Tireless Observer",
@@ -11971,7 +12528,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "5380c89c25",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Gisleni. A Roman Architect in Poland",
@@ -12023,7 +12583,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "19da0072fc",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Adam Kozicki. War of Everyone Against Everyone",
@@ -12075,7 +12638,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "576c09cae4",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "XVII odsłona Gabinetu Fotografii: Józef Czechowicz (1818-1888) - fotograf Wilna",
@@ -12102,7 +12668,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "5dec7c8df8",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Chic and Conventions. Costumes from the Film “The Doll”",
@@ -12208,7 +12777,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "3443f15375",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 6,
+   "dist_approx": true
   },
   {
    "title": "„Formy światła” - Michał Diament: fotografia i szkło w Instytucie Fotografii Fort",
@@ -12235,7 +12807,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "5124b53b7b",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "„Proszę śmiało wchodzić, zostaniecie dobrze przyjęci” - wystawa Michała Siarka o świetle latarni morskiej w Instytucie Fotografii Fort",
@@ -12262,7 +12837,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "b20077fb83",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "Czym jest dla nas Archiwum Ringelbluma",
@@ -12392,7 +12970,10 @@
    "source_name": "Muzeum Sztuki Nowoczesnej",
    "via": "parser strony",
    "id": "7676261a15",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Transformations. Old and New Photography from the Collections of the Asia and Pacific Museum",
@@ -12471,7 +13052,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "12d54b1a2f",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "The Secret Chambers of the People's Authorities",
@@ -12579,7 +13163,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "f81261b8b0",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 22,
+   "dist_b": 10,
+   "dist_approx": true
   },
   {
    "title": "Melusines from the Blocks. Fashion and Music in the 1980s",
@@ -12632,7 +13219,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "b126b360e6",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 22,
+   "dist_b": 10,
+   "dist_approx": true
   },
   {
    "title": "The '80s Look at Us",
@@ -12685,7 +13275,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "736ed73f74",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Prawie wszystko",
@@ -12713,7 +13306,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "38176eda0d",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Plakat polski. Kolekcja - odsłona 3",
@@ -12739,7 +13335,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "bde6d4ec85",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Polish Poster. The Collection - Part 3",
@@ -12765,7 +13364,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "d1722af102",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 18,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Teamwork Is a Necessity of Our Times: Artistic and Research Unit (ZAB) Exhibition, Warsaw Academy of Fine Arts",
@@ -12851,7 +13453,10 @@
      "source_name": "muzea.waw.pl (wystawy)",
      "url": "https://muzea.waw.pl/en/museums/zacheta-national-gallery/exhibitions/alina-szapocznikow-nairy-baghramian/"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Odwrażliwianie",
@@ -12884,7 +13489,10 @@
      "source_name": "muzea.waw.pl (wystawy)",
      "url": "https://muzea.waw.pl/en/museums/zacheta-national-gallery/exhibitions/odwrazliwianie/"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Rzeźba po stabilności",
@@ -12918,7 +13526,10 @@
      "source_name": "Muzeum Sztuki Nowoczesnej",
      "url": "https://artmuseum.pl/wystawy/rzezba-po-stabilnosci"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Sculpture After Stability",
@@ -12970,7 +13581,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "27e41410a4",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Czy można zaufać czerwieni",
@@ -12997,7 +13611,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "1c156abbe2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "HAEM",
@@ -13023,7 +13640,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "5a08c77347",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "HEM",
@@ -13052,7 +13672,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "04e3aa1520",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Key in the Castle - DreamWear, Royal Castle in Warsaw",
@@ -13105,7 +13728,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "9e74fd79b7",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 21,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Ambiguous. Phenomena of Warsaw - exhibition at the Museum of Warsaw",
@@ -13131,7 +13757,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "993545f3b0",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 9,
+   "dist_approx": true
   },
   {
    "title": "Wieloznaczna. Fenomeny Warszawy: wystawa w Muzeum Warszawy",
@@ -13157,7 +13786,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "0efd8e83c2",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 23,
+   "dist_b": 12,
+   "dist_approx": true
   },
   {
    "title": "Henryk Guterman (1913-1938): A Talent Killed - Tenth Pavilion, Warsaw Citadel",
@@ -13209,7 +13841,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "5404dcbe62",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Susan Hiller. Zgubione, znalezione - wystawa w Zachęcie",
@@ -13236,7 +13871,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "4b6cf569a1",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "The Worlds of Małgorzata Pepłowska: An Exhibition of Double-Warp Textiles",
@@ -13262,7 +13900,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "315bec0f5e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Światy Małgorzaty Pepłowskiej. Wystawa tkanin dwuosnowowych",
@@ -13288,7 +13929,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "50f3edf335",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 14,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Rzeczpospolita. Od Unii Lubelskiej do Unii Europejskiej - wystawa w Muzeum X Pawilonu Cytadeli",
@@ -13366,7 +14010,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "c65f140a74",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Oratorium na konstytucję Ziemi - wystawa w CSW Zamek Ujazdowski",
@@ -13392,7 +14039,10 @@
    "source_name": "muzea.waw.pl (wystawy)",
    "via": "parser strony",
    "id": "70166cb39e",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 17,
+   "dist_b": 7,
+   "dist_approx": true
   },
   {
    "title": "Rozkosze. Macierzyńskie pustkowie i płodna ziemia",
@@ -13419,11 +14069,14 @@
    "source_name": "Dom Kultury Kadr",
    "via": "parser strony",
    "id": "ed067313fc",
-   "day_off": null
+   "day_off": null,
+   "dist_a": 12,
+   "dist_b": 2,
+   "dist_approx": true
   },
   {
    "title": "ADAM KOZICKI. WOJNA WSZYSTKICH ZE WSZYSTKIMI",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-01-10",
    "ongoing": true,
@@ -13444,7 +14097,7 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "75a52772f4",
+   "id": "a4649dee77",
    "day_off": null,
    "also": [
     {
@@ -13455,11 +14108,14 @@
      "source_name": "Muzeum Sztuki Nowoczesnej",
      "url": "https://artmuseum.pl/wystawy/adam-kozicki-wojna-wszystkich-ze-wszystkimi"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 8,
+   "dist_approx": true
   },
   {
    "title": "Darmowy Listopad w Rezydencjach Królewskich 2026",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-30",
    "ongoing": true,
@@ -13483,41 +14139,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "83af6a2da3",
-   "day_off": null
-  },
-  {
-   "title": "Festiwal PRADMOVA w Warszawie",
-   "date": "2026-11-16",
-   "time": null,
-   "date_to": "2026-11-16",
-   "ongoing": true,
-   "venue": "",
-   "address": "",
-   "area": "Śródmieście",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161807-festiwal-pradmova-w-warszawie",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Koncerty",
-   "tags": [
-    "wystawa",
-    "wykład / spotkanie",
-    "warsztaty",
-    "impreza"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "8c2f74da72",
+   "id": "953f35291c",
    "day_off": null
   },
   {
    "title": "Glina i wyobraźnia-Wystawa zbiorowa rzeźby ceramicznej Pracowni Anny Wszyndybył",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-30",
    "ongoing": true,
@@ -13540,12 +14167,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "2839c25e16",
+   "id": "32684e204c",
    "day_off": null
   },
   {
    "title": "Immersyjna wystawa Świadectwo poMOCY",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-21",
    "ongoing": true,
@@ -13566,12 +14193,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "1dbc10ffbd",
+   "id": "2ce2232ca3",
    "day_off": null
   },
   {
    "title": "Jan Tarasin. W 100-lecie urodzin",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-09",
    "ongoing": true,
@@ -13592,12 +14219,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "a1422e3093",
+   "id": "69f8663eca",
    "day_off": null
   },
   {
    "title": "LATA 80. PATRZĄ NA NAS | wystawa czasowa",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-02-21",
    "ongoing": true,
@@ -13618,12 +14245,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "f3b927c769",
+   "id": "8218d8163e",
    "day_off": null
   },
   {
    "title": "MELUZYNY Z WIELKIEJ PŁYTY | wystawa czasowa",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-02-21",
    "ongoing": true,
@@ -13644,12 +14271,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "ed9be1239e",
+   "id": "921943fc3c",
    "day_off": null
   },
   {
    "title": "Marcin Sutryk - Całe światło błękitnieje",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-17",
    "ongoing": true,
@@ -13670,12 +14297,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "d0f9538152",
+   "id": "04fff83234",
    "day_off": null
   },
   {
    "title": "Marek Sułek \"Wspomnienia równoległe\" wystawa malarstwa i rzeźby",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-30",
    "ongoing": true,
@@ -13698,12 +14325,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "d32a28e733",
+   "id": "b823cb22c5",
    "day_off": null
   },
   {
    "title": "Miasto przeplecione światłem - Jedwabne lampiony z Jinju",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-30",
    "ongoing": true,
@@ -13724,12 +14351,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "0bf9809874",
+   "id": "905b4aefc8",
    "day_off": null
   },
   {
    "title": "Miasto w Ruchu I wystawa",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-22",
    "ongoing": true,
@@ -13750,12 +14377,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "90f9561d0c",
+   "id": "16b6a3457e",
    "day_off": null
   },
   {
    "title": "Mikroświat – Wystawa fotografii | Michał Birnbach",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-30",
    "ongoing": true,
@@ -13777,12 +14404,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "7af954f949",
+   "id": "6f9668d2fb",
    "day_off": null
   },
   {
    "title": "Pokaz immersyjny z Polski do miliona światów",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-15",
    "ongoing": true,
@@ -13803,12 +14430,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "c748bd6f6c",
+   "id": "3a7e586e87",
    "day_off": null
   },
   {
    "title": "Przemiany. Dawna i nowa fotografia ze zbiorów Muzeum Azji i Pacyfiku",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-01-24",
    "ongoing": true,
@@ -13830,18 +14457,21 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "8a2962e019",
+   "id": "b7af054408",
    "day_off": null,
    "also": [
     {
      "source_name": "muzea.waw.pl (wystawy)",
      "url": "https://muzea.waw.pl/muzea/muzeum-azji-i-pacyfiku/wystawy/przemiany-dawna-i-nowa-fotografia/"
     }
-   ]
+   ],
+   "dist_a": 19,
+   "dist_b": 10,
+   "dist_approx": true
   },
   {
    "title": "Przemysłowa potęga przedwojennej Warszawy | Wystawa w Fabryce Norblina",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-02",
    "ongoing": true,
@@ -13862,12 +14492,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "088fa71787",
+   "id": "82508aefa7",
    "day_off": null
   },
   {
    "title": "Próba Kwiatu / Study Of A Flower – wystawa w Fundacji Edwarda Dwurnika",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-12",
    "ongoing": true,
@@ -13888,12 +14518,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "257bfd4ae0",
+   "id": "48304b255b",
    "day_off": null
   },
   {
    "title": "SZEPTY TUSZU - Wystawa ilustracji Moniki Rychlickiej-Borzechowskiej",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-27",
    "ongoing": true,
@@ -13914,12 +14544,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "548a7cadc9",
+   "id": "aecd638bad",
    "day_off": null
   },
   {
    "title": "Ukryte piękno chat – wystawa Anny Szcześniak",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-01-01",
    "ongoing": true,
@@ -13940,12 +14570,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "4b63611cdd",
+   "id": "80bf5a8e87",
    "day_off": null
   },
   {
    "title": "Wiktoria Guzelf. OCALANIE. Wystawa",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-01-14",
    "ongoing": true,
@@ -13966,12 +14596,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "616ad73e06",
+   "id": "c1216423a2",
    "day_off": null
   },
   {
    "title": "Wystawa \"Odznaczeni Medalem Virtus et Fraternitas 2026\"",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-18",
    "ongoing": true,
@@ -13992,12 +14622,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "4ad335f979",
+   "id": "ec821b6432",
    "day_off": null
   },
   {
    "title": "Wystawa Grupy Twórczej AKAMA – “W świecie z dwoma księżycami śni się inaczej…”",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-28",
    "ongoing": true,
@@ -14018,12 +14648,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "d1d4f98b24",
+   "id": "9899b8a884",
    "day_off": null
   },
   {
    "title": "Wystawa Natalii Rybki \"Era Cieni\"",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-03",
    "ongoing": true,
@@ -14044,12 +14674,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "74febc09b9",
+   "id": "52d6db1612",
    "day_off": null
   },
   {
    "title": "Wystawa Sylwestra Ambroziaka \"Niewinność\"",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-11-28",
    "ongoing": true,
@@ -14070,12 +14700,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "c220df3ed1",
+   "id": "c46208906e",
    "day_off": null
   },
   {
    "title": "Wystawa „Warszawa–Werstok” Marii Przyszychowskiej i Olgi Lubacz",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-09",
    "ongoing": true,
@@ -14096,38 +14726,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "bef7b78cda",
-   "day_off": null
-  },
-  {
-   "title": "Wystawa „Widzimy się w pracy!”",
-   "date": "2026-11-16",
-   "time": null,
-   "date_to": "2026-11-16",
-   "ongoing": true,
-   "venue": "",
-   "address": "",
-   "area": "Ochota",
-   "price": "Bezpłatne",
-   "free": true,
-   "how": "Zasady wejścia: sprawdź na stronie wydarzenia.",
-   "url": "https://waw4free.pl/wydarzenie-161084-wystawa-widzimy-sie-w-pracy",
-   "ticket_url": "",
-   "description": "",
-   "note": "",
-   "category": "Wystawy",
-   "tags": [
-    "wystawa"
-   ],
-   "source": "waw4free",
-   "source_name": "waw4free",
-   "via": "parser strony",
-   "id": "c7fefd4259",
+   "id": "0c7ac2f262",
    "day_off": null
   },
   {
    "title": "Zwierzęta wszystkich światów | wystawa w Pałacu Rzeczypospolitej",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2027-01-22",
    "ongoing": true,
@@ -14148,12 +14752,12 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "a0c72a9528",
+   "id": "259484e307",
    "day_off": null
   },
   {
    "title": "„Jerzy Skolimowski – reżyser, malarz” wystawa obrazów Jerzego Skolimowskiego kurator: Marcin Fedisz",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "time": null,
    "date_to": "2026-12-06",
    "ongoing": true,
@@ -14175,7 +14779,7 @@
    "source": "waw4free",
    "source_name": "waw4free",
    "via": "parser strony",
-   "id": "f1ec32a5f6",
+   "id": "f8a3d8bd81",
    "day_off": null
   }
  ],
