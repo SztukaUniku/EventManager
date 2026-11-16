@@ -1,0 +1,42 @@
+name: Zbieranie wydarzeń
+
+on:
+  workflow_dispatch:
+  schedule:
+    # czwartek 04:17 czasu UTC (05:17 w Warszawie zimą); AI czyta migawki później
+    - cron: "17 4 * * 4"
+  push:
+    branches: [main, "claude/**"]
+    paths:
+      - "collector/**"
+      - ".github/workflows/collect.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+      - name: Pobierz źródła
+        run: python -m collector.collect
+      - name: Zbuduj bazę dla aplikacji
+        run: python -m collector.build
+      - name: Zapisz dane w repozytorium
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ app/data/
+          git commit -m "Dane: zbieranie wydarzeń $(date -u +%Y-%m-%d)" || echo "Brak zmian"
+          git pull --rebase
+          git push
