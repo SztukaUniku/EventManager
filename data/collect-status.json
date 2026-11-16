@@ -1,0 +1,280 @@
+{
+ "collected_at": "2026-11-16T23:45+01:00",
+ "sources": [
+  {
+   "id": "kulturalnie",
+   "name": "kulturalnie.waw.pl",
+   "adapter": "jsonld",
+   "pages": [
+    {
+     "url": "https://kulturalnie.waw.pl/",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia/",
+     "ok": true
+    },
+    {
+     "url": "https://kulturalnie.waw.pl/wydarzenia/dzieci/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "events": 54,
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": null
+  },
+  {
+   "id": "waw4free",
+   "name": "waw4free",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-koncerty",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-imprezy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-teatr",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-standup",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-wystawy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-spotkania",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-wyklady",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-filmy",
+     "ok": true
+    },
+    {
+     "url": "https://waw4free.pl/warszawa-darmowe-warsztaty",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 194920,
+   "hash": "549b5ca385a2b968",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": true
+  },
+  {
+   "id": "muzea",
+   "name": "muzea.waw.pl (wystawy)",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://muzea.waw.pl/wystawy/",
+     "ok": true
+    },
+    {
+     "url": "https://muzea.waw.pl/en/exhibitions/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 60093,
+   "hash": "c4c77aab3b873ce9",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "alternatywy",
+   "name": "UCK Alternatywy",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://alternatywy.art/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 19282,
+   "hash": "551b7518ebcd1751",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "terminal",
+   "name": "Terminal Kultury Gocław",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 39,
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": null
+  },
+  {
+   "id": "lowicka",
+   "name": "Centrum Łowicka",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 16,
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": null
+  },
+  {
+   "id": "kulturalni",
+   "name": "CK Piaseczno (kulturalni.pl)",
+   "adapter": "tribe",
+   "pages": [],
+   "ok": true,
+   "events": 89,
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": null
+  },
+  {
+   "id": "nowyteatr",
+   "name": "Nowy Teatr",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-11-01&date_to=2026-11-30",
+     "ok": true
+    },
+    {
+     "url": "https://nowyteatr.org/pl/kalendarz?date_from=2026-12-01&date_to=2026-12-31",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 7944,
+   "hash": "dbda50f72700233c",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": true
+  },
+  {
+   "id": "kadr",
+   "name": "Dom Kultury Kadr",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://dkkadr.waw.pl/repertuar/",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 10099,
+   "hash": "800c2d55d0c1f8fc",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "sdk",
+   "name": "Służewski Dom Kultury",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 15085,
+   "hash": "ef094c7e653d8acb",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "domsztuki",
+   "name": "Dom Sztuki SMB Jary",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://domsztuki.art.pl/kino",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 4604,
+   "hash": "13b0260c580ec834",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "teatrstudio",
+   "name": "Teatr Studio i Galeria Studio",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://teatrstudio.pl/pl/repertuar/?month=11-2026&",
+     "ok": true
+    },
+    {
+     "url": "https://teatrstudio.pl/pl/repertuar/?month=12-2026&",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 24773,
+   "hash": "1fe4cd3741e15e39",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "msn",
+   "name": "Muzeum Sztuki Nowoczesnej",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://artmuseum.pl/program",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 10424,
+   "hash": "87402e0a029b521b",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  },
+  {
+   "id": "filharmonia",
+   "name": "Filharmonia Narodowa",
+   "adapter": "snapshot",
+   "pages": [
+    {
+     "url": "https://filharmonia.pl/repertuar",
+     "ok": true
+    }
+   ],
+   "ok": true,
+   "chars": 4247,
+   "hash": "d93d3cf250be0b2d",
+   "checked_at": "2026-11-16T23:45+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "changed": false
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+id,group,name,url
+alternatywy,dom-kultury,UCK Alternatywy (Ursynów),https://alternatywy.art/
+arsus,dom-kultury,ARS-US,https://arsus.pl/
+bemowskie,dom-kultury,Bemowskie Centrum Kultury,https://bemowskie.pl/
+bielanski,dom-kultury,Bielański Ośrodek Kultury,https://bielanski.waw.pl/
+bok,dom-kultury,Białołęcki Ośrodek Kultury,https://bok.waw.pl/
+cpk,dom-kultury,Centrum Promocji Kultury (Praga-Południe),https://cpk.art.pl/
+dkswit,dom-kultury,Dom Kultury Świt,https://dkswit.com.pl/
+dkwlochy,dom-kultury,Dom Kultury Włochy,https://dkwlochy.pl/
+dokpraga,dom-kultury,DOK Praga,https://dokpraga.pl/
+dokursynow,dom-kultury,DOK Ursynów,https://dokursynow.pl/
+lowicka,dom-kultury,Centrum Łowicka,https://lowicka.pl/
+oko,dom-kultury,Ośrodek Kultury Ochoty,https://oko.com.pl/
+sdk-pl,dom-kultury,sdk.pl,https://sdk.pl/
+sdk-waw,dom-kultury,Służewski Dom Kultury,https://sdk.waw.pl/
+terminal,dom-kultury,Terminal Kultury Gocław,https://terminalkultury.pl/
+wck-wawer,dom-kultury,WCK Wawer,https://wck-wawer.pl/
+wck-wola,dom-kultury,WCK Wola,https://wck-wola.pl/
+zacisze,dom-kultury,Dom Kultury Zacisze,https://zacisze.waw.pl/
+zoliborski,dom-kultury,Żoliborski Dom Kultury,https://zoliborskidomkultury.pl/
+rembertow,dom-kultury,DK Rembertów,https://dkrembertow.waw.pl/
+wesola,dom-kultury,Dom Kultury Wesoła,https://domkulturywesola.pl/
+dorozkarnia,dom-kultury,Dorożkarnia,https://dorozkarnia.pl/
+wilanow,dom-kultury,Wilanowskie Centrum Kultury,https://kulturawilanow.pl/
+kadr,dom-kultury,Dom Kultury Kadr (Mokotów),https://dkkadr.waw.pl/
+domsztuki,dom-kultury,Dom Sztuki SMB Jary,https://domsztuki.art.pl/
+ursynoteka,dom-kultury,Ursynoteka,https://ursynoteka.pl/
+dks,dom-kultury,Dom Kultury Śródmieście,https://dks.art.pl/
+jazdow,dom-kultury,Otwarty Jazdów,https://jazdow.pl/
+koneser,dom-kultury,Centrum Praskie Koneser,https://koneser.eu/
+kulturalni,okolice,Centrum Kultury Piaseczno (kulturalni.pl),https://kulturalni.pl/
+hugonowka,okolice,Hugonówka Konstancin,https://hugonowka.pl/
+waw4free,agregator,waw4free,https://waw4free.pl/
+kulturalnie,agregator,kulturalnie.waw.pl,https://kulturalnie.waw.pl/
+pik,agregator,PIK Warszawa,https://pik.warszawa.pl/
+muzea,agregator,muzea.waw.pl,https://muzea.waw.pl/
+goout,agregator,GoOut Warszawa,https://goout.net/pl/warszawa/
+cojestgrane,agregator,cojestgrane.pl,https://cojestgrane.pl/
+go2warsaw,agregator,go2warsaw,https://go2warsaw.pl/
+gojammin,agregator,gojammin,https://gojammin.com/
+um-warszawa,agregator,um.warszawa.pl,https://um.warszawa.pl/
+warszawa19115,agregator,Warszawa 19115,https://warszawa19115.pl/
+biletyna,bileteria,biletyna.pl,https://biletyna.pl/
+biletomat,bileteria,biletomat.pl,https://biletomat.pl/
+ebilet,bileteria,ebilet.pl,https://ebilet.pl/
+nowyteatr,teatr,Nowy Teatr,https://nowyteatr.org/
+teatrstudio,teatr,Teatr Studio i Galeria Studio,https://teatrstudio.pl/
+powszechny,teatr,Teatr Powszechny,https://powszechny.com/
+filharmonia,muzyka,Filharmonia Narodowa,https://filharmonia.pl/
+mnw,muzeum,Muzeum Narodowe,https://mnw.pl/
+polin,muzeum,POLIN,https://polin.pl/
+msn,muzeum,Muzeum Sztuki Nowoczesnej,https://artmuseum.pl/
+karykatura,muzeum,Muzeum Karykatury,https://muzeumkarykatury.pl/
+etno,muzeum,Państwowe Muzeum Etnograficzne,https://ethnomuseum.pl/
+azja,muzeum,Muzeum Azji i Pacyfiku,https://muzeumazji.pl/
+pawiak,muzeum,Muzeum Niepodległości (Pawiak),https://muzn.pl/
+mzpan,muzeum,Muzeum Ziemi PAN,https://mz.pan.pl/
+ewolucja,muzeum,Muzeum Ewolucji PAN,https://muzeumewolucji.pl/
+mmsc,muzeum,Muzeum Marii Skłodowskiej-Curie,https://mmsc.waw.pl/
+krolikarnia,muzeum,Królikarnia,https://krolikarnia.mnw.art.pl/
+zacheta,galeria,Zachęta,https://zacheta.art.pl/
+csw,galeria,CSW Zamek Ujazdowski,https://u-jazdowski.pl/
+ckf,kino,Centrum Kultury Filmowej (Kino Ujazdów),https://ckf.waw.pl/
+foksal,galeria,Galeria Foksal,https://galeriafoksal.pl/
+kordegarda,galeria,Kordegarda,https://kordegarda.org/
+test,galeria,Galeria Test,https://galeriatest.pl/
+xxi,galeria,Galeria XXI,https://galeriaxxi.pl/
+promocyjna,galeria,Galeria Promocyjna,https://galeriapromocyjna.pl/
+raster,galeria,Raster,https://rastergallery.com/
+fgf,galeria,Fundacja Galerii Foksal,https://foksalgalleryfoundation.com/
+m2,galeria,Galeria m2,https://m2.art.pl/
+lokal30,galeria,lokal_30,https://lokal30.pl/
+leto,galeria,Leto,https://leto.pl/
+leguern,galeria,Le Guern,https://leguern.pl/
+bwa,galeria,BWA Warszawa,https://bwawarszawa.pl/
+stereo,galeria,Stereo,https://galeriastereo.pl/
+wschod,galeria,Wschód,https://vschod.com/
+piktogram,galeria,Piktogram,https://piktogram.org/
+monopol,galeria,Monopol,https://galeriamonopol.pl/
+ney,galeria,Ney Gallery & Prints,https://neygalleryprints.pl/
+gunianowik,galeria,Gunia Nowik,https://gunianowikgallery.com/
+jednostka,galeria,Jednostka,https://jednostka.com/
+muranow,kino,Kino Muranów,https://kinomuranow.pl/
+kinoteka,kino,Kinoteka,https://kinoteka.pl/
+atlantic,kino,Kino Atlantic,https://kinoatlantic.pl/
+kultura,kino,Kino Kultura,https://kinokultura.pl/
+amondo,kino,Kino Amondo,https://kinoamondo.pl/
+iluzjon,kino,Iluzjon,https://iluzjon.fn.org.pl/
+luna,kino,Kino Luna,https://kinoluna.pl/
