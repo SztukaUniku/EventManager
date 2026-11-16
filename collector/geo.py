@@ -140,7 +140,7 @@ def annotate(events: list[dict]) -> dict:
             tries.append((f"{venue}, Warszawa", "", True))   # szersze dopasowanie = przybliżone
         places[key] = tries
     for key, tries in places.items():
-        if key in cache and cache[key] != "retry":
+        if cache.get(key):
             continue
         res = None
         for q, must, approx in tries:
@@ -174,3 +174,4 @@ def annotate(events: list[dict]) -> dict:
 # uruchomienie z sekretami REF_A/REF_B
 # v2
 # v3
+# v4
