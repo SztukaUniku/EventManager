@@ -24,7 +24,10 @@
 
   const prefs = load(PREFS_KEY, { v: 1, rules: [] });
   if (!Array.isArray(prefs.rules)) prefs.rules = [];
-  const ui = Object.assign({ range: "week", filter: "all" }, load(UI_KEY, {}));
+  // Filtry: kilka kategorii naraz (lub), do tego „Za darmo” i „LGBT+” (zawężają), „Ukryte” to osobny widok.
+  const ui = Object.assign({ range: "week", cats: [], free: false, lgbt: false, hidden: false }, load(UI_KEY, {}));
+  if (!Array.isArray(ui.cats)) ui.cats = [];
+  delete ui.filter;
   const state = { data: null, sources: null, excluded: null, open: new Set(), installEvent: null };
 
   // ---------------------------------------------------------------- daty
@@ -68,9 +71,15 @@
   async function init() {
     bindUI();
     try {
-      const [data, sources] = await Promise.all([fetchJSON("data/events.json"), fetchJSON("data/sources.json").catch(() => null)]);
-      state.data = data;
-      state.sources = sources;
+      if (window.EM_DATA) {  // podgląd: dane wbudowane w stronę
+        state.data = window.EM_DATA.events;
+        state.sources = window.EM_DATA.sources;
+        state.excluded = window.EM_DATA.excluded;
+      } else {
+        const [data, sources] = await Promise.all([fetchJSON("data/events.json"), fetchJSON("data/sources.json").catch(() => null)]);
+        state.data = data;
+        state.sources = sources;
+      }
     } catch (e) {
       $("#stamp").textContent = "Nie udało się wczytać danych";
       $("#list").innerHTML = `<div class="empty">Brak danych. Sprawdź połączenie z internetem i odśwież stronę.</div>`;
@@ -107,25 +116,28 @@
 
     document.querySelectorAll(".seg button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.range === ui.range)));
 
-    // chipy
+    // chipy: liczby pokazują, ile zostanie po dodaniu danego filtra
+    const base = ui.hidden ? hidden : shown;
+    const byFlags = base.filter((e) => (!ui.free || e.free) && (!ui.lgbt || (e.tags || []).includes("LGBT+")));
     const counts = {};
-    shown.forEach((e) => { counts[e.category] = (counts[e.category] || 0) + 1; });
-    const free = shown.filter((e) => e.free).length;
-    const lgbt = shown.filter((e) => (e.tags || []).includes("LGBT+")).length;
-    const chips = [["all", "Wszystko", shown.length]];
-    CAT_ORDER.forEach((c) => counts[c] && chips.push([c, c, counts[c]]));
-    if (free) chips.push(["free", "Za darmo", free]);
-    if (lgbt) chips.push(["lgbt", "LGBT+", lgbt]);
-    if (hidden.length) chips.push(["hidden", "Ukryte", hidden.length]);
-    if (!chips.some((c) => c[0] === ui.filter)) ui.filter = "all";
-    $("#chips").innerHTML = chips.map(([k, label, n]) =>
-      `<button type="button" class="chip" data-filter="${esc(k)}" aria-pressed="${k === ui.filter}">${esc(label)}<span class="n">${n}</span></button>`).join("");
+    byFlags.forEach((e) => { counts[e.category] = (counts[e.category] || 0) + 1; });
+    ui.cats = ui.cats.filter((c) => CAT_ORDER.includes(c));
+    const inCats = (e) => !ui.cats.length || ui.cats.includes(e.category);
+    const free = base.filter((e) => e.free && inCats(e) && (!ui.lgbt || (e.tags || []).includes("LGBT+"))).length;
+    const lgbt = base.filter((e) => (e.tags || []).includes("LGBT+") && inCats(e) && (!ui.free || e.free)).length;
+    let chips = `<button type="button" class="chip" data-cat="" aria-pressed="${!ui.cats.length}">Wszystko<span class="n">${byFlags.length}</span></button>`;
+    CAT_ORDER.forEach((c) => {
+      if (counts[c] || ui.cats.includes(c)) chips += `<button type="button" class="chip" data-cat="${esc(c)}" aria-pressed="${ui.cats.includes(c)}">${esc(c)}<span class="n">${counts[c] || 0}</span></button>`;
+    });
+    chips += `<span class="chip-sep" aria-hidden="true"></span>`;
+    if (free || ui.free) chips += `<button type="button" class="chip flag" data-flag="free" aria-pressed="${ui.free}">Za darmo<span class="n">${free}</span></button>`;
+    if (lgbt || ui.lgbt) chips += `<button type="button" class="chip flag" data-flag="lgbt" aria-pressed="${ui.lgbt}">LGBT+<span class="n">${lgbt}</span></button>`;
+    if (hidden.length || ui.hidden) chips += `<button type="button" class="chip flag" data-flag="hidden" aria-pressed="${ui.hidden}">Ukryte<span class="n">${hidden.length}</span></button>`;
+    $("#chips").innerHTML = chips;
 
     // lista
-    let list = ui.filter === "hidden" ? hidden : shown;
-    if (ui.filter === "free") list = list.filter((e) => e.free);
-    else if (ui.filter === "lgbt") list = list.filter((e) => (e.tags || []).includes("LGBT+"));
-    else if (!["all", "hidden"].includes(ui.filter)) list = list.filter((e) => e.category === ui.filter);
+    const list = byFlags.filter(inCats);
+    $("#stamp").textContent += ui.cats.length || ui.free || ui.lgbt || ui.hidden ? ` · widać ${list.length}` : "";
 
     const dated = list.filter((e) => !e.ongoing);
     const ongoing = list.filter((e) => e.ongoing).sort((a, b) => a.date_to.localeCompare(b.date_to));
@@ -139,15 +151,15 @@
         const off = e.day_off && !["sobota", "niedziela"].includes(e.day_off) ? `<span class="off">${esc(e.day_off)}</span>` : (e.day_off ? `<span class="off">weekend</span>` : "");
         html += `<section class="day"><h2 class="day-h">${esc(l.name)} <span class="date">${esc(l.date)}</span>${off}</h2>`;
       }
-      html += card(e, ui.filter === "hidden");
+      html += card(e, ui.hidden);
     });
     if (day) html += "</section>";
     if (ongoing.length) {
       html += `<section class="day"><h2 class="day-h">Wystawy trwające</h2><p class="section-p">Do obejrzenia w dowolny dzień otwarcia. W dni robocze część miejsc zamyka się przed 17:00.</p>`;
-      ongoing.forEach((e) => { html += card(e, ui.filter === "hidden"); });
+      ongoing.forEach((e) => { html += card(e, ui.hidden); });
       html += "</section>";
     }
-    if (!html) html = `<div class="empty">${ui.filter === "hidden" ? "Nic nie ukryłaś." : "W tym zakresie nic nie pasuje. Spróbuj „30 dni” albo innego filtra."}</div>`;
+    if (!html) html = `<div class="empty">${ui.hidden ? "Nic nie ukryłaś." : "Nic nie pasuje do tych filtrów. Spróbuj „30 dni” albo odznacz któryś filtr."}</div>`;
     $("#list").innerHTML = html;
 
     // do sprawdzenia
@@ -311,7 +323,7 @@
         <div class="actions"><button class="btn primary" data-restore>Przywróć</button></div>`;
     } else if (view === "about") {
       h.textContent = "Jak to działa";
-      box.innerHTML = `<p class="section-p">Co tydzień w czwartek rano automat na GitHubie odczytuje wybrane strony domów kultury, muzeów i agregatorów. Wydarzenia dla dzieci, rodzin i seniorów, karaoke, disco polo, metal, kabaret, tańce towarzyskie, wydarzenia patriotyczne i komercyjne są odrzucane. W dni robocze zostają tylko wydarzenia zaczynające się między 17:00 a 23:00.</p>
+      box.innerHTML = `<p class="section-p">Co tydzień w poniedziałek nad ranem automat na GitHubie odczytuje wybrane strony domów kultury, muzeów i agregatorów. Wydarzenia dla dzieci, rodzin i seniorów, karaoke, disco polo, metal, kabaret, tańce towarzyskie, wydarzenia patriotyczne i komercyjne są odrzucane. W dni robocze zostają tylko wydarzenia zaczynające się między 17:00 a 23:00.</p>
         <p class="section-p">Każda pozycja ma link do źródła. Jeśli czegoś nie da się potwierdzić, trafia do „Do sprawdzenia”, a nie na listę.</p>
         <p class="section-p">Instalacja na Androidzie: w Chrome otwórz menu (⋮) i wybierz „Zainstaluj aplikację” albo „Dodaj do ekranu głównego”.</p>`;
     } else if (view === "install" && state.installEvent) {
@@ -330,7 +342,13 @@
       const b = ev.target.closest("button, a");
       if (!b) return;
       if (b.dataset.range) { ui.range = b.dataset.range; save(UI_KEY, ui); render(); return; }
-      if (b.dataset.filter) { ui.filter = b.dataset.filter; save(UI_KEY, ui); render(); window.scrollTo({ top: 0 }); return; }
+      if (b.dataset.cat !== undefined) {
+        const c = b.dataset.cat;
+        if (!c) ui.cats = [];
+        else ui.cats = ui.cats.includes(c) ? ui.cats.filter((x) => x !== c) : ui.cats.concat(c);
+        save(UI_KEY, ui); render(); return;
+      }
+      if (b.dataset.flag) { ui[b.dataset.flag] = !ui[b.dataset.flag]; save(UI_KEY, ui); render(); return; }
       if (b.dataset.toggle) {
         const id = b.dataset.toggle;
         state.open.has(id) ? state.open.delete(id) : state.open.add(id);
@@ -368,7 +386,7 @@
     $("#menu").addEventListener("click", (e) => { if (e.target === $("#menu")) $("#menu").close(); });
     $("#nope").addEventListener("click", (e) => { if (e.target === $("#nope")) $("#nope").close("cancel"); });
     window.addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); state.installEvent = e; });
-    if ("serviceWorker" in navigator && location.protocol === "https:") {
+    if ("serviceWorker" in navigator && location.protocol === "https:" && !window.EM_DATA) {
       navigator.serviceWorker.register("sw.js").catch(() => {});
     }
   }

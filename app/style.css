@@ -22,13 +22,20 @@
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #0E1411; --surface: #161E1A; --ink: #E8EEE9; --muted: #98A69E; --line: #26312B;
     --accent: #8FD9B8; --accent-ink: #0E1411; --pop: #C6F432; --pop-ink: #12201A;
     --free-bg: #1D3519; --free-ink: #B6E99A; --paid-bg: #2E2816; --paid-ink: #E9D39A;
     --check-bg: #2B2611; --check-line: #5C4F1F; --danger: #FF8E78;
     --shadow: none; color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+    --bg: #0E1411; --surface: #161E1A; --ink: #E8EEE9; --muted: #98A69E; --line: #26312B;
+    --accent: #8FD9B8; --accent-ink: #0E1411; --pop: #C6F432; --pop-ink: #12201A;
+    --free-bg: #1D3519; --free-ink: #B6E99A; --paid-bg: #2E2816; --paid-ink: #E9D39A;
+    --check-bg: #2B2611; --check-line: #5C4F1F; --danger: #FF8E78;
+    --shadow: none; color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -37,8 +44,8 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; background: var(--bg); color: var(--ink);
   font: 400 15px/1.45 var(--body);
-  padding-left: max(14px, env(safe-area-inset-left, 0px));
-  padding-right: max(14px, env(safe-area-inset-right, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
   padding-bottom: calc(40px + env(safe-area-inset-bottom, 0px));
 }
 button { font: inherit; color: inherit; }
@@ -48,8 +55,8 @@ a { color: inherit; }
 /* Nagłówek */
 .top {
   position: sticky; top: 0; z-index: 5; background: var(--bg);
-  margin: 0 calc(-1 * max(14px, env(safe-area-inset-left, 0px)));
-  padding: calc(10px + env(safe-area-inset-top, 0px)) max(14px, env(safe-area-inset-right, 0px)) 10px;
+  margin: 0 calc(-1 * max(16px, env(safe-area-inset-left, 0px)));
+  padding: calc(10px + env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) 10px;
   display: flex; flex-direction: column; gap: 10px;
   border-bottom: 1px solid var(--line);
 }
@@ -62,11 +69,13 @@ h1 { font: 800 28px/1 var(--display); font-stretch: 78%; letter-spacing: -.01em;
 .seg button { border: 0; background: transparent; padding: 9px 8px; border-radius: 9px; font-weight: 600; font-size: 14px; color: var(--muted); cursor: pointer; }
 .seg button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
 
-.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 0 -14px; padding: 0 14px 2px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 0 16px 2px; }
 .chips::-webkit-scrollbar { display: none; }
 .chip { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 7px 12px; font-size: 13.5px; font-weight: 500; cursor: pointer; white-space: nowrap; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
 .chip .n { opacity: .6; margin-left: 5px; font-variant-numeric: tabular-nums; }
+.chip.flag[aria-pressed="true"] { background: var(--pop); color: var(--pop-ink); border-color: var(--pop); }
+.chip-sep { flex: none; width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); }
 
 .banner { margin: 12px 0 0; padding: 10px 12px; border-radius: 12px; background: var(--check-bg); border: 1px solid var(--check-line); font-size: 13.5px; }
 

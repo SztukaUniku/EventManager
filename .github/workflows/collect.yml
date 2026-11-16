@@ -3,8 +3,8 @@ name: Zbieranie wydarzeń
 on:
   workflow_dispatch:
   schedule:
-    # czwartek 04:17 czasu UTC (05:17 w Warszawie zimą); AI czyta migawki później
-    - cron: "17 4 * * 4"
+    # poniedziałek 03:17 UTC (04:17 w Warszawie zimą, 05:17 latem)
+    - cron: "17 3 * * 1"
   push:
     branches: [main, "claude/**"]
     paths:

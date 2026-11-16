@@ -5,7 +5,7 @@ Aplikacja na telefon (PWA) + automat, który co tydzień zbiera wydarzenia.
 
 ## Jak to działa
 
-1. **Zbieranie** (`.github/workflows/collect.yml`, czwartek rano): `collector/collect.py` odczytuje
+1. **Zbieranie** (`.github/workflows/collect.yml`, poniedziałek nad ranem): `collector/collect.py` odczytuje
    źródła z `collector/sources.py` — gotowe dane (schema.org, API kalendarza WordPress) albo
    migawki stron zapisane w `data/snapshots/`.
 2. **Odczyt migawek**: `collector/parsers.py` ma osobny parser dla każdej strony, więc
