@@ -35,14 +35,40 @@ def _get(url: str, **kw):
     return r.json()
 
 
-def geocode(query: str) -> tuple[float, float] | None:
+def geocode(query: str, must: str = "") -> tuple[float, float] | None:
+    """Pierwszy wynik z Nominatim; gdy podano `must` (miejscowość z adresu), wynik musi ją zawierać."""
     time.sleep(1.1)
     try:
         j = _get("https://nominatim.openstreetmap.org/search", params={
-            "q": query, "format": "json", "limit": 1, "viewbox": VIEWBOX, "bounded": 1, "countrycodes": "pl"})
+            "q": query, "format": "json", "limit": 3, "viewbox": VIEWBOX, "bounded": 1, "countrycodes": "pl"})
     except Exception:
         return None
-    return (float(j[0]["lat"]), float(j[0]["lon"])) if j else None
+    for r in j or []:
+        if not must or _fold(must) in _fold(r.get("display_name", "")):
+            return float(r["lat"]), float(r["lon"])
+    return None
+
+
+# angielskie nazwy z muzea.waw.pl -> polskie, które zna OpenStreetMap
+ALIAS = {
+    "museum of modern art in warsaw": "Muzeum Sztuki Nowoczesnej, Warszawa",
+    "royal lazienki museum": "Łazienki Królewskie, Warszawa",
+    "polish history museum in warsaw": "Muzeum Historii Polski, Warszawa",
+    "the royal castle in warsaw": "Zamek Królewski, Warszawa",
+    "the praga museum of warsaw": "Muzeum Warszawskiej Pragi, Warszawa",
+    "adam mickiewicz museum of literature": "Muzeum Literatury im. Adama Mickiewicza, Warszawa",
+    "andrzej wawrzyniak asia and pacific museum": "Muzeum Azji i Pacyfiku, Warszawa",
+    "state ethnographic museum": "Państwowe Muzeum Etnograficzne, Warszawa",
+    "emanuel ringelblum jewish historical institute": "Żydowski Instytut Historyczny, Warszawa",
+    "zydowski instytut historyczny im emanuela ringelbluma": "Żydowski Instytut Historyczny, Warszawa",
+    "warsaw university of life sciences museum": "Muzeum SGGW, Warszawa",
+    "academy of fine arts museum": "Muzeum Akademii Sztuk Pięknych, Warszawa",
+    "museum of the tenth pavilion of the warsaw citadel": "Muzeum X Pawilonu Cytadeli Warszawskiej",
+    "fort institute of photography": "Instytut Fotografii Fort, Warszawa",
+    "history meeting house": "Dom Spotkań z Historią, Warszawa",
+    "central history stop ipn": "Centralny Przystanek Historia, Warszawa",
+    "uck alternatywy": "Ursynowskie Centrum Kultury Alternatywy, Warszawa",
+}
 
 
 def _distances(origins: list[tuple[float, float]], dests: list[tuple[float, float]]) -> list[list[float | None]]:
@@ -87,28 +113,41 @@ def annotate(events: list[dict]) -> dict:
     if not ref_pts:
         return {}
 
-    # miejsca: klucz = miejsce + adres
-    places: dict[str, tuple[str, bool]] = {}
+    # miejsca: klucz = miejsce + adres; kilka prób od najdokładniejszej
+    places: dict[str, list[tuple[str, str, bool]]] = {}
     for e in events:
         key = _fold(e.get("venue", "")) + "|" + _fold(e.get("address", ""))
-        if key == "|":
+        if key == "|" or key in places:
             continue
-        approx = not e.get("address")
-        q = e["address"] if e.get("address") else f'{e.get("venue", "")}, {e.get("area", "")}'
-        if e.get("address") and e.get("venue"):
-            q = f'{e["address"]}'
-        places.setdefault(key, (q, approx))
-    for key, (q, _) in places.items():
-        if key not in cache:
-            p = geocode(q)
-            if not p and "," in q:
-                p = geocode(q.split(",")[0] + ", Warszawa")
-            cache[key] = list(p) if p else None
+        venue, addr, area = e.get("venue", ""), e.get("address", ""), e.get("area", "")
+        town = (re.search(r"\d{2}-\d{3}\s+([^\d,]+)", addr) or [None, ""])[1].strip()
+        tries: list[tuple[str, str, bool]] = []
+        if addr:
+            tries.append((addr, town, False))
+            if venue:
+                tries.append((f"{venue}, {addr}", town, False))
+        alias = next((v for k, v in ALIAS.items() if _fold(venue).startswith(k)), "")
+        if alias:
+            tries.append((alias, "", False))
+        if venue:
+            tries.append((f"{venue}, {area}", "", False))
+            tries.append((f"{venue}, Warszawa", "", True))   # szersze dopasowanie = przybliżone
+        places[key] = tries
+    for key, tries in places.items():
+        if key in cache and cache[key] != "retry":
+            continue
+        res = None
+        for q, must, approx in tries:
+            p = geocode(q, must)
+            if p:
+                res = [p[0], p[1], approx]
+                break
+        cache[key] = res
     CACHE.parent.mkdir(parents=True, exist_ok=True)
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
 
     keys = [k for k in places if cache.get(k)]
-    dests = [tuple(cache[k]) for k in keys]
+    dests = [(cache[k][0], cache[k][1]) for k in keys]
     names = list(ref_pts)
     table = _distances([ref_pts[n] for n in names], dests) if dests else []
     by_key = {k: {n: table[i][j] for i, n in enumerate(names)} for j, k in enumerate(keys)}
@@ -120,6 +159,8 @@ def annotate(events: list[dict]) -> dict:
         for n, km in d.items():
             if km is not None:
                 e[f"dist_{n}"] = max(1, round(km))
-        e["dist_approx"] = places[key][1]
+        if cache[key][2]:
+            e["dist_approx"] = True
     return {n: REFS[n][1] for n in names}
 # uruchomienie z sekretami REF_A/REF_B
+# v2
