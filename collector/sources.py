@@ -6,10 +6,14 @@ adapter:
   snapshot – zwykła strona; zapisujemy oczyszczony tekst, a wydarzenia wyciąga z niego AI
 
 pages:    strony z programem do zapisania (dla snapshot) lub odczytu (dla jsonld);
-          {m0_start}/{m0_end} i {m1_start}/{m1_end} to pierwszy i ostatni dzień bieżącego i następnego miesiąca
+          {m0_start}/{m0_end}, {m1_start}/{m1_end}: pierwszy/ostatni dzień bieżącego i następnego miesiąca;
+          {m0_mm}-{m0_yyyy}, {m1_mm}-{m1_yyyy}: numer miesiąca i rok
 parser:   nazwa funkcji w collector/parsers.py, gdy stronę da się odczytać bez AI
 discover: słowa w adresie lub opisie linku, po których szukamy podstron z programem
 """
+
+# Wyłączone na razie (program ładowany JavaScriptem, potrzebna przeglądarka – faza 2):
+#   Dom Kultury Śródmieście https://dks.art.pl/wydarzenia
 
 SOURCES = [
     {
@@ -23,7 +27,7 @@ SOURCES = [
     },
     {
         "id": "muzea", "name": "muzea.waw.pl (wystawy)", "area": "Warszawa",
-        "adapter": "snapshot", "pages": ["https://muzea.waw.pl/en/exhibitions/"],
+        "adapter": "snapshot", "parser": "muzea", "pages": ["https://muzea.waw.pl/wystawy/", "https://muzea.waw.pl/en/exhibitions/"],
     },
     {
         "id": "alternatywy", "name": "UCK Alternatywy", "area": "Ursynów",
@@ -43,34 +47,30 @@ SOURCES = [
     },
     {
         "id": "nowyteatr", "name": "Nowy Teatr", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://nowyteatr.org/pl/kalendarz?date_from={m0_start}&date_to={m0_end}", "https://nowyteatr.org/pl/kalendarz?date_from={m1_start}&date_to={m1_end}"],
+        "parser": "nowyteatr", "adapter": "snapshot", "pages": ["https://nowyteatr.org/pl/kalendarz?date_from={m0_start}&date_to={m0_end}", "https://nowyteatr.org/pl/kalendarz?date_from={m1_start}&date_to={m1_end}"],
     },
     {
         "id": "kadr", "name": "Dom Kultury Kadr", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://dkkadr.waw.pl/repertuar/"],
+        "parser": "kadr", "adapter": "snapshot", "pages": ["https://dkkadr.waw.pl/repertuar/"],
     },
     {
         "id": "sdk", "name": "Służewski Dom Kultury", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli"],
+        "parser": "sdk", "adapter": "snapshot", "pages": ["https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli"],
     },
     {
         "id": "domsztuki", "name": "Dom Sztuki SMB Jary", "area": "Ursynów",
-        "adapter": "snapshot", "pages": ["https://domsztuki.art.pl/", "https://domsztuki.art.pl/kino"],
-    },
-    {
-        "id": "dks", "name": "Dom Kultury Śródmieście", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://dks.art.pl/wydarzenia"],
+        "parser": "domsztuki", "adapter": "snapshot", "pages": ["https://domsztuki.art.pl/kino"],
     },
     {
         "id": "teatrstudio", "name": "Teatr Studio i Galeria Studio", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://teatrstudio.pl/pl/repertuar/", "https://teatrstudio.pl/"],
+        "parser": "teatrstudio", "adapter": "snapshot", "pages": ["https://teatrstudio.pl/pl/repertuar/?month={m0_mm}-{m0_yyyy}&", "https://teatrstudio.pl/pl/repertuar/?month={m1_mm}-{m1_yyyy}&"],
     },
     {
         "id": "msn", "name": "Muzeum Sztuki Nowoczesnej", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://artmuseum.pl/program", "https://artmuseum.pl/wystawy-aktualne"],
+        "parser": "msn", "adapter": "snapshot", "pages": ["https://artmuseum.pl/program"],
     },
     {
         "id": "filharmonia", "name": "Filharmonia Narodowa", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://filharmonia.pl/repertuar"],
+        "parser": "filharmonia", "adapter": "snapshot", "pages": ["https://filharmonia.pl/repertuar"],
     },
 ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:31+01:00",
+ "generated_at": "2026-11-16T22:35+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
@@ -29,20 +29,20 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 245
+   "events": 226
   },
   {
    "id": "muzea",
    "name": "muzea.waw.pl (wystawy)",
    "area": "Warszawa",
    "adapter": "snapshot",
-   "url": "https://muzea.waw.pl/en/exhibitions/",
+   "url": "https://muzea.waw.pl/wystawy/",
    "ok": true,
    "last_ok_at": "2026-11-16T22:31+01:00",
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 49
   },
   {
    "id": "alternatywy",
@@ -94,7 +94,7 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 52
+   "events": 51
   },
   {
    "id": "nowyteatr",
@@ -107,7 +107,7 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 29
   },
   {
    "id": "kadr",
@@ -120,7 +120,7 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 26
   },
   {
    "id": "sdk",
@@ -133,46 +133,33 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 3
   },
   {
    "id": "domsztuki",
    "name": "Dom Sztuki SMB Jary",
    "area": "Ursynów",
    "adapter": "snapshot",
-   "url": "https://domsztuki.art.pl/",
+   "url": "https://domsztuki.art.pl/kino",
    "ok": true,
    "last_ok_at": "2026-11-16T22:31+01:00",
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
-  },
-  {
-   "id": "dks",
-   "name": "Dom Kultury Śródmieście",
-   "area": "Śródmieście",
-   "adapter": "snapshot",
-   "url": "https://dks.art.pl/wydarzenia",
-   "ok": true,
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "error": null,
-   "extracted_at": null,
-   "events": 0
+   "events": 2
   },
   {
    "id": "teatrstudio",
    "name": "Teatr Studio i Galeria Studio",
    "area": "Śródmieście",
    "adapter": "snapshot",
-   "url": "https://teatrstudio.pl/pl/repertuar/",
+   "url": "https://teatrstudio.pl/pl/repertuar/?month={m0_mm}-{m0_yyyy}&",
    "ok": true,
    "last_ok_at": "2026-11-16T22:31+01:00",
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 12
   },
   {
    "id": "msn",
@@ -185,7 +172,7 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 27
   },
   {
    "id": "filharmonia",
@@ -198,7 +185,7 @@
    "checked_at": "2026-11-16T22:31+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 8
   }
  ]
 }

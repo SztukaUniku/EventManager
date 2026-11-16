@@ -53,6 +53,7 @@ def expand(url: str, today) -> str:
     return url.format(
         m0_start=m0.isoformat(), m0_end=(m1 - timedelta(days=1)).isoformat(),
         m1_start=m1.isoformat(), m1_end=(m2 - timedelta(days=1)).isoformat(),
+        m0_mm=m0.month, m0_yyyy=m0.year, m1_mm=m1.month, m1_yyyy=m1.year,
     )
 
 

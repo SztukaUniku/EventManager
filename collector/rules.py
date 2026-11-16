@@ -92,6 +92,7 @@ EXCLUDE = [
         r"ferie", r"dla szkół", r"dla młodzieży(?! i dorosł)", r"teatrzyk\w*", r"kids", r"dzieciństw\w*",
         r"brzdąc\w*", r"baśń", r"baśni\w*", r"bajecz\w*", r"bajkow\w*", r"niedzielank\w*", r"GUD", r"uniwersytet dzieci",
         r"mama i córka", r"z mamą", r"z tatą", r"wychowawcz\w*", r"młode horyzonty", r"wielkie kino dla małych",
+        r"junior\w*", r"\((?:[0-9]|1[0-2])\+\)", r"\((?:[0-9]|1[0-2])\s*[-–]\s*\d{1,2} lat\)", r"[0-9]\+ lat",
     ])),
     ("dla seniorów", _rx([r"senior\w*", r"60\+", r"65\+", r"uniwersytet\w* trzeciego wieku", r"UTW"])),
     ("karaoke", _rx([r"karaoke"])),
@@ -108,6 +109,13 @@ EXCLUDE = [
         r"wieczór taneczn\w*", r"wieczorek taneczn\w*",
     ])),
     ("hard techno", _rx([r"hard techno", r"hardstyle", r"hardcore techno", r"gabber"])),
+    ("sport, kursy i porady (nie kultura)", _rx([
+        r"toastmaster\w*", r"public speaking", r"autoprezentacj\w*", r"mentoring\w*", r"linkedin", r"mark\w* osobist\w*",
+        r"biznes\w*", r"trening\w*", r"treningi", r"fitness", r"pilates", r"joga", r"jogi", r"jogą", r"yoga", r"aikido", r"cross ?training",
+        r"gimnastyk\w*", r"sport", r"mecz\w*", r"bieg\w*", r"nordic walking", r"rodzicielstw\w*", r"wspierać dziecko", r"dla rodziców",
+        r"meet & speak", r"speaking club", r"language exchange", r"online", r"webinar\w*", r"porad\w*", r"zakwaszeni\w*",
+    ])),
+    ("multipleks", _rx([r"cinema city", r"multikino", r"helios"])),
 ]
 
 # Wydarzenia komercyjne: nie trafiają do NISZOWYCH (mogą wrócić w zakładce KOMERCYJNE)
@@ -116,7 +124,7 @@ COMMERCIAL_VENUE = _rx([
     r"teatr\w* kwadrat", r"teatr\w* komedia", r"teatr\w* 6\. piętro", r"teatr\w* syrena", r"teatr\w* roma",
     r"teatr\w* polski", r"klub komediowy", r"torwar", r"pge narodowy", r"stodoła", r"progresja", r"hulakula",
     r"sala koncertowa fryderyk", r"muzeum archidiecezji\w*", r"chopin point", r"explosion club", r"osir\w*",
-    r"simair\w*", r"hala expo", r"ptak",
+    r"simair\w*", r"hala expo", r"ptak", r"wedel\w*", r"centrum nauki kopernik", r"copernicus science\w*",
 ])
 COMMERCIAL_TITLE = _rx([
     r"koncert\w* chopinowsk\w*", r"przy świecach", r"candlelight", r"boxing", r"zooegzotyka", r"lot demonstracyjny",
