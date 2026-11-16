@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:44+01:00",
+ "generated_at": "2026-11-16T23:45+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
@@ -13,8 +13,8 @@
    "adapter": "jsonld",
    "url": "https://kulturalnie.waw.pl/",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 9
@@ -26,8 +26,8 @@
    "adapter": "snapshot",
    "url": "https://waw4free.pl/warszawa-darmowe-koncerty",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 226
@@ -39,8 +39,8 @@
    "adapter": "snapshot",
    "url": "https://muzea.waw.pl/wystawy/",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 94
@@ -52,8 +52,8 @@
    "adapter": "snapshot",
    "url": "https://alternatywy.art/",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 22
@@ -65,8 +65,8 @@
    "adapter": "tribe",
    "url": "https://terminalkultury.pl",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 17
@@ -78,8 +78,8 @@
    "adapter": "tribe",
    "url": "https://lowicka.pl",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 10
@@ -91,8 +91,8 @@
    "adapter": "tribe",
    "url": "https://kulturalni.pl",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 51
@@ -104,8 +104,8 @@
    "adapter": "snapshot",
    "url": "https://nowyteatr.org/pl/kalendarz?date_from={m0_start}&date_to={m0_end}",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 29
@@ -117,8 +117,8 @@
    "adapter": "snapshot",
    "url": "https://dkkadr.waw.pl/repertuar/",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 26
@@ -130,8 +130,8 @@
    "adapter": "snapshot",
    "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 3
@@ -143,8 +143,8 @@
    "adapter": "snapshot",
    "url": "https://domsztuki.art.pl/kino",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 1
@@ -156,8 +156,8 @@
    "adapter": "snapshot",
    "url": "https://teatrstudio.pl/pl/repertuar/?month={m0_mm}-{m0_yyyy}&",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 32
@@ -169,8 +169,8 @@
    "adapter": "snapshot",
    "url": "https://artmuseum.pl/program",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 27
@@ -182,8 +182,8 @@
    "adapter": "snapshot",
    "url": "https://filharmonia.pl/repertuar",
    "ok": true,
-   "last_ok_at": "2026-11-16T23:28+01:00",
-   "checked_at": "2026-11-16T23:28+01:00",
+   "last_ok_at": "2026-11-16T23:45+01:00",
+   "checked_at": "2026-11-16T23:45+01:00",
    "error": null,
    "extracted_at": null,
    "events": 8

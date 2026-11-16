@@ -313,7 +313,7 @@ Katarzyna Bojarska
 empty slot
 11 piątek
 empty slot
-!!! 32
+!!! 31
 19.00
 [Kup bilet](https://bilety.nowyteatr.org/numerowane.html?id=3119&idt=98dfb2ebf228e0ae09262b148f145658)
 Lee Miller w wannie Hitlera
@@ -366,7 +366,7 @@ empty slot
 Europa
 Wajdi Mouawad, Krzysztof Warlikowski
 19. Międzynarodowy Festiwal Teatralny Boska Komedia, Kraków
-!!! 204
+!!! 205
 16.00
 [Kup bilet](https://bilety.nowyteatr.org/numerowane.html?id=3135&idt=d2d4604a80a1f3007cf46f646c036161)
 Człowiek jaki jest, każdy widzi
