@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:18+01:00",
+ "generated_at": "2026-11-16T23:22+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
@@ -11780,8 +11780,7 @@
    "note": "",
    "category": "Wystawy",
    "tags": [
-    "wystawa",
-    "LGBT+"
+    "wystawa"
    ],
    "source": "muzea",
    "source_name": "muzea.waw.pl (wystawy)",

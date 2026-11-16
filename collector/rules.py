@@ -154,7 +154,7 @@ TAGS = [
     ("wykład / spotkanie", _rx([r"wykład\w*", r"spotkani\w*", r"rozmow\w*", r"dyskusj\w*", r"debat\w*", r"prelekcj\w*", r"autorsk\w*", r"książk\w*", r"reading party", r"literack\w*"])),
     ("warsztaty", _rx([r"warsztat\w*", r"kurs\w*", r"zajęci\w*", r"pracowni\w*"])),
     ("oprowadzanie", _rx([r"oprowadzani\w*", r"zwiedzani\w*", r"spacer\w*"])),
-    ("LGBT+", _rx([r"lgbt\w*", r"queer\w*", r"lesbij\w*", r"tęczow\w*", r"drag", r"pride", r"nieheteronormatywn\w*", r"sapphic"])),
+    ("LGBT+", _rx([r"lgbt\w*", r"queer\w*", r"lesbij\w*", r"tęczow\w*", r"drag", r"pride (?:month|parade|week)", r"parad\w* równości", r"nieheteronormatywn\w*", r"sapphic"])),
     ("dla singli", _rx([r"singl\w*"])),
     ("impreza", _rx([r"impreza\w*", r"impreź\w*", r"party", r"klubow\w*", r"noc\w* klubow\w*"])),
     ("fotografia", _rx([r"fotograf\w*", r"zdjęci\w*"])),

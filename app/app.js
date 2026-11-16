@@ -8,7 +8,7 @@
   const UI_KEY = "em-ui-v1";
   const DAY_NAMES = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
   const MONTHS = ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"];
-  const CAT_ORDER = ["Koncerty", "Imprezy i taniec", "Teatr i performans", "Stand-up", "Film", "Wystawy", "Spotkania i wykłady", "Warsztaty", "Inne"];
+  const CAT_ORDER = ["Teatr i performans", "Koncerty", "Imprezy i taniec", "Film", "Wystawy", "Spotkania i wykłady", "Warsztaty", "Inne", "Stand-up"];
 
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -129,8 +129,8 @@
       if (counts[c] || ui.cats.includes(c)) chips += `<button type="button" class="chip" data-cat="${esc(c)}" aria-pressed="${ui.cats.includes(c)}">${esc(c)}<span class="n">${counts[c] || 0}</span></button>`;
     });
     chips += `<span class="chip-sep" aria-hidden="true"></span>`;
-    if (free || ui.free) chips += `<button type="button" class="chip flag" data-flag="free" aria-pressed="${ui.free}">Za darmo<span class="n">${free}</span></button>`;
-    if (lgbt || ui.lgbt) chips += `<button type="button" class="chip flag" data-flag="lgbt" aria-pressed="${ui.lgbt}">LGBT+<span class="n">${lgbt}</span></button>`;
+    chips += `<button type="button" class="chip flag" data-flag="free" aria-pressed="${ui.free}">Za darmo<span class="n">${free}</span></button>`;
+    chips += `<button type="button" class="chip flag" data-flag="lgbt" aria-pressed="${ui.lgbt}">LGBT+<span class="n">${lgbt}</span></button>`;
     if (hidden.length || ui.hidden) chips += `<button type="button" class="chip flag" data-flag="hidden" aria-pressed="${ui.hidden}">Ukryte<span class="n">${hidden.length}</span></button>`;
     $("#chips").innerHTML = chips;
 
