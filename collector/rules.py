@@ -188,6 +188,9 @@ def classify(text: str) -> tuple[list[str], str]:
             break
     if re.search(r"koncert\w*", text, re.I):
         cat = "Koncerty" if cat in ("Inne", "Spotkania i wykłady") else cat
+    # koncert (także improwizowany / ambientowy) to nie impreza taneczna, chyba że jest DJ, rave albo „impreza”
+    if cat == "Imprezy i taniec" and re.search(r"koncert\w*", text, re.I) and not re.search(r"(?<!\w)dj(?!\w)|dj-|rave|impreza|impreź|party|klubow", text, re.I):
+        cat = "Koncerty"
     return tags, cat
 
 
