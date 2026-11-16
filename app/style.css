@@ -161,3 +161,4 @@ textarea { min-height: 120px; font-size: 13px; }
 .day.weekend .day-h::before { content: ""; width: 4px; align-self: stretch; border-radius: 2px; background: var(--wk); }
 
 .day.weekend .time:not(.none), .day.weekend .title { color: var(--wk-ink); }
+.day.weekend .card { border-left: 4px solid var(--wk); }
