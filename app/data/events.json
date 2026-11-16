@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-11-16T23:28+01:00",
+ "generated_at": "2026-11-16T23:44+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
  },
+ "refs": {},
  "events": [
   {
    "title": "Wolski Book Club",
@@ -3898,7 +3899,7 @@
    "ticket_url": "",
    "description": "22. Ogólnopolskie Spotkania Taneczne SPONTAN 2026 to całodniowe święto tańca z udziałem amatorskich grup z całej Polski. Uczestnicy zaprezentują choreografie w kategoriach jazz/hip-hop, teatr tańca oraz modern/contemporary, a wydarzeniu towarzyszyć będą spotkania, wymiana doświadczeń i wspólna chore",
    "note": "",
-   "category": "Koncerty",
+   "category": "Teatr i performans",
    "tags": [
     "jazz",
     "hip-hop",
@@ -3928,7 +3929,7 @@
    "ticket_url": "https://www.strefazajec.pl/course/view/id/97871",
    "description": "Warsztaty tworzenia pająków ludowych w Piasecznie to spotkanie z tradycyjnym polskim rękodziełem i dawną symboliką. Pod okiem Marzeny Luterek-Czyż uczestnicy poznają historię ludowych dekoracji i własnoręcznie stworzą wyjątkowego pająka ze słomy, bibuły i naturalnych materiałów.",
    "note": "",
-   "category": "Wystawy",
+   "category": "Warsztaty",
    "tags": [
     "folk / world",
     "wystawa",
@@ -5123,7 +5124,7 @@
    "ticket_url": "",
    "description": "„Kocham Ciebie, nie tracąc siebie” to kameralny warsztat dla kobiet poświęcony stawianiu granic bez poczucia winy i lęku przed odrzuceniem. Uczestniczki będą pracować nad rozpoznawaniem własnych potrzeb, sygnałów płynących z ciała oraz budowaniem równowagi między bliskością a autonomią.",
    "note": "",
-   "category": "Koncerty",
+   "category": "Warsztaty",
    "tags": [
     "klasyka",
     "warsztaty"
@@ -6929,7 +6930,7 @@
    "ticket_url": "",
    "description": "",
    "note": "",
-   "category": "Koncerty",
+   "category": "Warsztaty",
    "tags": [
     "wykład / spotkanie",
     "warsztaty",
@@ -8530,7 +8531,7 @@
    "ticket_url": "",
    "description": "Zapraszam dzieci wraz z rodzicami na niezwykłe spotkanie, podczas którego wspólnie odkryjemy fascynujący świat dźwięków, wibracji i instrumentów.",
    "note": "",
-   "category": "Koncerty",
+   "category": "Warsztaty",
    "tags": [
     "wykład / spotkanie",
     "warsztaty"
@@ -8764,7 +8765,7 @@
    "ticket_url": "",
    "description": "ZATRZYMAJ SIĘ. POSŁUCHAJ. ODPOCZNIJ. Warsztaty i koncert relaksacyjny przy dźwiękach mis tybetańskich, gongu i innych instrumentów",
    "note": "",
-   "category": "Koncerty",
+   "category": "Warsztaty",
    "tags": [
     "warsztaty"
    ],
@@ -10194,7 +10195,7 @@
    "ticket_url": "",
    "description": "Beata Żurawska, Katarzyna Grubek, Edyta Ołdak",
    "note": "",
-   "category": "Teatr i performans",
+   "category": "Warsztaty",
    "tags": [
     "teatr",
     "warsztaty"

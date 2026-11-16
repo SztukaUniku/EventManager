@@ -31,6 +31,9 @@ jobs:
       - name: Pobierz źródła
         run: python -m collector.collect
       - name: Zbuduj bazę dla aplikacji
+        env:
+          REF_A: ${{ secrets.REF_A }}
+          REF_B: ${{ secrets.REF_B }}
         run: python -m collector.build
       - name: Zapisz dane w repozytorium
         run: |

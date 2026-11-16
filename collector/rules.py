@@ -175,7 +175,7 @@ CATEGORY_ORDER = [
 ]
 
 
-def classify(text: str) -> tuple[list[str], str]:
+def classify(text: str, title: str = "") -> tuple[list[str], str]:
     tags = [name for name, rx in TAGS if rx.search(text)]
     if re.search(r"koncert\w*", text, re.I) and not any(t in tags for t in ("jazz", "klasyka", "rock / alternatywa", "folk / world", "hip-hop", "elektro", "house", "techno")):
         cat = "Koncerty"
@@ -191,6 +191,11 @@ def classify(text: str) -> tuple[list[str], str]:
     # koncert (także improwizowany / ambientowy) to nie impreza taneczna, chyba że jest DJ, rave albo „impreza”
     if cat == "Imprezy i taniec" and re.search(r"koncert\w*", text, re.I) and not re.search(r"(?<!\w)dj(?!\w)|dj-|rave|impreza|impreź|party|klubow", text, re.I):
         cat = "Koncerty"
+    # tytuł rozstrzyga: „warsztaty” to warsztaty, pokazy tańca amatorskiego to performans
+    if re.search(r"warsztat\w*", title, re.I):
+        cat = "Warsztaty"
+    elif re.search(r"spotkania taneczn\w*|choreograf\w*|taniec współczesn\w*", title, re.I) and not any(t in tags for t in ("elektro", "house", "techno")):
+        cat = "Teatr i performans"
     return tags, cat
 
 

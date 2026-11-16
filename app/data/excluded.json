@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-11-16T23:28+01:00",
+ "generated_at": "2026-11-16T23:44+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
  },
+ "refs": {},
  "events": [
   {
    "title": "Koncert Chopinowski, Stare Miasto",
@@ -2441,7 +2442,7 @@
    "ticket_url": "",
    "description": "",
    "note": "",
-   "category": "Film",
+   "category": "Warsztaty",
    "tags": [
     "film",
     "wykład / spotkanie",
@@ -5200,7 +5201,7 @@
    "ticket_url": "",
    "description": "Wielkie Kino dla Małych reżyseria: Rasmus A. Sivertsen Norwegia 2026",
    "note": "",
-   "category": "Film",
+   "category": "Warsztaty",
    "tags": [
     "film",
     "warsztaty"
@@ -7597,7 +7598,7 @@
    "ticket_url": "",
    "description": "Edukacja",
    "note": "",
-   "category": "Teatr i performans",
+   "category": "Warsztaty",
    "tags": [
     "teatr",
     "warsztaty"

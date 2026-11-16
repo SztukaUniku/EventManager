@@ -24,8 +24,11 @@
 
   const prefs = load(PREFS_KEY, { v: 1, rules: [] });
   if (!Array.isArray(prefs.rules)) prefs.rules = [];
+  if (!Array.isArray(prefs.likes)) prefs.likes = [];          // ♥ Zapisane i „Dodaj do kalendarza” = sygnały „lubię”
+  if (!Array.isArray(prefs.dismissed)) prefs.dismissed = [];  // odrzucone podpowiedzi „ukryć wszystkie?”
+  const GENERIC = ["wykład / spotkanie", "oprowadzanie"];
   // Filtry: kilka kategorii naraz (lub), do tego „Za darmo” i „LGBT+” (zawężają), „Ukryte” to osobny widok.
-  const ui = Object.assign({ range: "week", cats: [], free: false, lgbt: false, hidden: false }, load(UI_KEY, {}));
+  const ui = Object.assign({ range: "week", cats: [], free: false, lgbt: false, hidden: false, fav: false, p4u: false, ref: "a", maxkm: 0 }, load(UI_KEY, {}));
   if (!Array.isArray(ui.cats)) ui.cats = [];
   delete ui.filter;
   const state = { data: null, sources: null, excluded: null, open: new Set(), installEvent: null };
@@ -59,6 +62,40 @@
     }
     return null;
   }
+
+  // ---------------------------------------------------------------- ♥, „4U”, podpowiedzi
+  const isFav = (id) => prefs.likes.some((l) => l.id === id && l.kind === "fav");
+  function addLike(ev, kind) {
+    if (prefs.likes.some((l) => l.id === ev.id)) { if (kind === "fav") prefs.likes.find((l) => l.id === ev.id).kind = "fav"; }
+    else prefs.likes.push({ id: ev.id, kind, title: ev.title, tags: ev.tags || [], venue: fold(ev.venue || ""), venueName: ev.venue || "", at: new Date().toISOString() });
+    save(PREFS_KEY, prefs);
+  }
+  function taste() {
+    const tags = {}, venues = {};
+    prefs.likes.forEach((l) => {
+      (l.tags || []).filter((t) => !GENERIC.includes(t)).forEach((t) => { tags[t] = (tags[t] || 0) + 1; });
+      if (l.venue) venues[l.venue] = { n: ((venues[l.venue] || {}).n || 0) + 1, name: l.venueName };
+    });
+    return { tags, venues };
+  }
+  let tasteCache = null;
+  function why4u(ev) {   // powody podpowiedzi „4U” albo null; podpowiadamy dopiero po co najmniej 2 podobnych sygnałach
+    if (!tasteCache) tasteCache = taste();
+    if (isFav(ev.id)) return null;
+    const r = (ev.tags || []).filter((t) => (tasteCache.tags[t] || 0) >= 2);
+    const v = ev.venue && tasteCache.venues[fold(ev.venue)];
+    if (v && v.n >= 2) r.push(ev.venue);
+    return r.length ? r : null;
+  }
+  function suggestions() {   // „ukryłaś kilka wydarzeń z tym samym tagiem — ukrywać wszystkie?”
+    const counts = {};
+    prefs.rules.filter((r) => r.type === "event").forEach((r) => (r.tags || []).filter((t) => !GENERIC.includes(t)).forEach((t) => { counts[t] = (counts[t] || 0) + 1; }));
+    return Object.keys(counts).filter((t) => counts[t] >= 3 && !prefs.dismissed.includes(t) && !prefs.rules.some((r) => r.type === "tag" && r.value === t))
+      .map((t) => ({ tag: t, n: counts[t] }));
+  }
+  const distKey = () => (ui.ref === "b" ? "dist_b" : "dist_a");
+  const refs = () => (state.data && state.data.refs) || {};
+  const distOk = (e) => !ui.maxkm || !refs()[ui.ref] || e[distKey()] == null || e[distKey()] <= ui.maxkm;   // brak danych = nie ukrywamy
 
   // ---------------------------------------------------------------- dane
   async function fetchJSON(url) {
@@ -116,14 +153,19 @@
     document.querySelectorAll(".seg button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.range === ui.range)));
 
     // chipy: liczby pokazują, ile zostanie po dodaniu danego filtra
-    const base = ui.hidden ? hidden : shown;
-    const byFlags = base.filter((e) => (!ui.free || e.free) && (!ui.lgbt || (e.tags || []).includes("LGBT+")));
+    tasteCache = null;
+    const base = (ui.hidden ? hidden : shown).filter(distOk);
+    const flagsOk = (e) => (!ui.free || e.free) && (!ui.lgbt || (e.tags || []).includes("LGBT+")) && (!ui.fav || isFav(e.id)) && (!ui.p4u || why4u(e));
+    const byFlags = base.filter(flagsOk);
     const counts = {};
     byFlags.forEach((e) => { counts[e.category] = (counts[e.category] || 0) + 1; });
     ui.cats = ui.cats.filter((c) => CAT_ORDER.includes(c));
     const inCats = (e) => !ui.cats.length || ui.cats.includes(e.category);
-    const free = base.filter((e) => e.free && inCats(e) && (!ui.lgbt || (e.tags || []).includes("LGBT+"))).length;
-    const lgbt = base.filter((e) => (e.tags || []).includes("LGBT+") && inCats(e) && (!ui.free || e.free)).length;
+    const others = (skip) => (e) => inCats(e) && [["free", e.free], ["lgbt", (e.tags || []).includes("LGBT+")], ["fav", isFav(e.id)], ["p4u", !!why4u(e)]].every(([k, v]) => k === skip || !ui[k] || v);
+    const free = base.filter((e) => e.free && others("free")(e)).length;
+    const lgbt = base.filter((e) => (e.tags || []).includes("LGBT+") && others("lgbt")(e)).length;
+    const favN = base.filter((e) => isFav(e.id) && others("fav")(e)).length;
+    const p4uN = base.filter((e) => why4u(e) && others("p4u")(e)).length;
     let chips = `<button type="button" class="chip" data-cat="" aria-pressed="${!ui.cats.length}">Wszystko<span class="n">${byFlags.length}</span></button>`;
     CAT_ORDER.forEach((c) => {
       if (counts[c] || ui.cats.includes(c)) chips += `<button type="button" class="chip" data-cat="${esc(c)}" aria-pressed="${ui.cats.includes(c)}">${esc(c)}<span class="n">${counts[c] || 0}</span></button>`;
@@ -131,8 +173,20 @@
     chips += `<span class="chip-sep" aria-hidden="true"></span>`;
     chips += `<button type="button" class="chip flag" data-flag="free" aria-pressed="${ui.free}">Za darmo<span class="n">${free}</span></button>`;
     chips += `<button type="button" class="chip flag" data-flag="lgbt" aria-pressed="${ui.lgbt}">LGBT+<span class="n">${lgbt}</span></button>`;
+    chips += `<button type="button" class="chip flag" data-flag="fav" aria-pressed="${ui.fav}">♥ Zapisane<span class="n">${favN}</span></button>`;
+    chips += `<button type="button" class="chip flag" data-flag="p4u" aria-pressed="${ui.p4u}">4U<span class="n">${p4uN}</span></button>`;
     if (hidden.length || ui.hidden) chips += `<button type="button" class="chip flag" data-flag="hidden" aria-pressed="${ui.hidden}">Ukryte<span class="n">${hidden.length}</span></button>`;
     $("#chips").innerHTML = chips;
+
+    // odległość: punkt odniesienia + progi (tylko gdy w danych są odległości)
+    const rf = refs(), dist = $("#dist");
+    if (Object.keys(rf).length) {
+      if (!rf[ui.ref]) ui.ref = Object.keys(rf)[0];
+      dist.hidden = false;
+      dist.innerHTML = `<span class="chip-lbl">Od:</span>` + Object.keys(rf).map((k) => `<button type="button" class="chip" data-ref="${k}" aria-pressed="${ui.ref === k}">${esc(rf[k])}</button>`).join("")
+        + `<span class="chip-sep" aria-hidden="true"></span>` + [5, 10, 20].map((n) => `<button type="button" class="chip" data-km="${n}" aria-pressed="${ui.maxkm === n}">do ${n} km</button>`).join("")
+        + `<span class="chip-lbl">km po drodze</span>`;
+    } else dist.hidden = true;
 
     // lista
     const list = byFlags.filter(inCats);
@@ -140,7 +194,7 @@
 
     const dated = list.filter((e) => !e.ongoing);
     const ongoing = list.filter((e) => e.ongoing).sort((a, b) => a.date_to.localeCompare(b.date_to));
-    let html = "";
+    let html = suggestions().map((x) => `<div class="suggest"><span>Ukryłaś już ${x.n} wydarzeń z tagiem „${esc(x.tag)}”. Ukrywać wszystkie takie?</span><span class="sg-btns"><button type="button" class="btn primary" data-sug-yes="${esc(x.tag)}">Tak, ukryj</button><button type="button" class="btn" data-sug-no="${esc(x.tag)}">Nie</button></span></div>`).join("");
     let day = "";
     dated.forEach((e) => {
       if (e.date !== day) {
@@ -174,6 +228,12 @@
     const where = [e.venue, e.area && e.area !== e.venue ? e.area : ""].filter(Boolean).join(" · ");
     const price = e.price ? `<span class="badge ${e.free ? "free" : "paid"}">${esc(e.price)}</span>` : `<span class="badge">cena: sprawdź na stronie</span>`;
     const lgbt = (e.tags || []).includes("LGBT+") ? `<span class="badge lgbt">LGBT+</span>` : "";
+    const w4 = why4u(e);
+    const fav = isFav(e.id);
+    const rf = refs();
+    const dk = distKey();
+    const dist = rf[ui.ref] && e[dk] != null ? `<span class="badge dist" title="Odległość po drodze od: ${esc(rf[ui.ref])}">${e.dist_approx ? "ok. " : ""}${e[dk]} km</span>` : "";
+    const distAll = Object.keys(rf).filter((k) => e["dist_" + k] != null).map((k) => `${e["dist_" + k]} km od: ${esc(rf[k])}`).join(" · ");
     let more = "";
     const evUrl = e.url || sourceUrl(e.source);
     if (open) {
@@ -181,27 +241,36 @@
       more = `<div class="more">
         ${e.description ? `<p>${esc(e.description)}</p>` : ""}
         ${e.address ? `<p><span class="lbl">Adres:</span> ${esc(e.address)}</p>` : ""}
+        ${distAll ? `<p><span class="lbl">Dojazd samochodem:</span> ${distAll}${e.dist_approx ? " (przybliżone — źródło nie podaje adresu)" : ""}</p>` : ""}
+        ${w4 ? `<p><span class="lbl">4U:</span> podobne do tego, co zapisałaś lub dodałaś do kalendarza (${esc(w4.join(", "))}).</p>` : ""}
         <p><span class="lbl">Jak wziąć udział:</span> ${esc(e.how || "Szczegóły i bilety na stronie wydarzenia.")}</p>
         ${e.note ? `<p class="src">${esc(e.note)}</p>` : ""}
         <div class="actions">
           ${evUrl ? `<a class="btn primary" href="${esc(evUrl)}" target="_blank" rel="noopener">Strona wydarzenia</a>` : ""}
           ${e.ticket_url && e.ticket_url !== e.url ? `<a class="btn" href="${esc(e.ticket_url)}" target="_blank" rel="noopener">Bilety / zapisy</a>` : ""}
-          <a class="btn" href="${esc(calendarLink(e))}" target="_blank" rel="noopener">Dodaj do kalendarza</a>
+          <a class="btn" href="${esc(calendarLink(e))}" data-cal="${esc(e.id)}" target="_blank" rel="noopener">Dodaj do kalendarza</a>
+          <a class="btn" href="${esc(routeLink(e))}" target="_blank" rel="noopener">Trasa</a>
           ${rule ? `<button type="button" class="btn" data-unhide="${esc(rule.id)}">Pokaż znowu</button>` : `<button type="button" class="btn nope" data-nope="${esc(e.id)}">Nie dla mnie</button>`}
         </div>
         ${rule ? `<p class="src">Ukryte: ${esc(rule.label)}</p>` : ""}
       </div>`;
     }
     return `<article class="card" id="e-${esc(e.id)}">
+      <button type="button" class="fav${fav ? " on" : ""}" data-fav="${esc(e.id)}" aria-pressed="${fav}" aria-label="${fav ? "Usuń z zapisanych" : "Zapisz"}">${fav ? "♥" : "♡"}</button>
       <button type="button" class="card-main" data-toggle="${esc(e.id)}" aria-expanded="${open}">
         ${time}
         <div class="body">
           <span class="cat">${esc(e.category)}</span>
           <h3 class="title">${esc(e.title)}</h3>
           ${where ? `<div class="where">${esc(where)}</div>` : ""}
-          <div class="badges">${price}${lgbt}</div>
+          <div class="badges">${price}${dist}${w4 ? `<span class="badge fu">4U</span>` : ""}${lgbt}</div>
         </div>
       </button>${more}</article>`;
+  }
+
+  function routeLink(e) {   // Mapy Google zapytają o punkt startowy; czas dojazdu komunikacją
+    const dest = [e.venue, e.address || e.area].filter(Boolean).join(", ");
+    return "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=" + encodeURIComponent(dest + ", Polska");
   }
 
   function sourceUrl(id) {
@@ -237,7 +306,7 @@
     const e = findEvent(id);
     if (!e) return;
     const opts = [["event", e.id, "Tylko to wydarzenie", ""]];
-    (e.tags || []).forEach((t) => opts.push(["tag", t, `Ten klimat: ${t}`, "ukryje wszystkie wydarzenia z tym tagiem"]));
+    (e.tags || []).forEach((t) => opts.push(["tag", t, `Nie lubię tego klimatu: ${t}`, "ukryje wszystkie wydarzenia z tym tagiem"]));
     if (e.venue) opts.push(["venue", fold(e.venue), `To miejsce: ${e.venue}`, "ukryje wszystko z tego miejsca"]);
     const series = fold(e.title).split(" ").slice(0, 3).join(" ");
     if (series.length > 6) opts.push(["series", series, `Cykl „${e.title.split(/[|–:]/)[0].trim()}”`, "ukryje wydarzenia o tak samo zaczynającym się tytule"]);
@@ -251,7 +320,7 @@
       if (dlg.returnValue !== "ok") return;
       const i = Number(($("#nope-opts input:checked") || {}).value || 0);
       const [type, value, label] = opts[i];
-      const rule = { id: Math.random().toString(36).slice(2, 10), type, value, label, why: $("#nope-why").value.trim(), at: new Date().toISOString(), title: e.title };
+      const rule = { id: Math.random().toString(36).slice(2, 10), type, value, label, why: $("#nope-why").value.trim(), at: new Date().toISOString(), title: e.title, tags: e.tags || [] };
       prefs.rules.push(rule);
       save(PREFS_KEY, prefs);
       state.open.delete(e.id);
@@ -356,6 +425,22 @@
         else ui.cats = ui.cats.includes(c) ? ui.cats.filter((x) => x !== c) : ui.cats.concat(c);
         save(UI_KEY, ui); render(); return;
       }
+      if (b.dataset.ref) { ui.ref = b.dataset.ref; save(UI_KEY, ui); render(); return; }
+      if (b.dataset.km) { const n = Number(b.dataset.km); ui.maxkm = ui.maxkm === n ? 0 : n; save(UI_KEY, ui); render(); return; }
+      if (b.dataset.fav) {
+        const e = findEvent(b.dataset.fav);
+        if (!e) return;
+        if (isFav(e.id)) { prefs.likes = prefs.likes.filter((l) => l.id !== e.id); save(PREFS_KEY, prefs); toast("Usunięto z zapisanych"); }
+        else { addLike(e, "fav"); toast("Zapisano ♥"); }
+        render(); return;
+      }
+      if (b.dataset.cal) { const e = findEvent(b.dataset.cal); if (e) { addLike(e, "cal"); tasteCache = null; } return; }
+      if (b.dataset.sugYes) {
+        const t = b.dataset.sugYes;
+        prefs.rules.push({ id: Math.random().toString(36).slice(2, 10), type: "tag", value: t, label: `Nie lubię tego klimatu: ${t}`, why: "podpowiedź aplikacji", at: new Date().toISOString(), title: "" });
+        save(PREFS_KEY, prefs); render(); toast(`Ukryto tag „${t}”`); return;
+      }
+      if (b.dataset.sugNo) { prefs.dismissed.push(b.dataset.sugNo); save(PREFS_KEY, prefs); render(); return; }
       if (b.dataset.flag) { ui[b.dataset.flag] = !ui[b.dataset.flag]; save(UI_KEY, ui); render(); return; }
       if (b.dataset.toggle) {
         const id = b.dataset.toggle;

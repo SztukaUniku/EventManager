@@ -162,3 +162,15 @@ textarea { min-height: 120px; font-size: 13px; }
 
 .day.weekend .time:not(.none), .day.weekend .title { color: var(--wk-ink); }
 .day.weekend .card { border-left: 4px solid var(--wk); }
+
+/* ♥ zapisz, 4U, odległość, podpowiedzi */
+.card { position: relative; }
+.fav { position: absolute; top: 6px; right: 6px; z-index: 1; width: 40px; height: 40px; border: 0; background: none; font-size: 22px; line-height: 1; color: var(--muted); cursor: pointer; border-radius: 10px; }
+.fav.on { color: #D6336C; }
+.card-main { padding-right: 44px; }
+.badge.fu { background: var(--pop); color: var(--pop-ink); }
+.badge.dist { background: var(--bg); color: var(--ink); border: 1px solid var(--line); }
+.chip-lbl { flex: none; align-self: center; font-size: 12.5px; color: var(--muted); padding: 0 4px; white-space: nowrap; }
+#dist { padding-top: 2px; }
+.suggest { display: flex; flex-direction: column; gap: 10px; background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--pop); border-radius: 14px; padding: 12px 14px; font-size: 14px; margin-bottom: 4px; }
+.sg-btns { display: flex; gap: 8px; }

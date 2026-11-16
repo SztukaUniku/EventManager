@@ -84,7 +84,7 @@ def normalize(src: dict, e: dict, kind: str) -> dict | None:
         return None
     price = tidy_price(e.get("price") or "")
     text = " ".join(str(x) for x in [title, e.get("description", ""), " ".join(e.get("categories") or [])])
-    tags, cat = rules.classify(text)
+    tags, cat = rules.classify(text, title)
     if e.get("category"):
         cat = e["category"]
     if src["id"] == "filharmonia":
@@ -206,6 +206,13 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     now = datetime.now(TZ).isoformat(timespec="minutes")
     meta = {"generated_at": now, "window": {"from": today.isoformat(), "to": end.isoformat()}}
+    try:
+        from . import geo
+        refs = geo.annotate(events)
+    except Exception as exc:   # odległości są dodatkiem: błąd nie może zepsuć całej bazy
+        print("odległości pominięte:", exc)
+        refs = {}
+    meta["refs"] = refs
     (OUT / "events.json").write_text(json.dumps({**meta, "events": events, "check": check}, ensure_ascii=False, indent=1), encoding="utf-8")
     (OUT / "excluded.json").write_text(json.dumps({**meta, "events": excluded}, ensure_ascii=False, indent=1), encoding="utf-8")
     srcs = []
