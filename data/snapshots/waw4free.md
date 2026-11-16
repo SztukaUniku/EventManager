@@ -8,6 +8,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące koncerty w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -311,7 +312,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
 [🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
@@ -535,6 +536,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące spektakle teatralne w Warszawie
 [IMPRO BEZ - Otwarty Teatr Improwizowany w Radio Telewizja](https://waw4free.pl/wydarzenie-161706-impro-bez-otwarty-teatr-improwizowany-w-radio-telewizja)
 [stand-up, kabaret, impro](https://waw4free.pl/warszawa-darmowe-standup)
@@ -701,8 +703,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
-[🆕 Bądź na bieżąco!](https://waw4free.pl/badznabiezaco) [🆕](https://waw4free.pl/badznabiezaco)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
+[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-standup
@@ -715,7 +717,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące występy stand-up, kabarety i spektakle improwizowane w Warszawie
 [IMPRO BEZ - Otwarty Teatr Improwizowany w Radio Telewizja](https://waw4free.pl/wydarzenie-161706-impro-bez-otwarty-teatr-improwizowany-w-radio-telewizja)
 stand-up, kabaret, impro
@@ -806,8 +807,8 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
-[🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+[🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wystawy
@@ -820,6 +821,7 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
+slider MCN
 Nadchodzące wystawy w Warszawie
 [Miasto w Ruchu I wystawa](https://waw4free.pl/wydarzenie-157082-miasto-w-ruchu-i-wystawa)
 wystawa
@@ -1040,7 +1042,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /m
 [🤍 Wesprzyj waw4free!](https://waw4free.pl/wesprzyj) [❤️](https://waw4free.pl/wesprzyj)
 noptimize - adsense lazy loading /noptimize
 
@@ -1054,7 +1056,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące spotkania w Warszawie
 polecane!
 [II. Konwent Żmija](https://waw4free.pl/wydarzenie-161860-ii-konwent-zmija)
@@ -1400,7 +1401,7 @@ spotkanie
 [Spotkanie z autorami nowej biografii Roberta Kubicy](https://waw4free.pl/wydarzenie-161935-spotkanie-z-autorami-nowej-biografii-roberta-kubicy)
 spotkanie
 [21.11.2026](https://waw4free.pl/warszawa-wydarzenia-2026-11-21) (sobota), 16:00, [Bielany](https://waw4free.pl/warszawa-za-darmo-bielany)
-[Warsztaty artystyczne](https://wa
+[Warsztaty artystyczne](https://waw4free.pl/w
 
 === STRONA: https://waw4free.pl/warszawa-darmowe-wyklady
 Darmowe
@@ -1757,7 +1758,6 @@ więcej
 Korzystasz z Internet Explorera 8 (lub starszego...)! W związku z tym:
 - ta strona będzie prawdopodobnie wyświetlać się nieprawidłowo,
 - najwyższy czas na aktualizację lub zmianę przeglądarki! ;)
-slider MCN
 Nadchodzące pokazy filmowe w Warszawie
 [Seans filmowy „Lalka” dla seniorów z Bemowa](https://waw4free.pl/wydarzenie-161805-seans-filmowy-lalka-dla-seniorow-z-bemowa)
 [dla seniorów](https://waw4free.pl/warszawa-darmowe-seniorzy)
@@ -1991,7 +1991,7 @@ kanał waw4free na Messengerze
 Praca w Warszawie | dlafirm.pracuj.pl | Targi pracy | Praca na GoWork.pl | Folia PPF Warszawa | Blog it | ubezpieczenie na życie pru
 [waw4free ®](https://waw4free.pl/) | obraz w tle: Tytus Brzozowski | [Regulamin serwisu](https://waw4free.pl/regulamin) | [Polityka cookies](https://waw4free.pl/cookies)
 Ustawienia dotyczące prywatności i plików cookie na waw4free są zgodne z zasadami TCF organizacji IAB. Korzystamy z Consent Management Platform ID: 300.
-Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /w
+Możesz zmienić swój wybór w dowolnym momencie klikając tutaj . /y
 [🔍 Szukaj wydarzeń](https://waw4free.pl/szukaj) [🔍](https://waw4free.pl/szukaj)
 noptimize - adsense lazy loading /noptimize
 

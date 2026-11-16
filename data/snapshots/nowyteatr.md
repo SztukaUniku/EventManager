@@ -366,7 +366,7 @@ empty slot
 Europa
 Wajdi Mouawad, Krzysztof Warlikowski
 19. Międzynarodowy Festiwal Teatralny Boska Komedia, Kraków
-!!! 205
+!!! 204
 16.00
 [Kup bilet](https://bilety.nowyteatr.org/numerowane.html?id=3135&idt=d2d4604a80a1f3007cf46f646c036161)
 Człowiek jaki jest, każdy widzi
