@@ -1,4 +1,4 @@
-=== STRONA: https://teatrstudio.pl/pl/repertuar/
+=== STRONA: https://teatrstudio.pl/pl/repertuar/?month=11-2026&
 Ustaw standardowy rozmiar tekstu A+
 Ustaw duży rozmiar tekstu A+
 Ustaw bardzo duży rozmiar tekstu A+
@@ -283,7 +283,7 @@ KONTAKT
 dyżur telefoniczny: +48 505 106 891
 email: bilety@teatrstudio.pl
 BILETY ONLINE
-Bilety na spektakle → dostępne online bez dodatkowych prowizji.
+Bilety na spektakle → [dostępne online](https://teatrstudio.pl/pl/repertuar) bez dodatkowych prowizji.
 GALERIA STUDIO
 środa-czwartek: 15:00-21:00
 piątek-niedziela: 15:00-22:00
@@ -309,49 +309,194 @@ Pałac Kultury i Nauki
 Organizatorem Teatru jest m. st. Warszawa.
 <div id="fm-pu-container" style="position: fixed; width: 100%; height: 100%; left: 0; top: 0; z-index: 999999; display: none; align-items: center;"><script>var container = document.getElementById('fm-pu-container');function hide(){container.style.display = 'none'; document.removeEventListener('mouseout', showPopup);} function showPopup(e){if(e.clientY <= 0){container.style.display = 'flex';}} var fmFCF6684gem2k5=function(e){if(e.data.type == 'resize'){ var iframe=document.getElementById('fm-fc-f-6684gem2k5');iframe.style.minHeight=e.data.size+'px';if(window.innerHeight<iframe.offsetHeight){container.style.cssText+='overflow:auto;align-items:flex-start;-webkit-overflow-scrolling:touch';}}else if(e.data.type == 'hide'){hide();}else if(e.data.type == 'timeout'){setTimeout(function(){container.style.display='flex';}, e.data.time * 1000 );}else if(e.data.type == 'onexit'){document.addEventListener('mouseout',showPopup)}else if(e.data.type=='setBackground'){container.style.background=e.data.background;}};window.addEventListener?addEventListener('message',fmFCF6684gem2k5,!1):attachEvent('onmessage',fmFCF6684gem2k5);container.addEventListener("click", hide);</script><iframe data-height="396" id="fm-fc-f-6684gem2k5" src="https://forms.freshmail.io/f/v90pemtfwi/6684gem2k5/index.html" frameborder="0" marginheight="0" marginwidth="0" width="100%" style="min-height: 426px"></iframe></div>
 
-=== STRONA: https://teatrstudio.pl/
+=== STRONA: https://teatrstudio.pl/pl/repertuar/?month=12-2026&
 Ustaw standardowy rozmiar tekstu A+
 Ustaw duży rozmiar tekstu A+
 Ustaw bardzo duży rozmiar tekstu A+
 Ustaw standardowy rozmiar tekstu A+
 Ustaw duży rozmiar tekstu A+
 Ustaw bardzo duży rozmiar tekstu A+
-[Sukcesja Calderón x Smolar premiera 27 listopada 2026](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/) [Oriana Fallaci Grzela x Błaszczyk 14, 15 listopada](https://teatrstudio.pl/pl/teatr/wydarzenia/oriana-fallaci/) [U mnie wszystko w porządku [BAJAN] x Tomaszewski 22 listopada, 11, 13 grudnia](https://teatrstudio.pl/pl/teatr/wydarzenia/u-mnie-wszystko-w-porzadku/) [Stara kobieta wysiaduje Różewicz x Jux 15, 21 listopada](https://teatrstudio.pl/pl/teatr/wydarzenia/stara-kobieta-wysiaduje/) [Piękny Początek Sobik x Wasiewicz 21, 22 listopada](https://teatrstudio.pl/pl/teatr/wydarzenia/piekny-poczatek/) [Mała Empiria SOBCZUK X ILCZUK X ŻAK 28, 29 listopada](https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/) [REQUIEM DLA SNU Selby Jr. x Czapliński x Skrzywanek x Masecki 2, 3, 4 grudnia](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/) [Magiczna rana Masłowska x Maciąg 27, 31 grudnia (spektakl sylwestrowy), 3 stycznia](https://teatrstudio.pl/pl/teatr/wydarzenia/magiczna-rana/) [Wyspa Jadłonomia Dymek x Podstawny 4, 6 grudnia (pożegnanie z tytułem)](https://teatrstudio.pl/pl/teatr/wydarzenia/wyspa-jadlonomia/)
-Aktualności
-[Wszystkie aktualności](https://teatrstudio.pl/pl/aktualnosci)
-[AKTUALNOŚCI #studionasłuch: Sukcesja w polityce. Kto przejmie władzę? Wydarzenie organizowane w związku z premierą spektaklu „Sukcesja” na motywach sztuki „Życie jest snem” Pedra Calderóna de la Barca w reżyserii Anny Smolar, która odbędzie się już 27 listopada 2026 r. Polityka Insight jest patronem medialnym spektaklu.](https://teatrstudio.pl/pl/aktualnosci/studionasluch-sukcesja-w-polityce-kto-przejmie-wladze/)
-[AKTUALNOŚCI OPEN CALL STUDIO teatrgaleria poszukuje nigeryjskich osób twórczych (warunek konieczny) do współpracy przy nowym spektaklu inspirowanym powieścią Akwaeke Emezi „Śmierć Viveka Ojiego” w reżyserii Natalii Sołtysik. Zgłoś się i wypełnij formularz zgłoszeniowy do 27 listopada 2026 roku.](https://teatrstudio.pl/pl/aktualnosci/open-call/)
-[AKTUALNOŚCI Dwa spektakle STUDIO na 19. Boskiej Komedii w Krakowie Festiwal Teatralny Boska Komedia ogłosił program. Będzie największy w swojej historii. Najwięcej dni, najwięcej spektakli, najwięcej pokazów. Cieszymy się że STUDIO będzie jego częścią - w sekcji Purgatorio pokażemy dwa spektakle: „Requiem dla snu” Jakuba Skrzywanka i „Mała empira” Anny Ilczuk. Sprzedaż biletów rusza 8 października. Zapraszamy.](https://teatrstudio.pl/pl/aktualnosci/dwa-spektakle-studio-na-19-boskiej-komedii-w-krakowie/)
-Kalendarz wydarzeń
-[sprawdź najbliższe wydarzenia](https://teatrstudio.pl/pl/repertuar/)
-[SPEKTAKL Piękny początek Twórcy spektaklu przyglądają się wątkom z filmów takich jak „Armageddon”, „Titanic” „Twister” i „Interstellar”, które napędzają narracje katastroficzne. „Piękny początek” to próba powołania obrazów niemożliwych inspirowanych scenami, które mogły się wydarzyć poza kadrem i bez świadków. Premiera: 8 marca 2024](https://teatrstudio.pl/pl/teatr/wydarzenia/piekny-poczatek/)
-[SPEKTAKL U mnie wszystko w porządku Cezary – reżyser i partner zmarłego tragicznie Norberta – wraca na scenę, by zrekonstruować jego solowy spektakl. „U mnie wszystko w porządku” – tak brzmiał tytuł tej osobistej, pełnej humoru opowieści, w której Norbert z lekkością i dowcipem mówił o sobie, życiu i codziennych zmaganiach. Po jego śmierci tytuł nabrał gorzkiego znaczenia. Pod warstwą żartów i komediowej formy ukrywały się niewypowiedziane trudności i cierpienie.](https://teatrstudio.pl/pl/teatr/wydarzenia/u-mnie-wszystko-w-porzadku/)
-[SPEKTAKL Sukcesja Czym jest państwo zbudowane na kłamstwie? Czym jest dziedziczenie, kiedy więzi zostały dawno zerwane? Spektakl „Sukcesja” jest współczesną wersją eksperymentu, rozpisanego w XVII wieku przez Calderona de la Barca. Adaptacja i reżyseria: Anna Smolar / premiera: 27 listopada 2026.](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/)
-Wystawa Karola Radziszewskiego od 17 września 2026
-Brudne strony. Karol Radziszewski i DIK Fagazine
-Wystawa Karola Radziszewskiego „Brudne strony” rozwija temat queerowych archiwów Europy Środkowo-Wschodniej. Koncentruje się na magazynie DIK Fagazine, który od ponad dwóch dekad łączy sztukę, queer, archiwa i kulturę niezależną. Wystawa rozwija logikę samej publikacji, traktując ją nie jako zamknięty obiekt, lecz jako przestrzeń produkcji wiedzy, pożądania i oporu.
-Tytuł odwołuje się zarówno do materialności druku, jak i do tego, co przez lata uznawano za „brudne”: pornografii, homoseksualności, marginalnych wydawnictw oraz historii wypychanych poza oficjalne archiwa. W centrum wystawy znajdują się magazyny, fotografie, polaroidy i prywatne zbiory Radziszewskiego, a także prace innych artystów, które stają się świadectwami pożądania i pamięci.
-W twórczości Radziszewskiego erotyka splata się z archiwum, a ciało z polityką. “Brudne strony” przyglądają się napięciu między prywatnym doświadczeniem a oficjalną pamięcią, pokazując, w jaki sposób obrazy, publikacje i efemeryczne materiały mogą być narzędziami odzyskiwania historii oraz budowania queerowego świata.
-To opowieść o tym, jak na marginesach – geograficznych, społecznych, seksualnych i politycznych – powstają alternatywne sposoby pisania historii.
-Zapraszamy w 2027 roku
-Centralny Plac Muzyki
-Od ponad dekady konsekwentnie realizujemy wizję pięknego, szczęśliwego i demokratycznego miasta. Miasta, w którym kultura jest wspólnym doświadczeniem, a przestrzeń publiczna miejscem spotkania i rozmowy. Ta wizja przez lata była związana z jednym adresem – placem Defilad. Dziś to miejsce nosi nową nazwę: plac Centralny. Wraz z tą zmianą projekt wchodzi w nowy etap i przyjmuje nową nazwę: Centralny Plac Muzyki.
-Cały program festiwalu jest dostępny na stronie www.centralnyplacmuzyki.pl
-Serdecznie zapraszamy!
-Festiwal jest dofinasowany przez m. st. Warszawa.
-#EDU
-EDUKACJA I PROJEKTY SPOŁECZNE
-[zobacz co robimy](https://teatrstudio.pl/pl/kategorie-edukacji/edu/)
-Open Studios
-WIRTUALNE PRACOWNIE
-WEJDŹ NA STRONĘ PROJEKTU
+[Listopad](https://teatrstudio.pl/pl/repertuar/?month=11-2026&)
+Grudzień
+[Styczeń](https://teatrstudio.pl/pl/repertuar/?month=01-2027&)
+[Listopad](https://teatrstudio.pl/pl/repertuar/?month=11-2026&)
+Grudzień
+[Styczeń](https://teatrstudio.pl/pl/repertuar/?month=01-2027&)
+DUŻA SCENA
+MALARNIA /MODELATORNIA /FOYER
 GALERIA STUDIO
-KOLEKCJA
-GALERII
-STUDIO
-[Sprawdź](https://teatrstudio.pl/pl/galeria/kolekcja/)
-Dołącz do newslettera i bądź na bieżąco
-<form method="post" action="https://app.freshmail.com/pl/actions/subscribe/" class="o-cols o-cols--2" id="newsletter-form"> <div class="o-cols__item"> <input type="checkbox" id="newsletter-agree" > <label for="newsletter-agree" id="newsletter-agree-content"> <i></i> <span>Wyrażam zgodę na otrzymywanie newslettera zawierającego informacje handlowe dotyczące Teatru Studio. </span> </label> </div> <div class="o-cols__item"> <input type="email" name="freshmail_email" id="freshmail_email" required> <input type="hidden" name="subscribers_list_hash" value="0o2ngodih4" /> <button type="submit"></button> </div> </form>
+DUŻA SCENA
+MALARNIA /MODELATORNIA /FOYER
+GALERIA STUDIO
+Środa
+02
+G. 19:00 / GRANY PO RAZ 25
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3919&ter_idt=9eea55dac1f7a9271b931c8d87545536)
+Czwartek
+03
+G. 18:00 / GRANY PO RAZ 26
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3917&ter_idt=b6441b98257193655c08d9492bb56411)
+Piątek
+04
+G. 19:00 / GRANY PO RAZ 27
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3918&ter_idt=d190606b8be53a0d37ab11d6db740721)
+G. 12:00 / GRANY PO RAZ 62
+[Wyspa Jadłonomia](https://teatrstudio.pl/pl/teatr/wydarzenia/wyspa-jadlonomia/)
+SPEKTAKL
+POŻEGNANIE Z TYTUŁEM [Ostatnie bilety](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3984&ter_idt=f6f2577c2ce14cf42b733b7b45063598)
+Sobota
+05
+G. 17:30
+[Samson et Dalila](https://teatrstudio.pl/pl/aktualnosci/the-met-live-in-hd-2026-27-bilety-i-karnety/)
+[→ WEJŚCIÓWKI](https://bilety.teatrstudio.pl/numerowane.html?ter_id=4139&ter_idt=2462083eae1955458aa6a71abb999755) [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3897&ter_idt=026fd1b15a09626f2b2d3537caf36417&_gl=1*2dqbdg*_gcl_au*MTUxNjE1NzQ0Ni4xNzc2MjU2NDIy)
+Niedziela
+06
+G. 16:00 / GRANY PO RAZ 63
+[Wyspa Jadłonomia](https://teatrstudio.pl/pl/teatr/wydarzenia/wyspa-jadlonomia/)
+SPEKTAKL
+POŻEGNANIE Z TYTUŁEM [Ostatnie bilety](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3985&ter_idt=42086db586ae619079443b79fce42662)
+Poniedziałek
+07
+G. 19:00
+[Co się wydarzyło w Madison County](https://teatrstudio.pl/pl/teatr/wydarzenia/co-sie-wydarzylo-w-madison-county/)
+SPEKTAKL GOŚCINNY
+Kup bilet
+Wtorek
+08
+G. 20:30
+[Co się wydarzyło w Madison County](https://teatrstudio.pl/pl/teatr/wydarzenia/co-sie-wydarzylo-w-madison-county/)
+SPEKTAKL GOŚCINNY
+Kup bilet
+G. 19:00 / GRANY PO RAZ 169
+[Byk](https://teatrstudio.pl/pl/teatr/wydarzenia/byk/)
+SPEKTAKL
+KATOWICE, TEATR ŚLĄSKI
+Środa
+09
+G. 19:00
+[Co się wydarzyło w Madison County](https://teatrstudio.pl/pl/teatr/wydarzenia/co-sie-wydarzylo-w-madison-county/)
+SPEKTAKL GOŚCINNY
+Kup bilet
+Czwartek
+10
+G. 17:00 / GRANY PO RAZ 28
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+KRAKÓW, Festiwal Teatralny Boska Komedia
+G. 19:00
+[Artifica](https://teatrstudio.pl/pl/teatr/wydarzenia/artifica/)
+B’CAUSE DANCE COMPANY / SPEKTAKL GOŚCINNY
+Kup bilet
+Piątek
+11
+G. 18:00 / GRANY PO RAZ 29
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+KRAKÓW, Festiwal Teatralny Boska Komedia
+G. 19:00 / GRANY PO RAZ 29
+[U mnie wszystko w porządku](https://teatrstudio.pl/pl/teatr/wydarzenia/u-mnie-wszystko-w-porzadku/)
+SPEKTAKL
+STUDIO ZA 40 [Ostatnie bilety](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3966&ter_idt=531be43646655b0f542effd2a3e93426)
+Sobota
+12
+G. 18:00 / GRANY PO RAZ 30
+[Requiem dla snu](https://teatrstudio.pl/pl/teatr/wydarzenia/requiem-dla-snu/)
+SPEKTAKL
+KRAKÓW, Festiwal Teatralny Boska Komedia
+G. 19:00 / GRANY PO RAZ 19
+[2049: Witaj, Abdo](https://teatrstudio.pl/pl/teatr/wydarzenia/2049_witaj_abdo/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3989&ter_idt=663bc2a9fbf333b26e43bdd3b3e36963)
+Niedziela
+13
+G. 17:00 / GRANY PO RAZ 20
+[2049: Witaj, Abdo](https://teatrstudio.pl/pl/teatr/wydarzenia/2049_witaj_abdo/)
+SPEKTAKL
+STUDIO ZA 40 [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3990&ter_idt=ba8963e29f17d76e20195351f9589068)
+G. 18:00 / GRANY PO RAZ 25
+[Mała empiria](https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/)
+SPEKTAKL
+KRAKÓW, Festiwal Teatralny Boska Komedia
+G. 19:00 / GRANY PO RAZ 30
+[U mnie wszystko w porządku](https://teatrstudio.pl/pl/teatr/wydarzenia/u-mnie-wszystko-w-porzadku/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3967&ter_idt=ab3b23e184cdf06dfdfe8ef095f08464)
+G. 21:00 / GRANY PO RAZ 26
+[Mała empiria](https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/)
+SPEKTAKL
+KRAKÓW, Festiwal Teatralny Boska Komedia
+Środa
+16
+G. 19:00
+[Scenografia głosów](https://teatrstudio.pl/pl/teatr/wydarzenia/scenografia-glosow/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=4003&ter_idt=2582d05e2463d97b088b6dd7c4517455)
+Czwartek
+17
+G. 19:00
+[Scenografia głosów](https://teatrstudio.pl/pl/teatr/wydarzenia/scenografia-glosow/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=4004&ter_idt=3f525025b3f86a8ed9fc24fc09442626)
+Piątek
+18
+G. 19:00 / GRANY PO RAZ 4
+[Sukcesja](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/)
+SPEKTAKL
+NAPISY ANGIELSKIE [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3995&ter_idt=d4e4dec0bd930d7c7085d65867234757)
+Sobota
+19
+G. 19:00 / GRANY PO RAZ 5
+[Sukcesja](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/)
+SPEKTAKL
+NAPISY ANGIELSKIE [Kup bilet](https://bilety.teatrstudio.pl/wydarzenie.html?date_termin=2026-12-19)
+G. 16:00 / GRANY PO RAZ 14
+[Anonimowi performerzy](https://teatrstudio.pl/pl/teatr/wydarzenia/anonimowi-performerzy/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3986&ter_idt=67f62959b22593187a82411d5fe45965)
+Niedziela
+20
+G. 19:30 / GRANY PO RAZ 6
+[Sukcesja](https://teatrstudio.pl/pl/teatr/wydarzenia/sukcesja/)
+SPEKTAKL
+NAPISY ANGIELSKIE [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3997&ter_idt=dcd61c431cc0a4531344bc8ef0322935)
+G. 16:00 / GRANY PO RAZ 15
+[Anonimowi performerzy](https://teatrstudio.pl/pl/teatr/wydarzenia/anonimowi-performerzy/)
+SPEKTAKL
+STUDIO ZA 40 [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3987&ter_idt=a6669834652aeb9f4fef53a938b07323)
+Niedziela
+27
+G. 19:00 / GRANY PO RAZ 24
+[Magiczna rana](https://teatrstudio.pl/pl/teatr/wydarzenia/magiczna-rana/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3930&ter_idt=9cf80e36fe3057b8295a27f2eb742358)
+G. 17:00 / GRANY PO RAZ 58
+[Stara kobieta wysiaduje](https://teatrstudio.pl/pl/teatr/wydarzenia/stara-kobieta-wysiaduje/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3981&ter_idt=62c1b1cc589ed061bf8fb27635943262)
+Wtorek
+29
+G. 19:00 / GRANY PO RAZ 27
+[Mała empiria](https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3971&ter_idt=b915e064dff3c4ded535e1662b866346)
+Środa
+30
+G. 19:00 / GRANY PO RAZ 28
+[Mała empiria](https://teatrstudio.pl/pl/teatr/wydarzenia/mala-empiria/)
+SPEKTAKL
+[Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3972&ter_idt=381ef811d600e8ffc07d5eab4dd86464)
+Czwartek
+31
+G. 19:00 / GRANY PO RAZ 25
+[Magiczna rana](https://teatrstudio.pl/pl/teatr/wydarzenia/magiczna-rana/)
+SPEKTAKL
+SPEKTAKL SYLWESTROWY [Kup bilet](https://bilety.teatrstudio.pl/numerowane.html?ter_id=3931&ter_idt=a7e7df0ca375fb0d458def8d14390356)
 Social
 Facebook
 Instagram

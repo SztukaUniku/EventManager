@@ -1,4 +1,4 @@
-https://teatrstudio.pl/pl/repertuar/
+https://teatrstudio.pl/pl/repertuar/?month=11-2026&
 https://teatrstudio.pl/en/repertoire/
 https://teatrstudio.pl/pl/
 https://teatrstudio.pl/pl/repertuar
@@ -32,6 +32,7 @@ https://teatrstudio.pl/pl/historia/
 https://teatrstudio.pl/pl/program-dzialania-teatru-studio-w-latach-2022-2027/
 https://teatrstudio.pl/pl/vouchery/
 https://teatrstudio.pl/pl/bilety/
+https://teatrstudio.pl/pl/repertuar/
 https://teatrstudio.pl/pl/promocje/
 https://teatrstudio.pl/pl/regulaminy/
 https://teatrstudio.pl/pl/partnerzy/
@@ -64,9 +65,10 @@ https://teatrstudio.pl/pl/teatr/kategorie-wydarzen/spektakl-goscinny/
 https://teatrstudio.pl/pl/programy/
 https://teatrstudio.pl/pl/edukacja/
 https://teatrstudio.pl/pl/newsletter/
-https://teatrstudio.pl/
-https://teatrstudio.pl/en/
+https://teatrstudio.pl/pl/repertuar/?month=01-2027&
 https://teatrstudio.pl/pl/teatr/wydarzenia/wyspa-jadlonomia/
-https://teatrstudio.pl/pl/aktualnosci
-https://teatrstudio.pl/pl/aktualnosci/open-call/
-https://teatrstudio.pl/pl/aktualnosci/dwa-spektakle-studio-na-19-boskiej-komedii-w-krakowie/
+https://teatrstudio.pl/pl/teatr/wydarzenia/co-sie-wydarzylo-w-madison-county/
+https://teatrstudio.pl/pl/teatr/wydarzenia/byk/
+https://teatrstudio.pl/pl/teatr/wydarzenia/2049_witaj_abdo/
+https://teatrstudio.pl/pl/teatr/wydarzenia/scenografia-glosow/
+https://teatrstudio.pl/pl/teatr/wydarzenia/anonimowi-performerzy/

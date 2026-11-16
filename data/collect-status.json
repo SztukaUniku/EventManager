@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-16T22:31+01:00",
+ "collected_at": "2026-11-16T22:36+01:00",
  "sources": [
   {
    "id": "kulturalnie",
@@ -25,8 +25,8 @@
    ],
    "ok": true,
    "events": 54,
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": null
   },
   {
@@ -72,10 +72,10 @@
     }
    ],
    "ok": true,
-   "chars": 194937,
-   "hash": "00fae98995269137",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "chars": 194911,
+   "hash": "5ac822aef820cdf1",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": true
   },
   {
@@ -84,16 +84,20 @@
    "adapter": "snapshot",
    "pages": [
     {
+     "url": "https://muzea.waw.pl/wystawy/",
+     "ok": true
+    },
+    {
      "url": "https://muzea.waw.pl/en/exhibitions/",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 30049,
-   "hash": "4c2f5a023765cbb3",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": false
+   "chars": 60093,
+   "hash": "c4c77aab3b873ce9",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": true
   },
   {
    "id": "alternatywy",
@@ -108,9 +112,9 @@
    "ok": true,
    "chars": 19282,
    "hash": "551b7518ebcd1751",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": false
   },
   {
    "id": "terminal",
@@ -119,8 +123,8 @@
    "pages": [],
    "ok": true,
    "events": 39,
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": null
   },
   {
@@ -130,8 +134,8 @@
    "pages": [],
    "ok": true,
    "events": 16,
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": null
   },
   {
@@ -141,8 +145,8 @@
    "pages": [],
    "ok": true,
    "events": 89,
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": null
   },
   {
@@ -162,9 +166,9 @@
    "ok": true,
    "chars": 7944,
    "hash": "1ac194a18f435405",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": false
   },
   {
    "id": "kadr",
@@ -179,9 +183,9 @@
    "ok": true,
    "chars": 10099,
    "hash": "800c2d55d0c1f8fc",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": false
   },
   {
    "id": "sdk",
@@ -196,9 +200,9 @@
    "ok": true,
    "chars": 15085,
    "hash": "ef094c7e653d8acb",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": false
   },
   {
    "id": "domsztuki",
@@ -206,36 +210,15 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://domsztuki.art.pl/",
-     "ok": true
-    },
-    {
      "url": "https://domsztuki.art.pl/kino",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 9217,
-   "hash": "7156dbec3c05b771",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
-  },
-  {
-   "id": "dks",
-   "name": "Dom Kultury Śródmieście",
-   "adapter": "snapshot",
-   "pages": [
-    {
-     "url": "https://dks.art.pl/wydarzenia",
-     "ok": true
-    }
-   ],
-   "ok": true,
-   "chars": 11887,
-   "hash": "0ebc7f7a878a6037",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "chars": 4604,
+   "hash": "13b0260c580ec834",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": true
   },
   {
@@ -244,19 +227,19 @@
    "adapter": "snapshot",
    "pages": [
     {
-     "url": "https://teatrstudio.pl/pl/repertuar/",
+     "url": "https://teatrstudio.pl/pl/repertuar/?month=11-2026&",
      "ok": true
     },
     {
-     "url": "https://teatrstudio.pl/",
+     "url": "https://teatrstudio.pl/pl/repertuar/?month=12-2026&",
      "ok": true
     }
    ],
    "ok": true,
-   "chars": 24034,
-   "hash": "4961f9df79afefc6",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "chars": 24773,
+   "hash": "1fe4cd3741e15e39",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": true
   },
   {
@@ -267,17 +250,13 @@
     {
      "url": "https://artmuseum.pl/program",
      "ok": true
-    },
-    {
-     "url": "https://artmuseum.pl/wystawy-aktualne",
-     "ok": true
     }
    ],
    "ok": true,
-   "chars": 11955,
-   "hash": "111e1eeb8e0f9175",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
+   "chars": 10424,
+   "hash": "87402e0a029b521b",
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
    "changed": true
   },
   {
@@ -293,9 +272,9 @@
    "ok": true,
    "chars": 4247,
    "hash": "d93d3cf250be0b2d",
-   "checked_at": "2026-11-16T22:31+01:00",
-   "last_ok_at": "2026-11-16T22:31+01:00",
-   "changed": true
+   "checked_at": "2026-11-16T22:36+01:00",
+   "last_ok_at": "2026-11-16T22:36+01:00",
+   "changed": false
   }
  ]
 }

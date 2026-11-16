@@ -91,22 +91,3 @@ niedziela,
 [DLA RODZIN 14:30 Projekcje obrazów (7-12 lat)](https://artmuseum.pl/wydarzenia/projekcje-obrazow-7-12-lat?term=01a120a7-4062-73f7-bef4-7e8163cf1841)
 [Film 16:00 Archiwum Filmowe Pawła Althamera](https://artmuseum.pl/wydarzenia/archiwum-filmowe-pawla-althamera?term=01a144c2-6aae-70e9-813a-104dcd38b842)
 [Film 18:30 Zobaczysz wszystko](https://artmuseum.pl/wydarzenia/zobaczysz-wszystko?term=01a187a5-af17-73b6-b339-9f1a1c042227)
-
-=== STRONA: https://artmuseum.pl/wystawy-aktualne
-[T_GO_TO_CONTENT](https://artmuseum.pl/wystawy-aktualne#content)
-Wystawy aktualne
-Wystawy bieżące
-[JESTEŚ W SERCU ZMIAN. SURREALIZM I ANTYFASZYZM 26.06.2026–10.01.2027](https://artmuseum.pl/wystawy/jestes-w-sercu-zmian-surrealizm-i-antyfaszyzm)
-[DROGI CZARNYCH WKRACZAJĄ W BIAŁY LĄD 26.06.2026–10.01.2027](https://artmuseum.pl/wystawy/drogi-czarnych-wkraczaja-w-bialy-lad)
-[PATRYK RÓŻYCKI. TRANSFORMACJA 31.07.2026–14.03.2027](https://artmuseum.pl/wystawy/patryk-rozycki-transformacja)
-[EDWARD DWURNIK. DUMA I WSTYD 31.07.2026–14.03.2027](https://artmuseum.pl/wystawy/edward-dwurnik-duma-i-wstyd)
-[ADAM KOZICKI. WOJNA WSZYSTKICH ZE WSZYSTKIMI 12.09.2026–10.01.2027](https://artmuseum.pl/wystawy/adam-kozicki-wojna-wszystkich-ze-wszystkimi)
-[VALIE EXPORT. SOBOWTÓRKA 18.09.2026–16.03.2027](https://artmuseum.pl/wystawy/valie-export-sobowtorka)
-[RZEŹBA PO STABILNOŚCI 16.10.2026–14.03.2027](https://artmuseum.pl/wystawy/rzezba-po-stabilnosci)
-Zobacz wszystkie
-Wystawy przeszłe
-[Zobacz wszystkie](https://artmuseum.pl/wystawy-przeszle)
-[WARSZAWA W BUDOWIE 18. SUWERENNA I NAJEDZONA 30.08.2026–27.09.2026](https://artmuseum.pl/wystawy/warszawa-w-budowie-18-suwerenna-i-najedzona)
-[Najpiękniejsze Polskie Książki 2025 16.07.2026–13.09.2026](https://artmuseum.pl/wystawy/najpiekniejsze-polskie-ksiazki-2025)
-[PINIAK PRZEMYSŁAW POSZŁO W PIĘTY 25.04.2026–23.08.2026](https://artmuseum.pl/wystawy/piniak-przemyslaw-poszlo-w-piety)
-[Zobacz wszystkie](https://artmuseum.pl/wystawy-przeszle)

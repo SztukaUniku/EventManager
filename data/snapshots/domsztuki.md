@@ -1,34 +1,3 @@
-=== STRONA: https://domsztuki.art.pl/
-── Navigation ─────────────────────────────────────────────────────────── ── Page content ──────────────────────────────────────────────────────────
-Background photo Dark overlay so text stays readable
-ul. Wiolinowa 14 · Ursynów · Warszawa
-Dom Sztuki Jary
-centrum kultury na Ursynowie
-Kino, warsztaty, koncerty, spektakle i wydarzenia dla całej społeczności. Od ponad 40 lat tworzymy miejsce spotkań mieszkańców Ursynowa — dla dzieci, dorosłych i seniorów.
-[Sprawdź wydarzenia](https://domsztuki.art.pl/kalendarz) [Repertuar kina](https://domsztuki.art.pl/kino)
-Nadchodzące wydarzenia
-Sprawdź najbliższe wydarzenia kulturalne w Domu Sztuki.
-[Zobacz wszystkie](https://domsztuki.art.pl/kalendarz)
-[lis 17 wtorek 19:00 Kino Przekleństwa Niewinności Andrzej Bukowiecki przedstawia 17 listopad, godz. 19:00 Autorski cykl pokazów filmowych klasyków realizowany w kinie Domu Sztuki SMB "Jary", którego kuratorem będzie... Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/279-przeklenstwa-niewinnosci) [lis 18 środa 19:00 Kino Tajny Agent OSCAROWE ŚRODY 18 listopad, godz. 19:00 Cykl bezpłatnych pokazów filmów nominowanych bądź nagrodzonych Oscarem. Przegląd obejmuje 6 pokazów od października do... Wstęp wolny Wstęp wolny](https://domsztuki.art.pl/kino/seans/274-tajny-agent) [lis 19 czwartek 19:00 Kino Tony Dyskusyjny Klub Filmowy 19 listopad, godz. 19:00 Tony to amerykański komediodramat biograficzny z 2026 roku, opowiadający o wczesnych latach Anthony'ego Bourdaina w... Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/200-tony) [lis 20 piątek 16:30 Kino Niesamowite przygody skarpetek 4. Do roboty! 20 listopad, godz. 16:30 Iść za głosem serca i robić to, co się kocha – tymi mądrymi słowami kierują się wszystkie skarpetki! Dzięki odwadze w... Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/394-niesamowite-przygody-skarpetek-4-do-roboty) [lis 20 piątek 18:00 Kino Lalka (2026) 20 listopad, godz. 18:00 Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i... Kup bilet Kup bilet](https://domsztuki.art.pl/kino/seans/397-lalka-2026) [lis 21 sobota 17:00 Inne Potańcówka dla Seniorów 21 listopad, godz. 17:00 Jeśli nie macie jeszcze planów na najbliższą sobotę i brakuje Wam rozrywki w życiu to Zapraszamy na wyjątkową...](https://domsztuki.art.pl/wydarzenia/61-potancowka-dla-seniorow) [lis 21 sobota 19:00 Teatr Mówienie wierszem Zapasiewicza 21 listopad, godz. 19:00 Rozmowa wspomnieniowa dotycząca powstania i działalności Teatru Za Dalekiego, w tym rozmowy o rozumieniu przez... Kup bilet Kup bilet](https://domsztuki.art.pl/wydarzenia/55-mowienie-wierszem-zapasiewicza) [lis 22 niedziela 10:00 Kino Niesamowite przygody skarpetek 3. Ale kosmos! Niedzielne Poranki 22 listopad, godz. 10:00 Cykl bezpłatnych seansów filmowych dla dzieci obejmujących 6 pokazów od października do grudnia 2026 w wybrane... Wstęp wolny Pobierz wejściówkę Wstęp wolny Pobierz wejściówkę](https://domsztuki.art.pl/kino/seans/288-niesamowite-przygody-skarpetek-3-ale-kosmos)
-[Zobacz wszystkie](https://domsztuki.art.pl/kalendarz)
-Kup bilet online
-Sprawdź dostępne wydarzenia i zarezerwuj miejsce
-Zobacz bilety
-Co dzieje się w Domu Sztuki?
-W Domu Sztuki Jary każdego tygodnia odbywają się wydarzenia, warsztaty i spotkania dla mieszkańców Ursynowa. Sprawdź, co przygotowaliśmy dla różnych grup i zainteresowań.
-[Kino Repertuar filmowy, premiery i pokazy specjalne. Zobacz repertuar](https://domsztuki.art.pl/kino) [Wydarzenia Spektakle, koncerty, spotkania i wydarzenia kulturalne. Sprawdź wydarzenia](https://domsztuki.art.pl/kalendarz) [Zajęcia i warsztaty Warsztaty i zajęcia artystyczne dla różnych grup wiekowych. Zobacz zajęcia](https://domsztuki.art.pl/zajecia) [Oferta dla szkół Zajęcia edukacyjne, warsztaty i wydarzenia dla szkół. Sprawdź ofertę](https://domsztuki.art.pl/oferta-dla-szkol) [Klub Seniora Spotkania, wydarzenia i aktywności dla seniorów. Sprawdź wydarzenia](https://domsztuki.art.pl/klub-seniora) [Modelarnia Zajęcia techniczne i modelarskie rozwijające pasje. Poznaj modelarnię](https://domsztuki.art.pl/modelarnia)
-Text
-Repertuar filmowy
-Kino Domu Sztuki
-Kino Domu Sztuki to jedno z ważniejszych miejsc filmowych na Ursynowie. Pokazujemy zarówno premiery kinowe, jak i filmy dla dzieci, projekcje specjalne oraz cykle filmowe.
-W repertuarze znajdują się:
-nowości kinowe
-filmy familijne
-kino artystyczne
-specjalne pokazy i cykle filmowe
-[Sprawdź repertuar](https://domsztuki.art.pl/kino) Kup bilet
-── Footer ───────────────────────────────────────────────────────────────
-
 === STRONA: https://domsztuki.art.pl/kino
 ── Navigation ─────────────────────────────────────────────────────────── ── Page content ──────────────────────────────────────────────────────────
 Kino
