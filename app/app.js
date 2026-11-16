@@ -202,7 +202,7 @@
         day = e.date;
         const l = dayLabel(e.date);
         const off = e.day_off && !["sobota", "niedziela"].includes(e.day_off) ? `<span class="off">${esc(e.day_off)}</span>` : "";
-        html += `<section class="day${e.day_off ? " weekend" : ""}"><h2 class="day-h">${esc(l.name)} <span class="date">${esc(l.date)}</span>${off}</h2>`;
+        html += `<section class="day${e.day_off || parts(e.date).dow === 5 ? " weekend" : ""}"><h2 class="day-h">${esc(l.name)} <span class="date">${esc(l.date)}</span>${off}</h2>`;
       }
       html += card(e, ui.hidden);
     });
@@ -232,7 +232,7 @@
     const fav = isFav(e.id);
     const rf = refs();
     const dk = distKey();
-    const dist = rf[ui.ref] && e[dk] != null ? `<span class="badge dist" title="Odległość po drodze od: ${esc(rf[ui.ref])}">${e.dist_approx ? "ok. " : ""}${e[dk]} km</span>` : "";
+    const dist = rf[ui.ref] && e[dk] != null ? `<span class="badge dist" title="Odległość po drodze od: ${esc(rf[ui.ref])} (D – dom, P – praca)">${e.dist_approx ? "ok. " : ""}${e[dk]} km</span>` : "";
     const distAll = Object.keys(rf).filter((k) => e["dist_" + k] != null).map((k) => `${e["dist_" + k]} km od: ${esc(rf[k])}`).join(" · ");
     let more = "";
     const evUrl = e.url || sourceUrl(e.source);
@@ -241,7 +241,7 @@
       more = `<div class="more">
         ${e.description ? `<p>${esc(e.description)}</p>` : ""}
         ${e.address ? `<p><span class="lbl">Adres:</span> ${esc(e.address)}</p>` : ""}
-        ${distAll ? `<p><span class="lbl">Dojazd samochodem:</span> ${distAll}${e.dist_approx ? " (przybliżone — źródło nie podaje adresu)" : ""}</p>` : ""}
+        ${distAll ? `<p><span class="lbl">Dojazd samochodem:</span> ${distAll} <span class="src">(D – dom, P – praca)</span>${e.dist_approx ? " (przybliżone — źródło nie podaje adresu)" : ""}</p>` : ""}
         ${w4 ? `<p><span class="lbl">4U:</span> podobne do tego, co zapisałaś lub dodałaś do kalendarza (${esc(w4.join(", "))}).</p>` : ""}
         <p><span class="lbl">Jak wziąć udział:</span> ${esc(e.how || "Szczegóły i bilety na stronie wydarzenia.")}</p>
         ${e.note ? `<p class="src">${esc(e.note)}</p>` : ""}
@@ -268,9 +268,9 @@
       </button>${more}</article>`;
   }
 
-  function routeLink(e) {   // Mapy Google zapytają o punkt startowy; czas dojazdu komunikacją
-    const dest = [e.venue, e.address || e.area].filter(Boolean).join(", ");
-    return "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=" + encodeURIComponent(dest + ", Polska");
+  function routeLink(e) {   // Mapy Google (domyślnie samochód; inne środki transportu są na górze widoku)
+    const dest = [e.venue, e.address || (e.venue ? "" : e.area)].filter(Boolean).join(", ") || e.area || "";
+    return "https://www.google.com/maps/dir/?api=1&travelmode=driving&destination=" + encodeURIComponent(dest + ", Polska");
   }
 
   function sourceUrl(id) {

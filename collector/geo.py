@@ -20,7 +20,7 @@ import requests
 UA = "EventManagerBot (prywatny przewodnik po wydarzeniach)"
 CACHE = Path(__file__).resolve().parent.parent / "data" / "geocache.json"
 VIEWBOX = "20.60,52.45,21.50,51.85"   # lewy-górny / prawy-dolny róg: Warszawa i okolice
-REFS = {"a": ("REF_A", "Józefosław"), "b": ("REF_B", "Domaniewska")}   # nazwy publiczne, adresy tajne
+REFS = {"a": ("REF_A", "D"), "b": ("REF_B", "P")}   # D = dom, P = praca; adresy tajne, w aplikacji tylko litery
 
 
 def _fold(s: str) -> str:
