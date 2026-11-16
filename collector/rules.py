@@ -89,7 +89,9 @@ EXCLUDE = [
         r"dla dzieci", r"dzieci(?:ęc|ec)\w*", r"dla rodzin", r"rodzinn\w*", r"familijn\w*", r"przedszkol\w*",
         r"maluch\w*", r"niemowl\w*", r"bobas\w*", r"dla najmłodszych", r"bajk[aię]\b", r"mikołajk\w*",
         r"rodzic(?:e|ów)? z dzie\w*", r"\d{1,2}\s*[-–]\s*1?\d\s*lat", r"od [2-9] lat", r"dla uczni\w*", r"półkolon\w*",
-        r"ferie", r"dla szkół", r"dla młodzieży(?! i dorosł)", r"teatrzyk\w*", r"kids",
+        r"ferie", r"dla szkół", r"dla młodzieży(?! i dorosł)", r"teatrzyk\w*", r"kids", r"dzieciństw\w*",
+        r"brzdąc\w*", r"baśń", r"baśni\w*", r"bajecz\w*", r"bajkow\w*", r"niedzielank\w*", r"GUD", r"uniwersytet dzieci",
+        r"mama i córka", r"z mamą", r"z tatą", r"wychowawcz\w*", r"młode horyzonty", r"wielkie kino dla małych",
     ])),
     ("dla seniorów", _rx([r"senior\w*", r"60\+", r"65\+", r"uniwersytet\w* trzeciego wieku", r"UTW"])),
     ("karaoke", _rx([r"karaoke"])),
@@ -102,10 +104,29 @@ EXCLUDE = [
     ("kabaret", _rx([r"kabaret\w*"])),
     ("taniec towarzyski / swing / salsa", _rx([
         r"swing\w*", r"salsa\w*", r"bachat\w*", r"tang[oa]\w*", r"kizomb\w*", r"lindy hop", r"potańców\w*",
-        r"dancing\w*", r"zumba\w*", r"taniec towarzysk\w*", r"folk\w* taneczn\w*",
+        r"dancing\w*", r"zumba\w*", r"taniec towarzysk\w*", r"folk\w* taneczn\w*", r"jive", r"walc\w*",
+        r"wieczór taneczn\w*", r"wieczorek taneczn\w*",
     ])),
     ("hard techno", _rx([r"hard techno", r"hardstyle", r"hardcore techno", r"gabber"])),
 ]
+
+# Wydarzenia komercyjne: nie trafiają do NISZOWYCH (mogą wrócić w zakładce KOMERCYJNE)
+COMMERCIAL_VENUE = _rx([
+    r"capitol\w*", r"teatr\w* kamienica", r"palladium", r"scena relax", r"teatr\w* polonia", r"och[- ]teatr\w*",
+    r"teatr\w* kwadrat", r"teatr\w* komedia", r"teatr\w* 6\. piętro", r"teatr\w* syrena", r"teatr\w* roma",
+    r"teatr\w* polski", r"klub komediowy", r"torwar", r"pge narodowy", r"stodoła", r"progresja", r"hulakula",
+    r"sala koncertowa fryderyk", r"muzeum archidiecezji\w*", r"chopin point", r"explosion club", r"osir\w*",
+    r"simair\w*", r"hala expo", r"ptak",
+])
+COMMERCIAL_TITLE = _rx([
+    r"koncert\w* chopinowsk\w*", r"przy świecach", r"candlelight", r"boxing", r"zooegzotyka", r"lot demonstracyjny",
+    r"teściow\w*", r"capitol by night", r"dreamlive", r"mecz\w*",
+])
+
+
+def commercial(title: str, venue: str) -> bool:
+    return bool(COMMERCIAL_VENUE.search(venue or "") or COMMERCIAL_TITLE.search(title or ""))
+
 
 # Tagi gatunkowe i tematyczne (do uczenia gustu w aplikacji)
 TAGS = [

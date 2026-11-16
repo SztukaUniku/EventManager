@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:27+01:00",
+ "generated_at": "2026-11-16T22:31+01:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-12-16"
@@ -16,20 +16,20 @@
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 35
+   "events": 9
   },
   {
    "id": "waw4free",
    "name": "waw4free",
    "area": "Warszawa",
    "adapter": "snapshot",
-   "url": "https://waw4free.pl/",
+   "url": "https://waw4free.pl/warszawa-darmowe-koncerty",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 70
   },
   {
    "id": "muzea",
@@ -55,7 +55,7 @@
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 0
+   "events": 22
   },
   {
    "id": "terminal",
@@ -68,7 +68,7 @@
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 20
+   "events": 17
   },
   {
    "id": "lowicka",
@@ -81,7 +81,7 @@
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 11
+   "events": 10
   },
   {
    "id": "kulturalni",
@@ -94,14 +94,14 @@
    "checked_at": "2026-11-16T22:27+01:00",
    "error": null,
    "extracted_at": null,
-   "events": 57
+   "events": 52
   },
   {
    "id": "nowyteatr",
    "name": "Nowy Teatr",
    "area": "Mokotów",
    "adapter": "snapshot",
-   "url": "https://nowyteatr.org/pl/kalendarz",
+   "url": "https://nowyteatr.org/pl/kalendarz?date_from={m0_start}&date_to={m0_end}",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
@@ -127,7 +127,7 @@
    "name": "Służewski Dom Kultury",
    "area": "Mokotów",
    "adapter": "snapshot",
-   "url": "https://sdk.waw.pl/wydarzenia",
+   "url": "https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
@@ -153,7 +153,7 @@
    "name": "Dom Kultury Śródmieście",
    "area": "Śródmieście",
    "adapter": "snapshot",
-   "url": "https://dks.art.pl/",
+   "url": "https://dks.art.pl/wydarzenia",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
@@ -166,7 +166,7 @@
    "name": "Teatr Studio i Galeria Studio",
    "area": "Śródmieście",
    "adapter": "snapshot",
-   "url": "https://teatrstudio.pl/",
+   "url": "https://teatrstudio.pl/pl/repertuar/",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
@@ -179,7 +179,7 @@
    "name": "Muzeum Sztuki Nowoczesnej",
    "area": "Śródmieście",
    "adapter": "snapshot",
-   "url": "https://artmuseum.pl/",
+   "url": "https://artmuseum.pl/program",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",
@@ -192,7 +192,7 @@
    "name": "Filharmonia Narodowa",
    "area": "Śródmieście",
    "adapter": "snapshot",
-   "url": "https://filharmonia.pl/",
+   "url": "https://filharmonia.pl/repertuar",
    "ok": true,
    "last_ok_at": "2026-11-16T22:27+01:00",
    "checked_at": "2026-11-16T22:27+01:00",

@@ -5,7 +5,9 @@ adapter:
   tribe    – WordPress z wtyczką The Events Calendar (gotowe API)
   snapshot – zwykła strona; zapisujemy oczyszczony tekst, a wydarzenia wyciąga z niego AI
 
-pages:    strony z programem do zapisania (dla snapshot) lub odczytu (dla jsonld)
+pages:    strony z programem do zapisania (dla snapshot) lub odczytu (dla jsonld);
+          {m0_start}/{m0_end} i {m1_start}/{m1_end} to pierwszy i ostatni dzień bieżącego i następnego miesiąca
+parser:   nazwa funkcji w collector/parsers.py, gdy stronę da się odczytać bez AI
 discover: słowa w adresie lub opisie linku, po których szukamy podstron z programem
 """
 
@@ -17,18 +19,15 @@ SOURCES = [
     },
     {
         "id": "waw4free", "name": "waw4free", "area": "Warszawa",
-        "adapter": "snapshot", "pages": ["https://waw4free.pl/"],
-        "discover": ["koncert", "impre", "wystaw", "teatr", "spotkan", "warsztat", "kategoria"],
+        "parser": "waw4free", "adapter": "snapshot", "pages": ["https://waw4free.pl/warszawa-darmowe-koncerty", "https://waw4free.pl/warszawa-darmowe-imprezy", "https://waw4free.pl/warszawa-darmowe-teatr", "https://waw4free.pl/warszawa-darmowe-standup", "https://waw4free.pl/warszawa-darmowe-wystawy", "https://waw4free.pl/warszawa-darmowe-spotkania", "https://waw4free.pl/warszawa-darmowe-wyklady", "https://waw4free.pl/warszawa-darmowe-filmy", "https://waw4free.pl/warszawa-darmowe-warsztaty"],
     },
     {
         "id": "muzea", "name": "muzea.waw.pl (wystawy)", "area": "Warszawa",
         "adapter": "snapshot", "pages": ["https://muzea.waw.pl/en/exhibitions/"],
-        "discover": [],
     },
     {
         "id": "alternatywy", "name": "UCK Alternatywy", "area": "Ursynów",
-        "adapter": "snapshot", "pages": ["https://alternatywy.art/"],
-        "discover": ["repertuar", "kalendarz", "program", "wydarzenia"],
+        "parser": "alternatywy", "adapter": "snapshot", "pages": ["https://alternatywy.art/"],
     },
     {
         "id": "terminal", "name": "Terminal Kultury Gocław", "area": "Praga-Południe",
@@ -44,42 +43,34 @@ SOURCES = [
     },
     {
         "id": "nowyteatr", "name": "Nowy Teatr", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://nowyteatr.org/pl/kalendarz"],
-        "discover": ["kalendarz", "program"],
+        "adapter": "snapshot", "pages": ["https://nowyteatr.org/pl/kalendarz?date_from={m0_start}&date_to={m0_end}", "https://nowyteatr.org/pl/kalendarz?date_from={m1_start}&date_to={m1_end}"],
     },
     {
         "id": "kadr", "name": "Dom Kultury Kadr", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://dkkadr.waw.pl/repertuar/", "https://dkkadr.waw.pl/"],
-        "discover": ["repertuar", "kalendarz"],
+        "adapter": "snapshot", "pages": ["https://dkkadr.waw.pl/repertuar/"],
     },
     {
         "id": "sdk", "name": "Służewski Dom Kultury", "area": "Mokotów",
-        "adapter": "snapshot", "pages": ["https://sdk.waw.pl/wydarzenia", "https://sdk.waw.pl/"],
-        "discover": ["wydarzenia", "kalendarz", "repertuar"],
+        "adapter": "snapshot", "pages": ["https://sdk.waw.pl/wydarzenia/dla-kogo/dorosli"],
     },
     {
         "id": "domsztuki", "name": "Dom Sztuki SMB Jary", "area": "Ursynów",
-        "adapter": "snapshot", "pages": ["https://domsztuki.art.pl/"],
-        "discover": ["repertuar", "wydarzenia", "kino", "seanse", "kalendarz"],
+        "adapter": "snapshot", "pages": ["https://domsztuki.art.pl/", "https://domsztuki.art.pl/kino"],
     },
     {
         "id": "dks", "name": "Dom Kultury Śródmieście", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://dks.art.pl/"],
-        "discover": ["kalendarz", "wydarzenia", "program"],
+        "adapter": "snapshot", "pages": ["https://dks.art.pl/wydarzenia"],
     },
     {
         "id": "teatrstudio", "name": "Teatr Studio i Galeria Studio", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://teatrstudio.pl/"],
-        "discover": ["repertuar", "kalendarz", "galeria/wydarzenia", "wydarzenia"],
+        "adapter": "snapshot", "pages": ["https://teatrstudio.pl/pl/repertuar/", "https://teatrstudio.pl/"],
     },
     {
         "id": "msn", "name": "Muzeum Sztuki Nowoczesnej", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://artmuseum.pl/"],
-        "discover": ["wydarzenia", "kalendarz", "program", "wystawy"],
+        "adapter": "snapshot", "pages": ["https://artmuseum.pl/program", "https://artmuseum.pl/wystawy-aktualne"],
     },
     {
         "id": "filharmonia", "name": "Filharmonia Narodowa", "area": "Śródmieście",
-        "adapter": "snapshot", "pages": ["https://filharmonia.pl/"],
-        "discover": ["kalendarz", "koncerty", "repertuar", "program"],
+        "adapter": "snapshot", "pages": ["https://filharmonia.pl/repertuar"],
     },
 ]

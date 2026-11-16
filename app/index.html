@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>EventManager Warszawa</title>
+  <meta name="description" content="Niszowe wydarzenia w Warszawie i okolicach">
+  <meta name="theme-color" content="#12201A">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Public+Sans:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <div>
+        <h1>Perełki</h1>
+        <p class="stamp" id="stamp">Wczytywanie…</p>
+      </div>
+      <button class="icon-btn" id="menu-btn" type="button" aria-label="Menu" aria-haspopup="dialog">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <div class="seg" role="tablist" aria-label="Zakres">
+      <button type="button" role="tab" data-range="week" aria-selected="true">Najbliższy tydzień</button>
+      <button type="button" role="tab" data-range="month" aria-selected="false">30 dni</button>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filtry"></div>
+  </header>
+
+  <div class="banner" id="banner" hidden></div>
+
+  <main id="list" aria-live="polite"></main>
+
+  <section class="extra" id="extra"></section>
+
+  <!-- Arkusz „Nie dla mnie” -->
+  <dialog class="sheet" id="nope">
+    <form method="dialog" class="sheet-body" id="nope-form">
+      <h2>Nie interesuje mnie</h2>
+      <p class="sheet-title" id="nope-title"></p>
+      <div class="opts" id="nope-opts"></div>
+      <label class="field">Powód (opcjonalnie)
+        <input type="text" id="nope-why" placeholder="np. za głośno, nie lubię tego miejsca">
+      </label>
+      <div class="sheet-actions">
+        <button type="submit" value="cancel" class="btn ghost">Anuluj</button>
+        <button type="submit" value="ok" class="btn primary">Ukryj</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Menu -->
+  <dialog class="sheet" id="menu">
+    <div class="sheet-body">
+      <div class="sheet-head">
+        <h2 id="menu-h">Menu</h2>
+        <button class="icon-btn" type="button" data-close aria-label="Zamknij">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <div id="menu-content"></div>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

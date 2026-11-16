@@ -17,7 +17,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import rules
+from . import parsers, rules
 from .sources import SOURCES
 from .structured import norm_dt
 
@@ -41,6 +41,13 @@ def title_in_snapshot(title: str, snap_folded: str) -> bool:
         return fold(title) in snap_folded
     hits = sum(1 for w in words if w in snap_folded)
     return hits >= max(1, int(len(words) * 0.6 + 0.5))
+
+
+def tidy_price(p: str) -> str:
+    p = re.sub(r"zł\s*(\d[\d.,]*)", r"\1 zł", p or "")   # „zł40” -> „40 zł”
+    p = re.sub(r"(\d)\s*PLN", r"\1 zł", p)
+    p = re.sub(r"(\d+)[.,](\d{2}) zł", lambda m: m.group(1) + (f",{m.group(2)}" if m.group(2) != "00" else "") + " zł", p)
+    return re.sub(r"\s+", " ", p).strip()
 
 
 def load_json(p: Path, default):
@@ -67,7 +74,7 @@ def normalize(src: dict, e: dict, kind: str) -> dict | None:
             t = None
     if not d and not d_to:
         return None
-    price = (e.get("price") or "").strip()
+    price = tidy_price(e.get("price") or "")
     text = " ".join(str(x) for x in [title, e.get("description", ""), " ".join(e.get("categories") or [])])
     tags, cat = rules.classify(text)
     if e.get("category"):
@@ -75,7 +82,8 @@ def normalize(src: dict, e: dict, kind: str) -> dict | None:
     for t2 in e.get("tags") or []:
         if t2 not in tags:
             tags.append(t2)
-    ongoing = bool(d_to and d_from and d_to > d_from and (
+    explicit_range = bool(e.get("date_to"))
+    ongoing = bool(d_to and d_from and (d_to > d_from or explicit_range) and (explicit_range or
         "wystawa" in tags or cat == "Wystawy" or (date.fromisoformat(d_to) - date.fromisoformat(d_from)).days > 6))
     ev = {
         "title": title,
@@ -83,7 +91,7 @@ def normalize(src: dict, e: dict, kind: str) -> dict | None:
         "time": t if (t and re.match(r"^\d{2}:\d{2}$", t)) else None,
         "date_to": d_to if ongoing else None,
         "ongoing": ongoing,
-        "venue": (e.get("venue") or "").strip(),
+        "venue": (e.get("venue") or "").strip() or (src["name"] if src["adapter"] == "tribe" else ""),
         "address": (e.get("address") or "").strip(),
         "area": e.get("area") or src.get("area", ""),
         "price": price,
@@ -121,7 +129,12 @@ def main() -> None:
         for e in load_json(DATA / "raw" / f"{sid}.json", []):
             items.append((e, "dane strukturalne"))
         snap_p = DATA / "snapshots" / f"{sid}.md"
-        snap = fold(snap_p.read_text(encoding="utf-8")) if snap_p.exists() else ""
+        snap_raw = snap_p.read_text(encoding="utf-8") if snap_p.exists() else ""
+        snap = fold(snap_raw)
+        if src.get("parser") and snap_raw:
+            collected = date.fromisoformat((status.get(sid, {}).get("checked_at") or today.isoformat())[:10])
+            for e in getattr(parsers, src["parser"])(snap_raw, collected):
+                items.append((e, "parser strony"))
         ext = load_json(DATA / "extracted" / f"{sid}.json", {})
         for e in ext.get("events", []) if isinstance(ext, dict) else ext:
             items.append((e, "AI z migawki"))
@@ -141,6 +154,8 @@ def main() -> None:
             ev["day_off"] = rules.day_off(d) if not ev["ongoing"] else None
             # wykluczenia treści (tytuł + opis, bez nazwy miejsca)
             why = rules.exclusion(text)
+            if not why and rules.commercial(ev["title"], ev["venue"] + " " + ev["address"]):
+                why = "komercyjne"
             if why:
                 ev["excluded"] = why
                 excluded.append(ev)

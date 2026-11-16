@@ -45,6 +45,17 @@ def discover(f: Fetcher, src: dict, html: str, base: str) -> list[str]:
     return [u for u in found if u.rstrip("/") not in [p.rstrip("/") for p in src["pages"]]][:MAX_DISCOVERED]
 
 
+def expand(url: str, today) -> str:
+    """Podstawia pierwszy/ostatni dzień bieżącego ({m0_*}) i następnego ({m1_*}) miesiąca."""
+    m0 = today.replace(day=1)
+    m1 = (m0 + timedelta(days=32)).replace(day=1)
+    m2 = (m1 + timedelta(days=32)).replace(day=1)
+    return url.format(
+        m0_start=m0.isoformat(), m0_end=(m1 - timedelta(days=1)).isoformat(),
+        m1_start=m1.isoformat(), m1_end=(m2 - timedelta(days=1)).isoformat(),
+    )
+
+
 def run_source(src: dict, f: Fetcher) -> dict:
     today = datetime.now(TZ).date()
     status = {"id": src["id"], "name": src["name"], "adapter": src["adapter"], "pages": [], "ok": False}
@@ -55,7 +66,7 @@ def run_source(src: dict, f: Fetcher) -> dict:
             (DATA / "raw" / f"{src['id']}.json").write_text(json.dumps(evs, ensure_ascii=False, indent=1), encoding="utf-8")
             return status
 
-        pages = list(src["pages"])
+        pages = [expand(u, today) for u in src["pages"]]
         texts, evs, links_all = [], [], []
         i = 0
         while i < len(pages):
