@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-17T00:07+01:00",
+ "collected_at": "2026-11-17T00:11+01:00",
  "sources": [
   {
    "id": "kulturalnie",
@@ -9,23 +9,11 @@
     {
      "url": "https://kulturalnie.waw.pl/",
      "ok": true
-    },
-    {
-     "url": "https://kulturalnie.waw.pl/wydarzenia",
-     "ok": true
-    },
-    {
-     "url": "https://kulturalnie.waw.pl/wydarzenia/",
-     "ok": true
-    },
-    {
-     "url": "https://kulturalnie.waw.pl/wydarzenia/dzieci/",
-     "ok": true
     }
    ],
-   "ok": true,
-   "events": 54,
-   "checked_at": "2026-11-17T00:07+01:00",
+   "ok": false,
+   "events": 0,
+   "checked_at": "2026-11-17T00:11+01:00",
    "last_ok_at": "2026-11-17T00:07+01:00",
    "changed": null
   },
@@ -72,10 +60,10 @@
     }
    ],
    "ok": true,
-   "chars": 189510,
-   "hash": "e1aab3cf7f45e458",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "chars": 189502,
+   "hash": "af89e9b1ee389f6a",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": true
   },
   {
@@ -93,11 +81,11 @@
     }
    ],
    "ok": true,
-   "chars": 60093,
-   "hash": "c4c77aab3b873ce9",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
-   "changed": false
+   "chars": 167,
+   "hash": "9a0e822c491dc6a0",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
+   "changed": true
   },
   {
    "id": "alternatywy",
@@ -112,8 +100,8 @@
    "ok": true,
    "chars": 19282,
    "hash": "551b7518ebcd1751",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -123,8 +111,8 @@
    "pages": [],
    "ok": true,
    "events": 39,
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": null
   },
   {
@@ -134,8 +122,8 @@
    "pages": [],
    "ok": true,
    "events": 16,
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": null
   },
   {
@@ -145,8 +133,8 @@
    "pages": [],
    "ok": true,
    "events": 92,
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": null
   },
   {
@@ -166,8 +154,8 @@
    "ok": true,
    "chars": 7944,
    "hash": "f8d77afd3783f993",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -183,8 +171,8 @@
    "ok": true,
    "chars": 10099,
    "hash": "800c2d55d0c1f8fc",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -200,8 +188,8 @@
    "ok": true,
    "chars": 15085,
    "hash": "ef094c7e653d8acb",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -217,8 +205,8 @@
    "ok": true,
    "chars": 4604,
    "hash": "13b0260c580ec834",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -238,8 +226,8 @@
    "ok": true,
    "chars": 24773,
    "hash": "1fe4cd3741e15e39",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -255,8 +243,8 @@
    "ok": true,
    "chars": 10424,
    "hash": "87402e0a029b521b",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   },
   {
@@ -272,8 +260,8 @@
    "ok": true,
    "chars": 4247,
    "hash": "d93d3cf250be0b2d",
-   "checked_at": "2026-11-17T00:07+01:00",
-   "last_ok_at": "2026-11-17T00:07+01:00",
+   "checked_at": "2026-11-17T00:11+01:00",
+   "last_ok_at": "2026-11-17T00:11+01:00",
    "changed": false
   }
  ]
