@@ -159,8 +159,5 @@ textarea { min-height: 120px; font-size: 13px; }
 /* weekend: wyraźniejszy nagłówek dnia */
 .day.weekend .day-h { color: var(--wk-ink); }
 .day.weekend .day-h::before { content: ""; width: 4px; align-self: stretch; border-radius: 2px; background: var(--wk); }
-.day.weekend .card { border-left: 3px solid var(--wk); }
 
-.day.weekend .card { background: var(--wk-bg); border-color: var(--wk-line); border-left: 4px solid var(--wk); }
 .day.weekend .time:not(.none), .day.weekend .title { color: var(--wk-ink); }
-.day.weekend .cat { color: var(--wk-ink); }
